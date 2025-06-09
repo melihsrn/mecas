@@ -147,8 +147,11 @@ def suggest_vcs_for_industry(G, industry_name, top_n=5):
     startups_in_industry = set()
     for u, v, data in G.edges(data=True):
         if data.get("type") == "IN_INDUSTRY":
-            if v == industry_name:
+            # Check if the edge connects a Startup to the desired industry
+            if G.nodes[u].get("type") == "Startup" and v == industry_name:
                 startups_in_industry.add(u)
+            elif G.nodes[v].get("type") == "Startup" and u == industry_name:
+                startups_in_industry.add(v)
 
     if not startups_in_industry:
         print(f"No startups found in industry: {industry_name}")
@@ -156,7 +159,7 @@ def suggest_vcs_for_industry(G, industry_name, top_n=5):
 
     # Count how many times each VC invested in those startups
     vc_counter = {}
-    for vc, startup, data in G.edges(data=True):
+    for startup, vc, data in G.edges(data=True):
         if data.get("type") == "INVESTED" and startup in startups_in_industry:
             if G.nodes[vc].get("type") == "Venture_Capital":
                 vc_name = G.nodes[vc].get("name", vc)
