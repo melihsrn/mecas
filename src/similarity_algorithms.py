@@ -278,8 +278,7 @@ def run_simrank_similarity_pipeline(taskname):
         print(f"\nTop similar nodes to '{example_name}' in '{taskname}':")
         similar = top_n_similar(G_sub, similarity, example_name)
 
-        for node_id, score in similar:
-            name = G_sub.nodes[node_id].get("name", node_id)
+        for name, score in similar:
             print(f"{name}: {score:.3f}")
     
     return similarity
