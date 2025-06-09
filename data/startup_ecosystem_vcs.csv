@@ -1,0 +1,151 @@
+id,name,location,founded_year,aum,investment_stage,focus_industries,geographic_focus,check_size_min,check_size_max,portfolio_size
+vc_0,Williams Ventures,Philadelphia,1997,662000000,Seed,"['MarTech', 'HRTech']",Global,414000,29000000,101
+vc_1,York Capital,Austin,2018,2379000000,Series B,"['AgriTech', 'IoT', 'MarTech', 'Blockchain', 'InsurTech', 'PropTech']",International,364000,10000000,37
+vc_2,Miller Ventures,Washington DC,2011,2166000000,Pre-seed,"['E-commerce', 'Cybersecurity', 'AI/ML', 'MarTech', 'CleanTech', 'HRTech']",East Coast,325000,40000000,73
+vc_3,Williams Fund,Austin,1991,4236000000,Series A,"['AgriTech', 'SaaS', 'AI/ML', 'FinTech', 'E-commerce']",International,290000,2000000,24
+vc_4,Casey Labs,Austin,2005,3476000000,Series B,"['FinTech', 'LegalTech']",International,447000,48000000,21
+vc_5,Henderson Partners,Seattle,1987,4146000000,Series B,"['HRTech', 'Blockchain', 'HealthTech', 'MarTech']",Global,410000,46000000,168
+vc_6,Jones Ventures,Seattle,1998,2948000000,Series B,"['Blockchain', 'FoodTech', 'E-commerce', 'LegalTech']",Global,236000,35000000,177
+vc_7,Data Capital,Boston,2016,2792000000,Multi-stage,"['CleanTech', 'Blockchain']",US,177000,42000000,165
+vc_8,Mcguire Equity,Phoenix,1987,516000000,Seed,"['FoodTech', 'SaaS', 'IoT', 'PropTech']",Global,368000,21000000,102
+vc_9,Founders Taylor,Portland,2014,3826000000,Series A,"['MarTech', 'CleanTech', 'Gaming', 'Blockchain']",International,304000,21000000,88
+vc_10,Fusion Capital,New York,2005,3423000000,Series B,"['SaaS', 'IoT']",US,130000,34000000,190
+vc_11,Cyber Ventures,Boston,1987,340000000,Series B,"['LegalTech', 'SaaS']",US,224000,2000000,40
+vc_12,Obrien Capital,Atlanta,1985,3475000000,Growth,"['IoT', 'CleanTech', 'LegalTech', 'HealthTech', 'InsurTech', 'FinTech']",US,128000,1000000,194
+vc_13,Founders Ellis,Boston,2012,3826000000,Series B,"['AgriTech', 'LegalTech', 'FinTech', 'MarTech', 'SaaS', 'IoT']",West Coast,377000,46000000,158
+vc_14,Jones Capital,New York,2017,743000000,Seed,"['HealthTech', 'FinTech', 'Blockchain', 'HRTech', 'Gaming']",East Coast,443000,23000000,103
+vc_15,Johnson Capital,Austin,2005,2039000000,Multi-stage,"['FinTech', 'HRTech', 'HealthTech']",East Coast,148000,38000000,162
+vc_16,Rapid Capital,Portland,1994,4496000000,Series A,"['SaaS', 'AgriTech', 'Blockchain']",US,199000,49000000,178
+vc_17,Hart Ventures,Atlanta,1984,3642000000,Series A,"['AI/ML', 'E-commerce', 'Blockchain', 'HealthTech', 'FoodTech', 'InsurTech']",Global,215000,31000000,102
+vc_18,Smart Partners,Denver,1999,4872000000,Pre-seed,"['MarTech', 'AgriTech', 'AI/ML']",International,470000,17000000,93
+vc_19,Coffey Capital,Denver,1982,202000000,Pre-seed,"['IoT', 'SaaS', 'FoodTech', 'HealthTech']",Global,407000,8000000,59
+vc_20,Apex Partners,New York,2003,3866000000,Series A,"['AgriTech', 'CleanTech', 'Blockchain']",Global,98000,27000000,183
+vc_21,Meta Ventures,Portland,2012,2687000000,Seed,"['Blockchain', 'InsurTech', 'AgriTech']",East Coast,316000,7000000,120
+vc_22,Johnson Capital,Nashville,1996,4648000000,Series B,"['IoT', 'Gaming', 'Blockchain', 'MarTech', 'LegalTech', 'EdTech']",US,42000,50000000,94
+vc_23,Cloud Ventures,San Francisco,2002,1738000000,Series B,"['FoodTech', 'AI/ML', 'InsurTech', 'Gaming']",US,189000,50000000,98
+vc_24,Haney Capital,Nashville,2006,308000000,Series B,"['LegalTech', 'PropTech', 'Gaming', 'SaaS', 'MarTech']",Global,178000,13000000,149
+vc_25,Moore Labs,Seattle,1990,4489000000,Series A,"['InsurTech', 'FinTech', 'AI/ML', 'FoodTech']",International,161000,14000000,198
+vc_26,Apex Capital,New York,2004,1725000000,Seed,"['Gaming', 'AgriTech', 'FoodTech']",West Coast,69000,26000000,167
+vc_27,Douglas Accelerator,Portland,2000,74000000,Series B,"['HRTech', 'FinTech', 'EdTech']",US,73000,25000000,64
+vc_28,Howell Ventures,Miami,1998,758000000,Growth,"['CleanTech', 'MarTech', 'Gaming', 'InsurTech']",US,108000,34000000,80
+vc_29,Prime Ventures,Boston,2020,1955000000,Series B,"['HRTech', 'CleanTech']",US,271000,10000000,189
+vc_30,Neural Partners,San Francisco,2005,2596000000,Growth,"['PropTech', 'HRTech', 'LegalTech', 'FoodTech', 'InsurTech', 'HealthTech']",West Coast,169000,22000000,114
+vc_31,Black Accelerator,Phoenix,2014,1932000000,Seed,"['FoodTech', 'CleanTech']",Global,453000,1000000,150
+vc_32,Rapid Partners,Atlanta,1994,823000000,Series B,"['MarTech', 'Cybersecurity', 'IoT']",East Coast,42000,43000000,23
+vc_33,Miller Capital,Seattle,2008,4291000000,Seed,"['CleanTech', 'HealthTech', 'LegalTech', 'FinTech', 'InsurTech', 'Cybersecurity']",West Coast,419000,32000000,136
+vc_34,Johnson Labs,Chicago,1997,4911000000,Multi-stage,"['EdTech', 'Cybersecurity', 'PropTech', 'Gaming', 'InsurTech']",West Coast,97000,36000000,78
+vc_35,Solis Capital,Chicago,2008,3199000000,Pre-seed,"['FoodTech', 'MarTech', 'FinTech', 'CleanTech', 'E-commerce', 'EdTech']",US,215000,33000000,44
+vc_36,Lewis Fund,Dallas,2013,2986000000,Seed,"['AgriTech', 'MarTech']",US,177000,8000000,77
+vc_37,Founders Arnold,Dallas,1995,3501000000,Growth,"['AgriTech', 'HRTech', 'FoodTech', 'FinTech', 'MarTech']",US,398000,47000000,196
+vc_38,Stephenson Fund,Boston,2009,3025000000,Multi-stage,"['MarTech', 'LegalTech', 'Cybersecurity']",West Coast,317000,41000000,194
+vc_39,Oneill Equity,Miami,2015,3324000000,Multi-stage,"['EdTech', 'HealthTech', 'AgriTech']",US,72000,22000000,25
+vc_40,Galvan Partners,Seattle,2018,3930000000,Seed,"['EdTech', 'FinTech', 'PropTech', 'MarTech']",Global,73000,13000000,155
+vc_41,Ramirez Ventures,Portland,1996,3256000000,Series A,"['CleanTech', 'Cybersecurity']",Global,306000,12000000,159
+vc_42,Reyes Equity,Los Angeles,1992,357000000,Multi-stage,"['HealthTech', 'SaaS', 'E-commerce', 'LegalTech', 'MarTech']",Global,464000,36000000,39
+vc_43,Data Partners,Nashville,2015,885000000,Multi-stage,"['IoT', 'Gaming', 'Blockchain', 'SaaS', 'Cybersecurity']",East Coast,73000,39000000,138
+vc_44,Quantum Ventures,Portland,2020,2166000000,Multi-stage,"['HealthTech', 'FinTech']",US,495000,32000000,85
+vc_45,Peterson Accelerator,San Francisco,2001,1360000000,Pre-seed,"['CleanTech', 'EdTech', 'E-commerce', 'MarTech', 'Cybersecurity', 'InsurTech']",Global,242000,23000000,71
+vc_46,Gates Partners,Seattle,2020,472000000,Seed,"['InsurTech', 'MarTech', 'CleanTech', 'HealthTech', 'Cybersecurity']",Global,67000,34000000,191
+vc_47,Marks Ventures,Portland,2017,2021000000,Series B,"['Blockchain', 'FoodTech', 'IoT', 'FinTech']",East Coast,238000,20000000,22
+vc_48,Neural Capital,Portland,2003,1773000000,Series B,"['AI/ML', 'Cybersecurity', 'LegalTech', 'CleanTech', 'InsurTech']",International,170000,12000000,178
+vc_49,Meta Capital,Portland,1988,4976000000,Multi-stage,"['Cybersecurity', 'FoodTech', 'AI/ML', 'SaaS', 'EdTech', 'HealthTech']",US,234000,6000000,159
+vc_50,Cortez Ventures,San Diego,2007,736000000,Series A,"['MarTech', 'FinTech', 'SaaS', 'HealthTech', 'Blockchain']",International,379000,44000000,168
+vc_51,Carter Ventures,Austin,2001,3666000000,Series B,"['PropTech', 'HealthTech', 'SaaS', 'IoT', 'FoodTech', 'Gaming']",Global,307000,40000000,24
+vc_52,Williams Partners,Washington DC,1997,1524000000,Growth,"['Gaming', 'FinTech']",International,262000,28000000,78
+vc_53,Mckay Capital,Boston,2009,1191000000,Multi-stage,"['FinTech', 'MarTech', 'SaaS', 'Blockchain']",West Coast,457000,50000000,136
+vc_54,Apex Ventures,Los Angeles,1997,3824000000,Series A,"['IoT', 'EdTech', 'FinTech', 'Gaming', 'HRTech']",West Coast,27000,11000000,185
+vc_55,Data Capital,San Diego,2003,4011000000,Pre-seed,"['IoT', 'Cybersecurity', 'PropTech']",West Coast,350000,38000000,160
+vc_56,Wilson Partners,Boston,1998,996000000,Seed,"['MarTech', 'FoodTech', 'InsurTech', 'CleanTech']",West Coast,373000,42000000,135
+vc_57,Castillo Partners,Phoenix,2003,3423000000,Pre-seed,"['InsurTech', 'IoT', 'SaaS', 'AI/ML', 'Blockchain']",East Coast,237000,50000000,62
+vc_58,Young Equity,Washington DC,2008,41000000,Seed,"['InsurTech', 'AgriTech', 'PropTech', 'Blockchain', 'FoodTech']",US,472000,3000000,42
+vc_59,Founders Kirk,Portland,2015,3649000000,Growth,"['AgriTech', 'IoT', 'CleanTech', 'EdTech', 'HealthTech', 'FoodTech']",US,466000,13000000,129
+vc_60,Prime Ventures,Phoenix,2018,1503000000,Series A,"['MarTech', 'FoodTech', 'IoT', 'CleanTech', 'Cybersecurity', 'EdTech']",West Coast,241000,12000000,151
+vc_61,Founders Day,New York,2016,3840000000,Series B,"['CleanTech', 'PropTech', 'InsurTech', 'MarTech', 'AI/ML', 'AgriTech']",International,444000,15000000,42
+vc_62,Founders Wolf,Dallas,2019,3932000000,Growth,"['HRTech', 'InsurTech', 'LegalTech', 'CleanTech']",US,335000,49000000,118
+vc_63,Ball Labs,Atlanta,2011,1127000000,Pre-seed,"['PropTech', 'InsurTech', 'FoodTech', 'Blockchain', 'AgriTech']",East Coast,422000,28000000,140
+vc_64,Prime Partners,Austin,1994,216000000,Pre-seed,"['LegalTech', 'CleanTech', 'FinTech', 'IoT', 'FoodTech', 'SaaS']",East Coast,38000,14000000,121
+vc_65,Founders Rodriguez,New York,2013,1218000000,Pre-seed,"['Cybersecurity', 'AgriTech', 'InsurTech', 'HRTech', 'Blockchain']",International,250000,13000000,34
+vc_66,Founders Taylor,San Francisco,2017,2320000000,Series A,"['PropTech', 'Cybersecurity', 'LegalTech', 'Gaming', 'FinTech', 'HealthTech']",US,240000,3000000,117
+vc_67,Riley Ventures,Miami,2008,1178000000,Pre-seed,"['FinTech', 'SaaS', 'HRTech']",International,169000,13000000,152
+vc_68,Hart Accelerator,Dallas,1988,2684000000,Series A,"['HealthTech', 'LegalTech', 'FoodTech', 'HRTech']",West Coast,315000,41000000,180
+vc_69,Washington Fund,Seattle,1993,4262000000,Pre-seed,"['HRTech', 'EdTech', 'FoodTech', 'E-commerce', 'HealthTech', 'LegalTech']",International,399000,41000000,115
+vc_70,Secure Partners,Nashville,1991,1867000000,Series B,"['FoodTech', 'HealthTech', 'SaaS']",West Coast,477000,13000000,103
+vc_71,Nguyen Partners,Atlanta,2011,854000000,Multi-stage,"['Gaming', 'HealthTech', 'HRTech']",Global,204000,10000000,24
+vc_72,Norris Labs,Austin,2020,1782000000,Series A,"['IoT', 'Gaming', 'SaaS']",International,288000,46000000,97
+vc_73,Robinson Partners,San Francisco,1993,1976000000,Series B,"['Blockchain', 'InsurTech', 'E-commerce', 'MarTech', 'EdTech']",East Coast,484000,25000000,91
+vc_74,Page Ventures,Denver,2007,1514000000,Series B,"['FoodTech', 'AI/ML', 'Gaming']",International,316000,19000000,70
+vc_75,Campbell Fund,Chicago,2003,704000000,Pre-seed,"['IoT', 'Blockchain', 'MarTech', 'Cybersecurity', 'SaaS']",Global,292000,25000000,184
+vc_76,Founders Anderson,Boston,1982,402000000,Series A,"['Cybersecurity', 'IoT', 'HealthTech']",East Coast,230000,48000000,42
+vc_77,Cloud Capital,Phoenix,1997,3432000000,Seed,"['SaaS', 'LegalTech', 'E-commerce', 'FinTech', 'PropTech']",Global,195000,25000000,167
+vc_78,Smart Capital,Chicago,1991,148000000,Multi-stage,"['PropTech', 'Gaming', 'MarTech']",International,496000,33000000,74
+vc_79,Harris Labs,Phoenix,1986,1582000000,Series A,"['SaaS', 'HRTech', 'LegalTech']",US,448000,35000000,121
+vc_80,Collins Equity,Nashville,2019,4732000000,Growth,"['AgriTech', 'IoT', 'E-commerce']",International,33000,2000000,50
+vc_81,Burns Capital,San Diego,1996,1707000000,Seed,"['LegalTech', 'IoT', 'CleanTech', 'SaaS', 'EdTech', 'E-commerce']",East Coast,349000,50000000,176
+vc_82,Vargas Labs,Nashville,2013,1791000000,Multi-stage,"['EdTech', 'AI/ML']",International,387000,18000000,84
+vc_83,Quantum Ventures,Los Angeles,1988,1549000000,Growth,"['Cybersecurity', 'PropTech', 'IoT']",East Coast,288000,47000000,30
+vc_84,Jimenez Equity,New York,2000,4507000000,Seed,"['SaaS', 'Blockchain', 'LegalTech']",East Coast,173000,50000000,139
+vc_85,Fusion Partners,Phoenix,1994,1744000000,Growth,"['HealthTech', 'LegalTech', 'AgriTech', 'SaaS']",US,467000,50000000,56
+vc_86,Mills Equity,Chicago,2012,1746000000,Seed,"['IoT', 'Gaming', 'EdTech', 'HealthTech', 'E-commerce']",US,343000,6000000,73
+vc_87,Quantum Capital,San Francisco,2020,3779000000,Series A,"['FinTech', 'HRTech', 'Cybersecurity', 'SaaS']",West Coast,238000,42000000,99
+vc_88,Henry Labs,Chicago,2003,1759000000,Series A,"['HRTech', 'Blockchain', 'Cybersecurity', 'IoT', 'E-commerce', 'HealthTech']",International,88000,33000000,103
+vc_89,Founders Mitchell,Austin,2006,983000000,Multi-stage,"['SaaS', 'AI/ML', 'E-commerce', 'HealthTech', 'InsurTech']",Global,257000,7000000,141
+vc_90,Apex Ventures,Nashville,2017,2286000000,Growth,"['Cybersecurity', 'FoodTech']",Global,136000,27000000,154
+vc_91,Neural Partners,Dallas,2015,2911000000,Series B,"['IoT', 'Gaming', 'HRTech', 'AgriTech']",East Coast,364000,50000000,92
+vc_92,Miller Fund,Boston,2020,4044000000,Pre-seed,"['Blockchain', 'E-commerce', 'SaaS']",Global,323000,14000000,185
+vc_93,Wallace Equity,Seattle,2010,3545000000,Multi-stage,"['FinTech', 'IoT', 'AgriTech']",West Coast,476000,3000000,148
+vc_94,Baxter Fund,San Diego,2007,2087000000,Seed,"['CleanTech', 'AI/ML']",East Coast,247000,25000000,155
+vc_95,Meta Partners,Washington DC,2003,3056000000,Series A,"['Blockchain', 'CleanTech', 'SaaS', 'MarTech', 'HealthTech', 'HRTech']",International,344000,32000000,46
+vc_96,Green Accelerator,San Francisco,1992,2757000000,Series B,"['E-commerce', 'Gaming', 'SaaS', 'Blockchain']",West Coast,240000,23000000,84
+vc_97,Madden Partners,San Francisco,2010,4840000000,Multi-stage,"['SaaS', 'Blockchain']",International,236000,28000000,33
+vc_98,Jackson Partners,Nashville,2010,477000000,Series A,"['LegalTech', 'SaaS', 'FoodTech']",East Coast,339000,42000000,79
+vc_99,Founders Rice,New York,1995,2996000000,Seed,"['MarTech', 'Cybersecurity', 'FinTech', 'AI/ML', 'AgriTech', 'FoodTech']",East Coast,313000,47000000,142
+vc_100,Kramer Ventures,Denver,2005,2354000000,Growth,"['HealthTech', 'SaaS', 'InsurTech']",Global,416000,32000000,62
+vc_101,Prime Ventures,San Francisco,1990,1209000000,Series B,"['SaaS', 'EdTech']",West Coast,172000,28000000,91
+vc_102,Smart Ventures,Miami,2006,4600000000,Series A,"['CleanTech', 'SaaS', 'IoT', 'E-commerce', 'AI/ML', 'FoodTech']",West Coast,190000,39000000,87
+vc_103,Apex Partners,Austin,1984,35000000,Seed,"['HealthTech', 'InsurTech', 'Gaming', 'HRTech']",International,372000,7000000,126
+vc_104,Lopez Labs,Washington DC,1997,3566000000,Pre-seed,"['MarTech', 'Gaming', 'FoodTech', 'LegalTech', 'HRTech', 'FinTech']",US,346000,23000000,149
+vc_105,Lee Partners,Chicago,1989,2914000000,Seed,"['HealthTech', 'FoodTech', 'FinTech', 'HRTech', 'InsurTech', 'PropTech']",Global,34000,12000000,189
+vc_106,Global Partners,Boston,1997,2478000000,Series B,"['FinTech', 'HRTech', 'EdTech', 'FoodTech', 'Cybersecurity', 'SaaS']",US,67000,10000000,121
+vc_107,Founders Henson,Chicago,2019,2334000000,Seed,"['HRTech', 'AI/ML']",US,179000,47000000,68
+vc_108,Smith Accelerator,Atlanta,2017,2524000000,Series B,"['FoodTech', 'HealthTech', 'MarTech', 'E-commerce']",International,367000,9000000,143
+vc_109,Lopez Capital,Los Angeles,1981,4941000000,Seed,"['FinTech', 'HealthTech', 'PropTech', 'EdTech', 'AI/ML']",US,99000,38000000,23
+vc_110,Founders Cruz,Denver,1999,4346000000,Series A,"['Blockchain', 'CleanTech', 'HRTech']",East Coast,109000,9000000,199
+vc_111,Stewart Labs,Nashville,2014,2745000000,Multi-stage,"['AgriTech', 'FoodTech']",International,293000,41000000,151
+vc_112,Pace Ventures,New York,2002,378000000,Series B,"['MarTech', 'FinTech', 'InsurTech']",East Coast,216000,5000000,98
+vc_113,Black Equity,Nashville,2012,1503000000,Series B,"['EdTech', 'IoT', 'Gaming']",East Coast,85000,45000000,183
+vc_114,Johnson Partners,Washington DC,2001,2310000000,Seed,"['FoodTech', 'AgriTech', 'CleanTech', 'MarTech']",US,242000,10000000,155
+vc_115,Newton Partners,Washington DC,2003,1784000000,Series A,"['LegalTech', 'Blockchain', 'MarTech', 'Gaming', 'E-commerce']",Global,467000,22000000,136
+vc_116,Contreras Capital,San Diego,1999,944000000,Multi-stage,"['PropTech', 'FoodTech']",International,476000,49000000,161
+vc_117,Barnes Partners,Phoenix,2007,98000000,Multi-stage,"['EdTech', 'InsurTech', 'Gaming']",International,489000,18000000,138
+vc_118,Vertex Ventures,Atlanta,2018,2546000000,Multi-stage,"['AgriTech', 'PropTech', 'FinTech', 'Gaming', 'MarTech']",Global,266000,45000000,178
+vc_119,Patrick Ventures,Boston,1985,4332000000,Pre-seed,"['Blockchain', 'HRTech', 'LegalTech', 'FinTech', 'FoodTech', 'MarTech']",East Coast,31000,34000000,98
+vc_120,Davis Partners,San Diego,2009,495000000,Series B,"['InsurTech', 'AgriTech', 'Blockchain', 'CleanTech', 'SaaS']",Global,486000,39000000,134
+vc_121,Gill Capital,Phoenix,1995,4355000000,Series A,"['IoT', 'HRTech']",International,265000,31000000,190
+vc_122,Terry Capital,Atlanta,2016,303000000,Series A,"['MarTech', 'Gaming', 'SaaS', 'PropTech']",International,123000,50000000,157
+vc_123,Cloud Capital,Austin,1999,3121000000,Multi-stage,"['LegalTech', 'IoT', 'HealthTech', 'Cybersecurity', 'HRTech']",Global,72000,20000000,51
+vc_124,Meta Capital,Denver,1994,3398000000,Series B,"['FoodTech', 'CleanTech', 'Cybersecurity', 'Blockchain']",West Coast,328000,31000000,171
+vc_125,Poole Ventures,Miami,2011,1511000000,Multi-stage,"['IoT', 'Cybersecurity', 'LegalTech', 'AgriTech']",US,200000,37000000,76
+vc_126,Infinite Partners,San Francisco,1982,4627000000,Growth,"['FinTech', 'AI/ML', 'E-commerce', 'FoodTech']",US,332000,3000000,152
+vc_127,Johnston Labs,Washington DC,2010,2567000000,Growth,"['AgriTech', 'Cybersecurity', 'EdTech']",West Coast,474000,10000000,116
+vc_128,Willis Partners,Washington DC,1984,703000000,Series B,"['Gaming', 'AI/ML', 'SaaS', 'Blockchain', 'EdTech', 'InsurTech']",West Coast,358000,33000000,80
+vc_129,Vargas Equity,Los Angeles,2008,1105000000,Seed,"['AgriTech', 'SaaS', 'HealthTech']",International,77000,19000000,65
+vc_130,Henry Accelerator,Chicago,2013,1191000000,Seed,"['MarTech', 'IoT']",US,179000,34000000,84
+vc_131,Schroeder Fund,Seattle,2003,3251000000,Series A,"['Gaming', 'FoodTech']",US,215000,18000000,32
+vc_132,Meta Capital,Phoenix,2014,1060000000,Series B,"['FinTech', 'Cybersecurity', 'MarTech', 'Blockchain', 'CleanTech']",West Coast,230000,32000000,95
+vc_133,Knight Fund,San Diego,2007,1779000000,Seed,"['LegalTech', 'Gaming', 'E-commerce', 'InsurTech', 'IoT', 'CleanTech']",Global,243000,4000000,111
+vc_134,Williams Accelerator,Nashville,2010,776000000,Growth,"['AI/ML', 'InsurTech']",Global,157000,42000000,69
+vc_135,Finley Labs,Washington DC,1986,2128000000,Series B,"['FinTech', 'IoT', 'AgriTech', 'Blockchain', 'CleanTech']",West Coast,435000,44000000,31
+vc_136,Fusion Ventures,Nashville,2005,1756000000,Growth,"['FinTech', 'HealthTech', 'InsurTech', 'EdTech']",East Coast,198000,29000000,64
+vc_137,Johnson Equity,Austin,1987,2141000000,Multi-stage,"['SaaS', 'E-commerce', 'MarTech', 'Blockchain', 'EdTech', 'Cybersecurity']",West Coast,294000,43000000,192
+vc_138,Thomas Fund,Denver,2009,1390000000,Multi-stage,"['CleanTech', 'HRTech']",East Coast,328000,29000000,57
+vc_139,Fusion Partners,New York,1986,1366000000,Pre-seed,"['HRTech', 'PropTech', 'Blockchain', 'FinTech']",West Coast,71000,7000000,93
+vc_140,Smart Capital,San Diego,1997,4984000000,Pre-seed,"['E-commerce', 'HealthTech', 'Cybersecurity', 'LegalTech']",West Coast,271000,34000000,34
+vc_141,Founders Harris,San Francisco,2010,1441000000,Multi-stage,"['Gaming', 'InsurTech', 'AI/ML', 'HRTech', 'PropTech']",US,380000,16000000,61
+vc_142,Taylor Capital,Seattle,2005,3370000000,Series A,"['E-commerce', 'CleanTech']",International,113000,48000000,184
+vc_143,Singh Ventures,Chicago,2014,1081000000,Multi-stage,"['HealthTech', 'HRTech', 'FoodTech', 'SaaS', 'Blockchain']",West Coast,115000,4000000,191
+vc_144,Fusion Partners,Boston,2006,3668000000,Multi-stage,"['CleanTech', 'IoT']",East Coast,399000,42000000,137
+vc_145,Martinez Partners,Miami,2000,2345000000,Growth,"['PropTech', 'EdTech']",Global,382000,10000000,133
+vc_146,Robinson Fund,Philadelphia,1982,54000000,Series A,"['AI/ML', 'FoodTech', 'LegalTech', 'CleanTech']",East Coast,471000,21000000,65
+vc_147,Cloud Ventures,San Francisco,2016,3203000000,Multi-stage,"['AgriTech', 'PropTech', 'Blockchain', 'LegalTech', 'HealthTech', 'FoodTech']",International,252000,40000000,124
+vc_148,Lane Equity,Portland,1999,3998000000,Pre-seed,"['PropTech', 'Blockchain', 'HRTech', 'HealthTech', 'InsurTech']",US,251000,11000000,98
+vc_149,Smart Capital,Atlanta,2001,36000000,Multi-stage,"['EdTech', 'LegalTech', 'Gaming', 'E-commerce', 'Blockchain']",US,500000,42000000,20

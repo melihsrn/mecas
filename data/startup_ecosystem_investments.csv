@@ -1,0 +1,2172 @@
+id,startup_id,vc_id,round_type,amount,date,valuation,lead_investor
+investment_0,startup_1,vc_89,Seed,17930248,2015-04-19,161372232,True
+investment_1,startup_2,vc_29,Series B,16051929,2023-03-27,529713657,True
+investment_2,startup_2,vc_68,Seed,16051929,2023-03-27,481557870,False
+investment_3,startup_2,vc_143,Series C,16051929,2023-03-27,481557870,False
+investment_4,startup_2,vc_5,Series B,21578555,2012-08-23,86314220,True
+investment_5,startup_3,vc_58,Pre-seed,22852062,2021-03-29,114260310,True
+investment_6,startup_3,vc_18,Seed,3360763,2020-03-02,23525341,True
+investment_7,startup_3,vc_78,Series B,4262417,2020-12-17,85248340,True
+investment_8,startup_3,vc_113,Seed,4262417,2020-12-17,42624170,False
+investment_9,startup_5,vc_38,Series A,8775160,2021-08-18,157952880,True
+investment_10,startup_5,vc_93,Series B,8775160,2021-08-18,157952880,False
+investment_11,startup_5,vc_51,Series C,8775160,2021-08-18,105301920,False
+investment_12,startup_5,vc_69,Seed,8169836,2016-11-27,147057048,True
+investment_13,startup_5,vc_31,Series A,8169836,2016-11-27,98038032,False
+investment_14,startup_5,vc_23,Series A,11930301,2018-05-30,47721204,True
+investment_15,startup_6,vc_137,Series C,865722,2025-05-19,31166004,True
+investment_16,startup_6,vc_100,Pre-seed,865722,2025-05-19,23374503,False
+investment_17,startup_6,vc_134,Series A,865722,2025-05-19,25971670,False
+investment_18,startup_7,vc_46,Series B,8341541,2017-08-30,83415410,True
+investment_19,startup_7,vc_97,Series A,8341541,2017-08-30,116781574,False
+investment_20,startup_7,vc_128,Series B,10549647,2014-01-28,348138373,True
+investment_21,startup_7,vc_63,Seed,10549647,2014-01-28,221542601,False
+investment_22,startup_7,vc_87,Series B,10549647,2014-01-28,348138373,False
+investment_23,startup_8,vc_62,Series C,23198211,2021-03-12,255180321,True
+investment_24,startup_8,vc_23,Series C,24883135,2020-09-11,447896439,True
+investment_25,startup_8,vc_141,Series C,24883135,2020-09-11,398130168,False
+investment_26,startup_9,vc_30,Series C,8052114,2024-06-03,177146519,True
+investment_27,startup_9,vc_65,Series A,8052114,2024-06-03,112729603,False
+investment_28,startup_9,vc_85,Series A,10296106,2024-01-13,102961060,True
+investment_29,startup_9,vc_18,Series C,15240814,2022-06-17,304816290,True
+investment_30,startup_9,vc_8,Series A,15240814,2022-06-17,152408145,False
+investment_31,startup_10,vc_93,Seed,3976125,2022-06-27,47713504,True
+investment_32,startup_10,vc_85,Seed,3976125,2022-06-27,143140512,False
+investment_33,startup_10,vc_114,Pre-seed,3976125,2022-06-27,119283760,False
+investment_34,startup_10,vc_88,Series B,2975305,2023-12-15,23802440,True
+investment_35,startup_11,vc_121,Series C,4348651,2025-02-17,69578424,True
+investment_36,startup_11,vc_102,Series B,4348651,2025-02-17,86973030,False
+investment_37,startup_12,vc_145,Series A,10558224,2024-04-15,84465796,True
+investment_38,startup_12,vc_35,Series B,10558224,2024-04-15,211164490,False
+investment_39,startup_12,vc_34,Pre-seed,28620546,2023-04-21,200343822,True
+investment_40,startup_13,vc_44,Series C,9602224,2021-07-10,57613344,True
+investment_41,startup_13,vc_70,Series C,11292170,2022-03-03,90337364,True
+investment_42,startup_13,vc_31,Series C,11292170,2022-03-03,90337364,False
+investment_43,startup_14,vc_92,Series B,12500484,2017-11-02,50001936,True
+investment_44,startup_15,vc_108,Series A,9086882,2015-07-19,109042588,True
+investment_45,startup_15,vc_61,Series B,9086882,2015-07-19,299867117,False
+investment_46,startup_15,vc_128,Series C,9086882,2015-07-19,272606470,False
+investment_47,startup_15,vc_101,Pre-seed,18636136,2021-11-28,260905911,True
+investment_48,startup_15,vc_64,Series B,18636136,2021-11-28,447267276,False
+investment_49,startup_15,vc_70,Series A,5643111,2021-09-02,186222685,True
+investment_50,startup_15,vc_47,Series B,5643111,2021-09-02,203152020,False
+investment_51,startup_15,vc_60,Pre-seed,5643111,2021-09-02,118505345,False
+investment_52,startup_16,vc_131,Series A,23377430,2024-01-02,327284020,True
+investment_53,startup_16,vc_83,Pre-seed,23377430,2024-01-02,467548600,False
+investment_54,startup_16,vc_56,Pre-seed,19512867,2025-04-03,390257340,True
+investment_55,startup_16,vc_19,Series C,19512867,2025-04-03,312205872,False
+investment_56,startup_16,vc_147,Seed,34836556,2023-12-13,383202116,True
+investment_57,startup_16,vc_146,Pre-seed,3562673,2021-06-11,21376038,True
+investment_58,startup_17,vc_19,Series B,5360693,2025-04-09,53606930,True
+investment_59,startup_17,vc_53,Series B,5360693,2025-04-09,64328316,False
+investment_60,startup_18,vc_45,Series C,9840776,2019-11-07,78726208,True
+investment_61,startup_18,vc_80,Series B,15989682,2016-08-11,239845235,True
+investment_62,startup_18,vc_61,Series A,15989682,2016-08-11,383752376,False
+investment_63,startup_18,vc_3,Series C,15989682,2016-08-11,191876188,False
+investment_64,startup_18,vc_31,Series A,2619097,2018-01-21,36667365,True
+investment_65,startup_18,vc_45,Series A,2619097,2018-01-21,52381950,False
+investment_66,startup_19,vc_85,Series B,5260010,2025-02-25,36820070,True
+investment_67,startup_19,vc_90,Series B,20616204,2025-01-23,164929632,True
+investment_68,startup_19,vc_120,Series B,4341907,2025-01-02,95521954,True
+investment_69,startup_19,vc_67,Pre-seed,4341907,2025-01-02,60786698,False
+investment_70,startup_20,vc_98,Series C,15164481,2015-10-23,318454115,True
+investment_71,startup_20,vc_75,Series A,15164481,2015-10-23,500427895,False
+investment_72,startup_20,vc_119,Seed,15164481,2015-10-23,272960670,False
+investment_73,startup_20,vc_94,Series A,14699211,2019-08-25,529171608,True
+investment_74,startup_20,vc_31,Series A,14699211,2019-08-25,220488170,False
+investment_75,startup_20,vc_37,Seed,14699211,2019-08-25,264585804,False
+investment_76,startup_20,vc_77,Series C,1528981,2013-11-16,21405741,True
+investment_77,startup_20,vc_24,Series B,1528981,2013-11-16,12231852,False
+investment_78,startup_21,vc_51,Pre-seed,49321055,2017-09-02,542531605,True
+investment_79,startup_21,vc_129,Series B,5404818,2024-01-29,59452998,True
+investment_80,startup_21,vc_56,Pre-seed,22379978,2017-10-06,201419802,True
+investment_81,startup_21,vc_34,Series C,9251891,2018-12-01,166534047,True
+investment_82,startup_21,vc_33,Series C,9251891,2018-12-01,129526481,False
+investment_83,startup_23,vc_13,Series C,15525294,2021-07-15,62101176,True
+investment_84,startup_23,vc_62,Series B,30497284,2019-09-15,213480988,True
+investment_85,startup_24,vc_80,Seed,24606049,2015-04-15,590545188,True
+investment_86,startup_24,vc_86,Series C,24606049,2015-04-15,344484693,False
+investment_87,startup_24,vc_72,Series C,4270106,2017-09-26,34160852,True
+investment_88,startup_24,vc_75,Pre-seed,4270106,2017-09-26,93942343,False
+investment_89,startup_25,vc_18,Series C,24942804,2016-02-18,548741688,True
+investment_90,startup_25,vc_92,Series B,24942804,2016-02-18,299313648,False
+investment_91,startup_25,vc_127,Series C,19671199,2014-12-17,314739192,True
+investment_92,startup_25,vc_2,Series A,19671199,2014-12-17,275396793,False
+investment_93,startup_26,vc_134,Pre-seed,5375824,2023-05-22,112892311,True
+investment_94,startup_26,vc_83,Series C,5375824,2023-05-22,80637365,False
+investment_95,startup_26,vc_106,Series C,5375824,2023-05-22,96764838,False
+investment_96,startup_26,vc_16,Seed,19284090,2018-06-21,308545440,True
+investment_97,startup_26,vc_13,Pre-seed,19284090,2018-06-21,385681800,False
+investment_98,startup_27,vc_53,Series A,3710369,2018-11-09,55655540,True
+investment_99,startup_27,vc_90,Seed,3710369,2018-11-09,89048864,False
+investment_100,startup_27,vc_25,Series B,3710369,2018-11-09,77917756,False
+investment_101,startup_28,vc_146,Seed,14982548,2018-05-19,89895288,True
+investment_102,startup_29,vc_12,Series A,20523647,2021-12-23,102618235,True
+investment_103,startup_29,vc_142,Series B,19063419,2019-06-16,305014712,True
+investment_104,startup_29,vc_99,Pre-seed,19063419,2019-06-16,419395229,False
+investment_105,startup_29,vc_56,Series A,2060964,2024-12-28,74194728,True
+investment_106,startup_29,vc_23,Series B,2060964,2024-12-28,37097364,False
+investment_107,startup_29,vc_14,Series A,2060964,2024-12-28,49463152,False
+investment_108,startup_31,vc_110,Series C,17645115,2024-12-15,194096265,True
+investment_109,startup_31,vc_40,Series B,16000826,2024-03-27,176009086,True
+investment_110,startup_32,vc_63,Series B,19112982,2023-09-23,344033676,True
+investment_111,startup_32,vc_149,Series A,19112982,2023-09-23,229355784,False
+investment_112,startup_32,vc_27,Series A,11873510,2023-07-17,59367550,True
+investment_113,startup_32,vc_14,Pre-seed,5062199,2025-05-26,91119588,True
+investment_114,startup_32,vc_67,Series B,5062199,2025-05-26,167052578,False
+investment_115,startup_32,vc_64,Pre-seed,5062199,2025-05-26,106306186,False
+investment_116,startup_35,vc_98,Seed,6898611,2024-01-14,55188888,True
+investment_117,startup_35,vc_117,Pre-seed,7011664,2023-11-07,126209952,True
+investment_118,startup_35,vc_140,Series B,7011664,2023-11-07,231384912,False
+investment_119,startup_35,vc_133,Series C,7011664,2023-11-07,168279936,False
+investment_120,startup_36,vc_31,Series A,23046352,2022-11-10,161324464,True
+investment_121,startup_36,vc_73,Pre-seed,27620806,2020-06-01,110483224,True
+investment_122,startup_38,vc_45,Series B,48563264,2020-05-09,388506112,True
+investment_123,startup_38,vc_17,Seed,22116473,2024-03-13,176931784,True
+investment_124,startup_38,vc_84,Series C,22351394,2024-04-20,134108364,True
+investment_125,startup_39,vc_99,Series A,7436331,2024-11-06,267707928,True
+investment_126,startup_39,vc_141,Series C,7436331,2024-11-06,89235976,False
+investment_127,startup_39,vc_127,Series C,7436331,2024-11-06,111544970,False
+investment_128,startup_40,vc_89,Series B,45329805,2016-09-22,543957660,True
+investment_129,startup_41,vc_116,Pre-seed,41856511,2025-01-31,418565110,True
+investment_130,startup_41,vc_106,Seed,24930234,2020-04-29,598325628,True
+investment_131,startup_41,vc_118,Series C,24930234,2020-04-29,498604690,False
+investment_132,startup_41,vc_1,Seed,46763133,2023-12-10,467631330,True
+investment_133,startup_41,vc_74,Series B,1657157,2021-12-12,16571575,True
+investment_134,startup_41,vc_113,Series A,1657157,2021-12-12,23200205,False
+investment_135,startup_42,vc_61,Series C,6663618,2020-11-04,179917695,True
+investment_136,startup_42,vc_121,Series B,6663618,2020-11-04,239890260,False
+investment_137,startup_42,vc_119,Series A,6663618,2020-11-04,159926840,False
+investment_138,startup_43,vc_80,Series A,21714776,2020-06-24,477725072,True
+investment_139,startup_43,vc_146,Series B,21714776,2020-06-24,260577312,False
+investment_140,startup_43,vc_52,Series B,1543851,2020-09-23,41683977,True
+investment_141,startup_43,vc_39,Seed,1543851,2020-09-23,41683977,False
+investment_142,startup_43,vc_79,Series A,1543851,2020-09-23,55578636,False
+investment_143,startup_44,vc_31,Series C,3117762,2025-04-23,112239456,True
+investment_144,startup_44,vc_122,Series A,3117762,2025-04-23,37413152,False
+investment_145,startup_44,vc_39,Pre-seed,3117762,2025-04-23,102886168,False
+investment_146,startup_46,vc_66,Series B,23713389,2025-05-08,474267790,True
+investment_147,startup_46,vc_93,Series C,23713389,2025-05-08,189707116,False
+investment_148,startup_48,vc_123,Series C,3806021,2018-05-26,34254189,True
+investment_149,startup_48,vc_67,Series B,31155773,2022-06-19,249246184,True
+investment_150,startup_49,vc_33,Seed,6282164,2020-08-07,169618437,True
+investment_151,startup_49,vc_81,Series C,6282164,2020-08-07,131925451,False
+investment_152,startup_49,vc_90,Seed,6282164,2020-08-07,188464930,False
+investment_153,startup_50,vc_83,Seed,18266138,2023-09-09,146129104,True
+investment_154,startup_52,vc_81,Series B,3957316,2025-05-20,130591428,True
+investment_155,startup_52,vc_8,Pre-seed,3957316,2025-05-20,106847532,False
+investment_156,startup_52,vc_91,Pre-seed,3957316,2025-05-20,71231688,False
+investment_157,startup_53,vc_14,Pre-seed,4225311,2021-02-01,42253110,True
+investment_158,startup_54,vc_82,Series A,28274306,2023-12-19,254468754,True
+investment_159,startup_55,vc_47,Series C,19527738,2025-06-01,214805118,True
+investment_160,startup_55,vc_57,Series C,35739654,2025-05-27,357396540,True
+investment_161,startup_55,vc_84,Pre-seed,20379147,2025-05-28,285308058,True
+investment_162,startup_55,vc_27,Series A,20379147,2025-05-28,244549764,False
+investment_163,startup_57,vc_47,Series B,12973210,2024-09-16,155678520,True
+investment_164,startup_57,vc_141,Seed,12973210,2024-09-16,389196300,False
+investment_165,startup_57,vc_113,Series B,12973210,2024-09-16,389196300,False
+investment_166,startup_58,vc_125,Series B,4539487,2022-12-26,163421532,True
+investment_167,startup_58,vc_1,Seed,4539487,2022-12-26,122566149,False
+investment_168,startup_58,vc_30,Series C,4539487,2022-12-26,163421532,False
+investment_169,startup_59,vc_83,Seed,1804220,2020-08-17,43301292,True
+investment_170,startup_59,vc_73,Series B,1804220,2020-08-17,14433764,False
+investment_171,startup_59,vc_21,Series B,3114947,2022-11-27,65413894,True
+investment_172,startup_59,vc_53,Series B,3114947,2022-11-27,84103578,False
+investment_173,startup_59,vc_91,Pre-seed,3114947,2022-11-27,65413894,False
+investment_174,startup_59,vc_125,Series B,1569193,2024-06-09,51783391,True
+investment_175,startup_59,vc_149,Series B,1569193,2024-06-09,32953067,False
+investment_176,startup_59,vc_74,Seed,1569193,2024-06-09,42368229,False
+investment_177,startup_61,vc_8,Series B,10845066,2016-12-01,65070396,True
+investment_178,startup_61,vc_116,Series A,15803635,2022-12-23,142232715,True
+investment_179,startup_62,vc_122,Series C,4190267,2022-08-10,50283204,True
+investment_180,startup_62,vc_10,Series A,4190267,2022-08-10,100566408,False
+investment_181,startup_64,vc_68,Series B,9236882,2025-01-06,249395832,True
+investment_182,startup_64,vc_46,Seed,9236882,2025-01-06,193974536,False
+investment_183,startup_64,vc_105,Pre-seed,9236882,2025-01-06,193974536,False
+investment_184,startup_65,vc_98,Series A,46673364,2020-08-21,373386912,True
+investment_185,startup_65,vc_9,Pre-seed,2209222,2024-03-31,33138330,True
+investment_186,startup_65,vc_17,Series B,2209222,2024-03-31,26510664,False
+investment_187,startup_65,vc_18,Seed,2209222,2024-03-31,46393662,False
+investment_188,startup_69,vc_36,Series B,14059356,2024-05-19,253068417,True
+investment_189,startup_69,vc_39,Seed,14059356,2024-05-19,281187130,False
+investment_190,startup_70,vc_96,Series C,47770147,2018-02-02,238850735,True
+investment_191,startup_70,vc_60,Series A,15285823,2022-07-27,458574700,True
+investment_192,startup_70,vc_27,Series C,15285823,2022-07-27,504432170,False
+investment_193,startup_70,vc_86,Pre-seed,15285823,2022-07-27,275144820,False
+investment_194,startup_72,vc_51,Pre-seed,10544987,2021-01-20,84359896,True
+investment_195,startup_72,vc_63,Series A,10544987,2021-01-20,84359896,False
+investment_196,startup_72,vc_64,Seed,15666433,2018-12-04,125331464,True
+investment_197,startup_72,vc_94,Series B,15666433,2018-12-04,344661526,False
+investment_198,startup_72,vc_105,Series C,16468739,2022-10-02,263499824,True
+investment_199,startup_72,vc_8,Series B,16468739,2022-10-02,263499824,False
+investment_200,startup_74,vc_79,Series A,14124997,2024-07-06,211874960,True
+investment_201,startup_74,vc_114,Series C,14124997,2024-07-06,211874960,False
+investment_202,startup_74,vc_36,Series C,14124997,2024-07-06,338999936,False
+investment_203,startup_74,vc_48,Pre-seed,2966258,2025-02-14,14831290,True
+investment_204,startup_75,vc_143,Pre-seed,15209405,2025-05-25,547538580,True
+investment_205,startup_75,vc_30,Pre-seed,15209405,2025-05-25,273769290,False
+investment_206,startup_75,vc_125,Seed,15209405,2025-05-25,501910365,False
+investment_207,startup_75,vc_95,Seed,9341136,2021-02-06,280234100,True
+investment_208,startup_75,vc_17,Pre-seed,9341136,2021-02-06,280234100,False
+investment_209,startup_75,vc_114,Series A,9341136,2021-02-06,168140460,False
+investment_210,startup_76,vc_0,Series A,3897530,2012-10-29,19487650,True
+investment_211,startup_76,vc_41,Seed,12650359,2015-04-29,151804308,True
+investment_212,startup_76,vc_70,Series C,12650359,2015-04-29,126503590,False
+investment_213,startup_77,vc_143,Pre-seed,45072535,2012-08-15,180290140,True
+investment_214,startup_77,vc_100,Series C,1494419,2021-10-06,10460933,True
+investment_215,startup_78,vc_39,Series B,29845991,2022-08-18,179075946,True
+investment_216,startup_78,vc_37,Series A,8679316,2015-11-16,60755212,True
+investment_217,startup_78,vc_138,Seed,36889773,2021-01-17,221338638,True
+investment_218,startup_81,vc_62,Series B,45078609,2024-11-16,270471654,True
+investment_219,startup_82,vc_71,Pre-seed,5089720,2016-04-03,76345800,True
+investment_220,startup_82,vc_1,Series B,5089720,2016-04-03,183229920,False
+investment_221,startup_82,vc_6,Series B,5089720,2016-04-03,91614960,False
+investment_222,startup_82,vc_75,Pre-seed,9425233,2023-06-20,150803728,True
+investment_223,startup_82,vc_88,Pre-seed,9425233,2023-06-20,113102796,False
+investment_224,startup_87,vc_16,Series C,27833699,2020-04-24,278336990,True
+investment_225,startup_87,vc_142,Pre-seed,16551735,2012-05-18,595862472,True
+investment_226,startup_87,vc_149,Series C,16551735,2012-05-18,198620824,False
+investment_227,startup_87,vc_116,Series B,16551735,2012-05-18,248276030,False
+investment_228,startup_88,vc_101,Pre-seed,3988069,2025-04-30,143570496,True
+investment_229,startup_88,vc_49,Pre-seed,3988069,2025-04-30,95713664,False
+investment_230,startup_88,vc_65,Series B,3988069,2025-04-30,143570496,False
+investment_231,startup_89,vc_7,Pre-seed,14941907,2024-01-17,358605776,True
+investment_232,startup_89,vc_99,Series A,14941907,2024-01-17,493082942,False
+investment_233,startup_89,vc_138,Series C,14941907,2024-01-17,179302888,False
+investment_234,startup_94,vc_75,Series B,6823145,2022-09-23,61408305,True
+investment_235,startup_94,vc_75,Pre-seed,21983387,2021-05-08,307767425,True
+investment_236,startup_94,vc_13,Series B,21983387,2021-05-08,483634525,False
+investment_237,startup_94,vc_80,Series A,11210558,2024-10-02,112105585,True
+investment_238,startup_94,vc_36,Series C,11210558,2024-10-02,156947819,False
+investment_239,startup_95,vc_1,Series A,6479270,2025-01-26,71271970,True
+investment_240,startup_95,vc_131,Series C,4084554,2024-08-31,81691090,True
+investment_241,startup_95,vc_142,Seed,4084554,2024-08-31,81691090,False
+investment_242,startup_95,vc_42,Seed,7010084,2024-05-21,84121008,True
+investment_243,startup_95,vc_99,Seed,7010084,2024-05-21,126181512,False
+investment_244,startup_98,vc_24,Series C,4402962,2025-01-14,105671088,True
+investment_245,startup_98,vc_92,Series B,4402962,2025-01-14,105671088,False
+investment_246,startup_98,vc_38,Series A,23324040,2024-11-03,279888486,True
+investment_247,startup_98,vc_39,Series A,23324040,2024-11-03,279888486,False
+investment_248,startup_98,vc_112,Pre-seed,14689738,2024-12-03,440692150,True
+investment_249,startup_98,vc_129,Seed,14689738,2024-12-03,484761365,False
+investment_250,startup_98,vc_52,Pre-seed,14689738,2024-12-03,352553720,False
+investment_251,startup_101,vc_117,Seed,32562962,2023-12-14,227940734,True
+investment_252,startup_102,vc_58,Series A,7031978,2022-05-05,56255824,True
+investment_253,startup_103,vc_80,Seed,44519359,2023-01-05,534232308,True
+investment_254,startup_103,vc_4,Series C,3817655,2022-05-20,91623732,True
+investment_255,startup_103,vc_95,Series C,3817655,2022-05-20,53447177,False
+investment_256,startup_103,vc_130,Pre-seed,28375883,2024-02-06,255382947,True
+investment_257,startup_103,vc_119,Pre-seed,31295423,2025-04-25,125181692,True
+investment_258,startup_106,vc_13,Pre-seed,46441420,2023-08-01,417972780,True
+investment_259,startup_106,vc_132,Series C,20395637,2023-06-22,448704025,True
+investment_260,startup_106,vc_16,Series B,20395637,2023-06-22,367121475,False
+investment_261,startup_108,vc_56,Pre-seed,17616299,2022-03-26,281860784,True
+investment_262,startup_108,vc_90,Seed,17616299,2022-03-26,211395588,False
+investment_263,startup_108,vc_131,Series A,34654127,2022-05-25,207924762,True
+investment_264,startup_108,vc_74,Seed,13072399,2024-05-20,196085985,True
+investment_265,startup_108,vc_45,Series A,13072399,2024-05-20,352954773,False
+investment_266,startup_108,vc_99,Series C,13072399,2024-05-20,431389167,False
+investment_267,startup_109,vc_54,Series B,1351533,2021-02-21,44600611,True
+investment_268,startup_109,vc_55,Series C,1351533,2021-02-21,20273005,False
+investment_269,startup_109,vc_123,Series B,1351533,2021-02-21,40546010,False
+investment_270,startup_109,vc_102,Pre-seed,25946565,2019-11-07,207572520,True
+investment_271,startup_109,vc_123,Series A,11467046,2021-10-20,229340930,True
+investment_272,startup_109,vc_73,Series B,11467046,2021-10-20,229340930,False
+investment_273,startup_109,vc_106,Seed,8047536,2022-12-29,64380292,True
+investment_274,startup_109,vc_129,Seed,8047536,2022-12-29,64380292,False
+investment_275,startup_111,vc_44,Series B,4625494,2018-10-23,74007904,True
+investment_276,startup_111,vc_148,Series A,4625494,2018-10-23,92509880,False
+investment_277,startup_112,vc_61,Pre-seed,4554541,2025-01-26,81981744,True
+investment_278,startup_112,vc_79,Series B,4554541,2025-01-26,109308992,False
+investment_279,startup_112,vc_52,Series B,4554541,2025-01-26,109308992,False
+investment_280,startup_115,vc_132,Series A,42117683,2024-04-03,252706098,True
+investment_281,startup_115,vc_138,Series B,1626100,2022-01-31,19513206,True
+investment_282,startup_115,vc_20,Series A,1626100,2022-01-31,29269809,False
+investment_283,startup_117,vc_26,Pre-seed,4743078,2024-05-30,113833880,True
+investment_284,startup_117,vc_69,Pre-seed,4743078,2024-05-30,156521585,False
+investment_285,startup_117,vc_0,Series B,4743078,2024-05-30,170750820,False
+investment_286,startup_118,vc_17,Series C,3062268,2015-04-22,36747216,True
+investment_287,startup_118,vc_86,Series C,8616600,2015-09-01,206798416,True
+investment_288,startup_118,vc_59,Pre-seed,8616600,2015-09-01,310197624,False
+investment_289,startup_118,vc_28,Pre-seed,8616600,2015-09-01,180948614,False
+investment_290,startup_118,vc_49,Series A,18644552,2015-11-27,261023735,True
+investment_291,startup_118,vc_106,Pre-seed,18644552,2015-11-27,335601945,False
+investment_292,startup_118,vc_129,Series A,15060032,2023-01-08,150600320,True
+investment_293,startup_118,vc_147,Series B,15060032,2023-01-08,120480256,False
+investment_294,startup_120,vc_45,Pre-seed,17255909,2019-04-20,69023636,True
+investment_295,startup_121,vc_70,Series B,274813,2021-03-26,6595528,True
+investment_296,startup_121,vc_106,Series B,274813,2021-03-26,8244410,False
+investment_297,startup_121,vc_97,Series C,274813,2021-03-26,8244410,False
+investment_298,startup_121,vc_141,Series B,27486722,2024-02-24,247380498,True
+investment_299,startup_121,vc_17,Pre-seed,9583991,2016-03-01,210847813,True
+investment_300,startup_121,vc_37,Series A,9583991,2016-03-01,153343864,False
+investment_301,startup_121,vc_100,Series C,11290612,2022-02-26,225812250,True
+investment_302,startup_121,vc_43,Series B,11290612,2022-02-26,180649800,False
+investment_303,startup_122,vc_84,Pre-seed,19962302,2025-03-28,199623020,True
+investment_304,startup_123,vc_11,Series B,7809681,2024-12-14,257719495,True
+investment_305,startup_123,vc_137,Seed,7809681,2024-12-14,257719495,False
+investment_306,startup_123,vc_52,Seed,7809681,2024-12-14,210861405,False
+investment_307,startup_123,vc_108,Series C,1471576,2024-02-23,26488368,True
+investment_308,startup_123,vc_140,Series C,1471576,2024-02-23,11772608,False
+investment_309,startup_123,vc_106,Seed,21279957,2021-09-07,340479320,True
+investment_310,startup_123,vc_105,Seed,21279957,2021-09-07,255359490,False
+investment_311,startup_123,vc_90,Seed,17876580,2022-03-25,143012640,True
+investment_312,startup_123,vc_25,Series A,17876580,2022-03-25,429037920,False
+investment_313,startup_124,vc_134,Series B,18060953,2022-10-17,216731436,True
+investment_314,startup_124,vc_59,Series A,1761664,2018-04-11,35233280,True
+investment_315,startup_124,vc_134,Pre-seed,1761664,2018-04-11,31709952,False
+investment_316,startup_126,vc_120,Seed,8674856,2024-04-27,182171990,True
+investment_317,startup_126,vc_4,Pre-seed,8674856,2024-04-27,260245700,False
+investment_318,startup_126,vc_127,Series A,8674856,2024-04-27,286270270,False
+investment_319,startup_126,vc_21,Pre-seed,17029084,2015-10-13,136232676,True
+investment_320,startup_126,vc_91,Series A,17029084,2015-10-13,136232676,False
+investment_321,startup_127,vc_42,Series C,5034495,2017-12-28,90620910,True
+investment_322,startup_127,vc_17,Series A,5034495,2017-12-28,80551920,False
+investment_323,startup_127,vc_89,Series A,4258638,2019-03-10,34069108,True
+investment_324,startup_127,vc_31,Pre-seed,4258638,2019-03-10,93690047,False
+investment_325,startup_128,vc_86,Seed,14562994,2025-04-25,87377964,True
+investment_326,startup_128,vc_121,Series C,7741788,2025-06-01,185802912,True
+investment_327,startup_128,vc_139,Series C,7741788,2025-06-01,92901456,False
+investment_328,startup_129,vc_42,Seed,1827045,2023-08-14,49330233,True
+investment_329,startup_129,vc_10,Seed,1827045,2023-08-14,65773644,False
+investment_330,startup_129,vc_67,Series C,1827045,2023-08-14,60292507,False
+investment_331,startup_130,vc_137,Seed,1794859,2024-11-03,64614948,True
+investment_332,startup_130,vc_58,Pre-seed,1794859,2024-11-03,37692053,False
+investment_333,startup_130,vc_56,Pre-seed,1794859,2024-11-03,64614948,False
+investment_334,startup_130,vc_14,Series A,3525687,2024-03-05,52885315,True
+investment_335,startup_130,vc_75,Series A,3525687,2024-03-05,105770630,False
+investment_336,startup_130,vc_144,Series B,3525687,2024-03-05,105770630,False
+investment_337,startup_131,vc_95,Pre-seed,2653309,2014-10-07,18573163,True
+investment_338,startup_132,vc_35,Series B,14152899,2021-03-04,113223192,True
+investment_339,startup_133,vc_129,Series C,3829736,2018-09-06,103402890,True
+investment_340,startup_133,vc_37,Pre-seed,3829736,2018-09-06,114892100,False
+investment_341,startup_133,vc_35,Pre-seed,3829736,2018-09-06,114892100,False
+investment_342,startup_135,vc_125,Pre-seed,29443970,2020-05-11,117775880,True
+investment_343,startup_135,vc_130,Pre-seed,9714846,2022-05-21,233156304,True
+investment_344,startup_135,vc_137,Series C,9714846,2022-05-21,233156304,False
+investment_345,startup_135,vc_68,Series C,9714846,2022-05-21,204011766,False
+investment_346,startup_135,vc_10,Series A,12065395,2024-08-14,253373309,True
+investment_347,startup_135,vc_126,Series A,12065395,2024-08-14,289569496,False
+investment_348,startup_135,vc_40,Pre-seed,12065395,2024-08-14,289569496,False
+investment_349,startup_137,vc_80,Series C,15314860,2023-01-20,245037768,True
+investment_350,startup_137,vc_113,Pre-seed,15314860,2023-01-20,306297210,False
+investment_351,startup_137,vc_70,Series A,17863261,2023-07-24,250085654,True
+investment_352,startup_137,vc_9,Series B,17863261,2023-07-24,428718264,False
+investment_353,startup_138,vc_30,Series C,602887,2024-11-26,14469304,True
+investment_354,startup_138,vc_114,Series B,602887,2024-11-26,7234652,False
+investment_355,startup_138,vc_104,Series A,602887,2024-11-26,12660641,False
+investment_356,startup_138,vc_146,Series A,35348883,2025-02-11,318139947,True
+investment_357,startup_138,vc_144,Series C,1755239,2024-02-23,21062868,True
+investment_358,startup_139,vc_142,Series B,5205813,2022-08-13,93704634,True
+investment_359,startup_139,vc_29,Series A,5205813,2022-08-13,41646504,False
+investment_360,startup_140,vc_1,Series C,38207881,2016-10-19,343870929,True
+investment_361,startup_140,vc_141,Series A,14991576,2024-06-01,269848368,True
+investment_362,startup_140,vc_48,Series B,14991576,2024-06-01,359797824,False
+investment_363,startup_140,vc_34,Series B,8913302,2021-07-07,187179349,True
+investment_364,startup_140,vc_146,Seed,8913302,2021-07-07,213919256,False
+investment_365,startup_140,vc_45,Seed,8913302,2021-07-07,106959628,False
+investment_366,startup_140,vc_142,Pre-seed,9757251,2020-12-11,234174036,True
+investment_367,startup_140,vc_78,Pre-seed,9757251,2020-12-11,136601521,False
+investment_368,startup_141,vc_66,Series A,15038683,2023-02-26,360928392,True
+investment_369,startup_141,vc_98,Series B,15038683,2023-02-26,300773660,False
+investment_370,startup_142,vc_83,Series A,3091782,2020-10-06,37101384,True
+investment_371,startup_142,vc_129,Seed,3091782,2020-10-06,74202768,False
+investment_372,startup_144,vc_43,Pre-seed,7769650,2024-05-26,186471600,True
+investment_373,startup_144,vc_56,Series A,7769650,2024-05-26,163162650,False
+investment_374,startup_144,vc_110,Series A,7769650,2024-05-26,139853700,False
+investment_375,startup_144,vc_134,Pre-seed,13233329,2020-03-02,317599908,True
+investment_376,startup_144,vc_103,Series B,13233329,2020-03-02,238199931,False
+investment_377,startup_146,vc_106,Pre-seed,7826428,2025-04-22,211313556,True
+investment_378,startup_146,vc_108,Pre-seed,7826428,2025-04-22,211313556,False
+investment_379,startup_146,vc_1,Series A,7826428,2025-04-22,281751408,False
+investment_380,startup_146,vc_121,Series C,17403338,2023-07-21,348066770,True
+investment_381,startup_146,vc_83,Series B,17403338,2023-07-21,278453416,False
+investment_382,startup_148,vc_124,Series A,48771140,2020-03-29,243855700,True
+investment_383,startup_149,vc_59,Series B,9858582,2022-08-06,325333228,True
+investment_384,startup_149,vc_11,Seed,9858582,2022-08-06,207030236,False
+investment_385,startup_149,vc_95,Seed,9858582,2022-08-06,354908976,False
+investment_386,startup_150,vc_124,Pre-seed,3902860,2017-08-25,81960067,True
+investment_387,startup_150,vc_102,Series A,3902860,2017-08-25,105377229,False
+investment_388,startup_150,vc_133,Series B,3902860,2017-08-25,70251486,False
+investment_389,startup_150,vc_26,Series A,15146204,2012-11-01,151462045,True
+investment_390,startup_150,vc_63,Series C,15146204,2012-11-01,363508908,False
+investment_391,startup_150,vc_9,Seed,3821355,2020-09-11,45856260,True
+investment_392,startup_150,vc_56,Series C,3821355,2020-09-11,91712520,False
+investment_393,startup_150,vc_25,Seed,28162758,2016-02-11,253464822,True
+investment_394,startup_151,vc_140,Series C,8848841,2024-10-09,53093046,True
+investment_395,startup_152,vc_30,Pre-seed,45191847,2022-05-13,271151082,True
+investment_396,startup_152,vc_27,Series C,10459710,2022-09-08,41838840,True
+investment_397,startup_152,vc_116,Pre-seed,795703,2018-08-28,21483981,True
+investment_398,startup_152,vc_16,Series B,795703,2018-08-28,19096872,False
+investment_399,startup_152,vc_107,Series A,795703,2018-08-28,19096872,False
+investment_400,startup_152,vc_95,Series A,30733885,2019-01-02,276604965,True
+investment_401,startup_155,vc_17,Pre-seed,11529320,2018-08-23,138351848,True
+investment_402,startup_155,vc_31,Pre-seed,11529320,2018-08-23,415055544,False
+investment_403,startup_155,vc_91,Seed,11529320,2018-08-23,415055544,False
+investment_404,startup_156,vc_112,Pre-seed,20536764,2022-11-17,184830876,True
+investment_405,startup_157,vc_27,Seed,2661611,2024-02-28,37262561,True
+investment_406,startup_157,vc_114,Series B,2661611,2024-02-28,47909007,False
+investment_407,startup_160,vc_29,Seed,15458020,2025-02-13,556488732,True
+investment_408,startup_160,vc_100,Seed,15458020,2025-02-13,463740610,False
+investment_409,startup_160,vc_11,Pre-seed,15458020,2025-02-13,417366549,False
+investment_410,startup_160,vc_63,Series A,12388949,2024-06-03,408835328,True
+investment_411,startup_160,vc_52,Series B,12388949,2024-06-03,446002176,False
+investment_412,startup_160,vc_24,Series A,12388949,2024-06-03,334501632,False
+investment_413,startup_160,vc_145,Series B,12060282,2024-10-29,325627614,True
+investment_414,startup_160,vc_30,Pre-seed,12060282,2024-10-29,289446768,False
+investment_415,startup_160,vc_34,Series C,12060282,2024-10-29,325627614,False
+investment_416,startup_161,vc_146,Series B,5657693,2021-01-24,22630772,True
+investment_417,startup_161,vc_86,Series B,1402811,2016-02-21,42084350,True
+investment_418,startup_161,vc_91,Series B,1402811,2016-02-21,50501220,False
+investment_419,startup_161,vc_121,Series C,1402811,2016-02-21,29459045,False
+investment_420,startup_162,vc_57,Series A,15853781,2025-04-07,253660496,True
+investment_421,startup_162,vc_0,Series C,15853781,2025-04-07,317075620,False
+investment_422,startup_163,vc_80,Pre-seed,8624044,2013-02-08,51744264,True
+investment_423,startup_165,vc_83,Pre-seed,20047273,2017-03-12,220520003,True
+investment_424,startup_166,vc_103,Seed,3364784,2025-03-21,111037872,True
+investment_425,startup_166,vc_6,Seed,3364784,2025-03-21,100943520,False
+investment_426,startup_166,vc_51,Pre-seed,3364784,2025-03-21,80754816,False
+investment_427,startup_166,vc_8,Series B,8256016,2021-11-15,297216576,True
+investment_428,startup_166,vc_28,Pre-seed,8256016,2021-11-15,123840240,False
+investment_429,startup_166,vc_89,Series B,8256016,2021-11-15,99072192,False
+investment_430,startup_168,vc_82,Series C,3184122,2016-11-01,85971294,True
+investment_431,startup_168,vc_69,Series B,3184122,2016-11-01,105076026,False
+investment_432,startup_168,vc_27,Series B,3184122,2016-11-01,76418928,False
+investment_433,startup_168,vc_112,Series A,8372798,2019-07-25,175828758,True
+investment_434,startup_168,vc_64,Series C,8372798,2019-07-25,175828758,False
+investment_435,startup_168,vc_133,Series B,8372798,2019-07-25,301420728,False
+investment_436,startup_169,vc_112,Series C,24213227,2024-12-15,338985185,True
+investment_437,startup_169,vc_64,Pre-seed,24213227,2024-12-15,435838095,False
+investment_438,startup_169,vc_139,Pre-seed,43077788,2018-06-20,215388940,True
+investment_439,startup_169,vc_107,Seed,9178459,2022-01-22,201926109,True
+investment_440,startup_169,vc_51,Series B,9178459,2022-01-22,146855352,False
+investment_441,startup_170,vc_87,Series C,15990956,2022-12-08,255855304,True
+investment_442,startup_170,vc_130,Pre-seed,15990956,2022-12-08,319819130,False
+investment_443,startup_172,vc_21,Series A,9762388,2024-03-06,175722993,True
+investment_444,startup_172,vc_39,Pre-seed,9762388,2024-03-06,78099108,False
+investment_445,startup_172,vc_82,Series C,41087907,2024-04-18,410879070,True
+investment_446,startup_172,vc_2,Seed,8125755,2025-02-28,56880285,True
+investment_447,startup_174,vc_125,Pre-seed,3065158,2025-02-19,101150214,True
+investment_448,startup_174,vc_136,Series A,3065158,2025-02-19,110345688,False
+investment_449,startup_174,vc_55,Series A,3065158,2025-02-19,91954740,False
+investment_450,startup_174,vc_125,Series B,12435984,2022-05-12,111923856,True
+investment_451,startup_174,vc_16,Pre-seed,21469580,2021-07-05,300574120,True
+investment_452,startup_174,vc_117,Series C,21469580,2021-07-05,171756640,False
+investment_453,startup_176,vc_124,Seed,40572794,2025-05-01,365155146,True
+investment_454,startup_177,vc_96,Series A,3146047,2024-09-11,84943269,True
+investment_455,startup_177,vc_119,Series A,3146047,2024-09-11,37752564,False
+investment_456,startup_177,vc_123,Series A,3146047,2024-09-11,75505128,False
+investment_457,startup_178,vc_112,Series C,5454321,2021-03-30,147266667,True
+investment_458,startup_178,vc_61,Series C,5454321,2021-03-30,98177778,False
+investment_459,startup_178,vc_35,Pre-seed,5454321,2021-03-30,130903704,False
+investment_460,startup_178,vc_73,Series A,10448190,2015-07-01,125378280,True
+investment_461,startup_178,vc_34,Series B,10448190,2015-07-01,229860180,False
+investment_462,startup_179,vc_63,Series C,20266124,2017-08-10,283725736,True
+investment_463,startup_179,vc_115,Seed,20266124,2017-08-10,202661240,False
+investment_464,startup_180,vc_7,Series B,4019115,2016-12-12,96458768,True
+investment_465,startup_180,vc_128,Series B,4019115,2016-12-12,60286730,False
+investment_466,startup_180,vc_4,Series C,4019115,2016-12-12,84401422,False
+investment_467,startup_180,vc_59,Pre-seed,39167926,2014-07-20,156671704,True
+investment_468,startup_180,vc_62,Series C,15167948,2012-09-30,242687168,True
+investment_469,startup_180,vc_77,Series A,15167948,2012-09-30,364030752,False
+investment_470,startup_182,vc_111,Series B,36023695,2020-01-02,144094780,True
+investment_471,startup_182,vc_2,Pre-seed,33309373,2024-09-05,133237492,True
+investment_472,startup_184,vc_100,Series C,24551287,2018-10-04,392820600,True
+investment_473,startup_184,vc_45,Series C,24551287,2018-10-04,245512875,False
+investment_474,startup_185,vc_140,Series A,37756390,2022-01-21,453076680,True
+investment_475,startup_185,vc_118,Series C,19033373,2017-05-30,152266988,True
+investment_476,startup_185,vc_127,Series A,19033373,2017-05-30,342600723,False
+investment_477,startup_185,vc_6,Series A,6727975,2021-01-25,53823800,True
+investment_478,startup_185,vc_108,Series A,33668734,2017-06-22,404024808,True
+investment_479,startup_186,vc_136,Seed,7355448,2022-10-30,198597105,True
+investment_480,startup_186,vc_4,Series A,7355448,2022-10-30,198597105,False
+investment_481,startup_186,vc_60,Series C,7355448,2022-10-30,154464415,False
+investment_482,startup_186,vc_48,Seed,7523140,2023-01-11,270833040,True
+investment_483,startup_186,vc_119,Series B,7523140,2023-01-11,135416520,False
+investment_484,startup_186,vc_40,Pre-seed,7523140,2023-01-11,248263620,False
+investment_485,startup_187,vc_113,Series B,10365513,2024-09-12,62193078,True
+investment_486,startup_189,vc_115,Series B,10265330,2023-06-03,184775940,True
+investment_487,startup_189,vc_18,Seed,10265330,2023-06-03,123183960,False
+investment_488,startup_189,vc_111,Series B,21381739,2024-05-29,171053912,True
+investment_489,startup_189,vc_127,Series A,21381739,2024-05-29,171053912,False
+investment_490,startup_191,vc_96,Series A,28112577,2022-12-22,112450308,True
+investment_491,startup_192,vc_133,Series A,13942008,2021-06-04,501912300,True
+investment_492,startup_192,vc_30,Series A,13942008,2021-06-04,292782175,False
+investment_493,startup_192,vc_121,Series A,13942008,2021-06-04,250956150,False
+investment_494,startup_192,vc_141,Series A,22300406,2021-03-09,178403248,True
+investment_495,startup_192,vc_14,Series A,22300406,2021-03-09,401407308,False
+investment_496,startup_192,vc_57,Series C,44072798,2024-12-28,528873576,True
+investment_497,startup_192,vc_133,Pre-seed,1797422,2023-06-20,7189688,True
+investment_498,startup_197,vc_122,Series A,46351165,2020-05-30,509862815,True
+investment_499,startup_197,vc_145,Seed,3603245,2019-01-21,14412980,True
+investment_500,startup_197,vc_11,Series A,13403594,2023-09-09,187650323,True
+investment_501,startup_197,vc_40,Series A,13403594,2023-09-09,107228756,False
+investment_502,startup_198,vc_59,Seed,19312814,2024-03-08,231753774,True
+investment_503,startup_198,vc_19,Pre-seed,19312814,2024-03-08,309005032,False
+investment_504,startup_200,vc_130,Series C,11164067,2017-03-24,200953215,True
+investment_505,startup_200,vc_62,Series C,11164067,2017-03-24,89312540,False
+investment_506,startup_201,vc_55,Series B,10270366,2024-07-25,123244392,True
+investment_507,startup_201,vc_143,Series B,10270366,2024-07-25,143785124,False
+investment_508,startup_201,vc_42,Seed,10840751,2024-08-23,238496522,True
+investment_509,startup_201,vc_19,Pre-seed,10840751,2024-08-23,216815020,False
+investment_510,startup_201,vc_113,Seed,39418052,2017-03-30,354762468,True
+investment_511,startup_201,vc_16,Series C,4550163,2019-02-02,91003260,True
+investment_512,startup_201,vc_11,Seed,4550163,2019-02-02,45501630,False
+investment_513,startup_202,vc_12,Series B,22155925,2016-05-14,265871100,True
+investment_514,startup_202,vc_45,Series B,11023360,2019-08-26,132280320,True
+investment_515,startup_202,vc_33,Series A,11023360,2019-08-26,231490560,False
+investment_516,startup_202,vc_134,Series B,11023360,2019-08-26,297630720,False
+investment_517,startup_203,vc_106,Series A,4196802,2016-08-17,62952040,True
+investment_518,startup_203,vc_102,Series C,4196802,2016-08-17,138494488,False
+investment_519,startup_203,vc_8,Series A,4196802,2016-08-17,100723264,False
+investment_520,startup_203,vc_40,Series C,1771865,2014-12-26,58471556,True
+investment_521,startup_203,vc_54,Series A,1771865,2014-12-26,31893576,False
+investment_522,startup_203,vc_118,Series A,1771865,2014-12-26,21262384,False
+investment_523,startup_203,vc_118,Seed,6903164,2013-08-16,124256952,True
+investment_524,startup_203,vc_83,Series A,6903164,2013-08-16,207094920,False
+investment_525,startup_203,vc_19,Series B,6903164,2013-08-16,82837968,False
+investment_526,startup_204,vc_138,Seed,1672164,2025-04-29,8360820,True
+investment_527,startup_204,vc_12,Pre-seed,5834175,2025-01-26,58341750,True
+investment_528,startup_204,vc_70,Seed,5834175,2025-01-26,81678450,False
+investment_529,startup_204,vc_49,Series B,15159411,2024-10-22,227391175,True
+investment_530,startup_204,vc_46,Series A,15159411,2024-10-22,181912940,False
+investment_531,startup_204,vc_0,Series B,15159411,2024-10-22,318347645,False
+investment_532,startup_205,vc_41,Seed,2196001,2023-09-10,26352016,True
+investment_533,startup_205,vc_132,Seed,2196001,2023-09-10,26352016,False
+investment_534,startup_205,vc_40,Series A,2196001,2023-09-10,65880040,False
+investment_535,startup_206,vc_119,Series A,6544801,2025-04-02,157075224,True
+investment_536,startup_206,vc_83,Seed,6544801,2025-04-02,52358408,False
+investment_537,startup_206,vc_0,Series A,23702372,2023-08-07,331833215,True
+investment_538,startup_206,vc_20,Pre-seed,23702372,2023-08-07,521452195,False
+investment_539,startup_207,vc_97,Pre-seed,555657,2014-10-25,2222628,True
+investment_540,startup_208,vc_32,Pre-seed,14700657,2025-03-12,264611826,True
+investment_541,startup_208,vc_116,Series C,14700657,2025-03-12,220509855,False
+investment_542,startup_208,vc_107,Series B,14700657,2025-03-12,176407884,False
+investment_543,startup_208,vc_135,Seed,13409046,2024-07-27,214544744,True
+investment_544,startup_208,vc_62,Series B,13409046,2024-07-27,321817116,False
+investment_545,startup_209,vc_113,Series A,37963265,2023-06-29,265742855,True
+investment_546,startup_209,vc_61,Pre-seed,5842978,2024-08-02,93487648,True
+investment_547,startup_209,vc_135,Pre-seed,5842978,2024-08-02,140231472,False
+investment_548,startup_209,vc_63,Pre-seed,16323084,2024-02-29,342784778,True
+investment_549,startup_209,vc_85,Series C,16323084,2024-02-29,440723286,False
+investment_550,startup_209,vc_61,Series C,16323084,2024-02-29,440723286,False
+investment_551,startup_209,vc_54,Series C,25327781,2021-07-12,151966686,True
+investment_552,startup_210,vc_115,Pre-seed,13636135,2020-12-23,409084060,True
+investment_553,startup_210,vc_60,Series C,13636135,2020-12-23,327267248,False
+investment_554,startup_210,vc_21,Series C,13636135,2020-12-23,327267248,False
+investment_555,startup_210,vc_56,Series C,2913662,2012-04-25,64100575,True
+investment_556,startup_210,vc_3,Series A,2913662,2012-04-25,40791275,False
+investment_557,startup_210,vc_101,Pre-seed,14524048,2014-06-22,174288576,True
+investment_558,startup_210,vc_117,Pre-seed,14524048,2014-06-22,261432864,False
+investment_559,startup_212,vc_37,Series C,24581789,2019-05-15,196654312,True
+investment_560,startup_212,vc_47,Seed,24581789,2019-05-15,294981468,False
+investment_561,startup_212,vc_16,Series C,31323773,2018-02-04,250590184,True
+investment_562,startup_213,vc_0,Seed,20349507,2017-03-09,203495075,True
+investment_563,startup_213,vc_102,Series A,20349507,2017-03-09,488388180,False
+investment_564,startup_213,vc_100,Seed,1185608,2021-09-15,39125086,True
+investment_565,startup_213,vc_83,Pre-seed,1185608,2021-09-15,32011434,False
+investment_566,startup_213,vc_36,Seed,1185608,2021-09-15,14227304,False
+investment_567,startup_213,vc_134,Series A,6473447,2021-02-27,90628265,True
+investment_568,startup_213,vc_19,Seed,6473447,2021-02-27,142415845,False
+investment_569,startup_213,vc_148,Seed,15636027,2017-01-27,515988902,True
+investment_570,startup_213,vc_64,Series A,15636027,2017-01-27,375264656,False
+investment_571,startup_213,vc_19,Pre-seed,15636027,2017-01-27,562896984,False
+investment_572,startup_215,vc_122,Series B,23969083,2021-02-28,335567169,True
+investment_573,startup_215,vc_27,Series B,23969083,2021-02-28,527319837,False
+investment_574,startup_215,vc_102,Seed,10480586,2025-01-06,157208790,True
+investment_575,startup_215,vc_140,Seed,10480586,2025-01-06,220092306,False
+investment_576,startup_215,vc_120,Series C,10480586,2025-01-06,125767032,False
+investment_577,startup_216,vc_36,Seed,17954487,2025-03-17,287271792,True
+investment_578,startup_216,vc_60,Seed,17954487,2025-03-17,430907688,False
+investment_579,startup_217,vc_51,Pre-seed,11894372,2025-05-18,142732464,True
+investment_580,startup_217,vc_12,Seed,11894372,2025-05-18,166521208,False
+investment_581,startup_218,vc_115,Series A,20062101,2024-04-23,100310505,True
+investment_582,startup_221,vc_139,Pre-seed,4359733,2023-11-19,156950412,True
+investment_583,startup_221,vc_77,Series C,4359733,2023-11-19,104633608,False
+investment_584,startup_221,vc_136,Series C,4359733,2023-11-19,52316804,False
+investment_585,startup_222,vc_22,Pre-seed,3096832,2020-05-01,92904970,True
+investment_586,startup_222,vc_125,Series C,3096832,2020-05-01,37161988,False
+investment_587,startup_222,vc_144,Series B,3096832,2020-05-01,92904970,False
+investment_588,startup_223,vc_139,Series A,2764801,2018-01-06,38707214,True
+investment_589,startup_223,vc_61,Seed,2764801,2018-01-06,33177612,False
+investment_590,startup_223,vc_88,Series A,11319472,2022-08-27,45277888,True
+investment_591,startup_224,vc_48,Series A,12565253,2022-06-22,125652535,True
+investment_592,startup_224,vc_148,Pre-seed,12565253,2022-06-22,201044056,False
+investment_593,startup_224,vc_17,Series A,28301099,2024-06-04,198107693,True
+investment_594,startup_224,vc_59,Series B,1880644,2024-09-30,18806445,True
+investment_595,startup_224,vc_58,Series B,1880644,2024-09-30,37612890,False
+investment_596,startup_224,vc_103,Series C,48968795,2023-01-11,440719155,True
+investment_597,startup_225,vc_92,Series B,1492002,2023-07-22,22380040,True
+investment_598,startup_225,vc_115,Pre-seed,1492002,2023-07-22,49236088,False
+investment_599,startup_225,vc_55,Series B,1492002,2023-07-22,40284072,False
+investment_600,startup_227,vc_17,Series C,6601757,2019-05-07,105628120,True
+investment_601,startup_227,vc_14,Seed,6601757,2019-05-07,145238665,False
+investment_602,startup_227,vc_79,Series C,17900723,2017-12-02,125305061,True
+investment_603,startup_229,vc_66,Series B,13362474,2020-09-06,160349688,True
+investment_604,startup_229,vc_99,Series A,15796874,2024-01-10,315937490,True
+investment_605,startup_229,vc_121,Seed,15796874,2024-01-10,315937490,False
+investment_606,startup_229,vc_120,Series A,9001534,2024-04-26,270046020,True
+investment_607,startup_229,vc_133,Series C,9001534,2024-04-26,324055224,False
+investment_608,startup_229,vc_45,Pre-seed,9001534,2024-04-26,216036816,False
+investment_609,startup_231,vc_66,Seed,5998591,2022-10-16,35991546,True
+investment_610,startup_232,vc_76,Series A,1994561,2022-06-05,19945615,True
+investment_611,startup_232,vc_20,Seed,1994561,2022-06-05,23934738,False
+investment_612,startup_232,vc_32,Seed,15877251,2022-04-16,158772510,True
+investment_613,startup_235,vc_3,Seed,15133690,2024-08-03,272406432,True
+investment_614,startup_235,vc_64,Series C,15133690,2024-08-03,317807504,False
+investment_615,startup_235,vc_148,Series B,15133690,2024-08-03,454010720,False
+investment_616,startup_237,vc_92,Seed,9057883,2023-11-12,217389192,True
+investment_617,startup_237,vc_12,Series C,9057883,2023-11-12,244562841,False
+investment_618,startup_237,vc_57,Series C,9057883,2023-11-12,298910139,False
+investment_619,startup_238,vc_104,Series B,42528554,2019-11-12,425285540,True
+investment_620,startup_238,vc_36,Seed,8872637,2023-03-25,177452740,True
+investment_621,startup_238,vc_131,Seed,8872637,2023-03-25,177452740,False
+investment_622,startup_238,vc_128,Seed,8041632,2016-10-08,48249792,True
+investment_623,startup_239,vc_113,Series C,24331791,2023-03-30,535299413,True
+investment_624,startup_239,vc_37,Series A,24331791,2023-03-30,583962996,False
+investment_625,startup_239,vc_132,Series C,48965432,2022-07-23,538619752,True
+investment_626,startup_239,vc_89,Series C,9443486,2023-09-14,141652300,True
+investment_627,startup_239,vc_142,Series C,9443486,2023-09-14,113321840,False
+investment_628,startup_239,vc_50,Series B,9443486,2023-09-14,113321840,False
+investment_629,startup_239,vc_143,Pre-seed,5927067,2020-12-24,124468407,True
+investment_630,startup_239,vc_95,Series C,5927067,2020-12-24,142249608,False
+investment_631,startup_239,vc_61,Series A,5927067,2020-12-24,177812010,False
+investment_632,startup_240,vc_123,Series B,3498310,2017-07-04,62969580,True
+investment_633,startup_240,vc_143,Seed,3498310,2017-07-04,94454370,False
+investment_634,startup_240,vc_77,Pre-seed,3498310,2017-07-04,125939160,False
+investment_635,startup_242,vc_71,Pre-seed,1342357,2012-04-22,28189497,True
+investment_636,startup_242,vc_53,Pre-seed,1342357,2012-04-22,20135355,False
+investment_637,startup_242,vc_60,Series C,1342357,2012-04-22,28189497,False
+investment_638,startup_242,vc_9,Seed,27051992,2024-06-22,270519920,True
+investment_639,startup_242,vc_53,Seed,15839407,2019-09-28,332627547,True
+investment_640,startup_242,vc_7,Series A,15839407,2019-09-28,237591105,False
+investment_641,startup_242,vc_117,Series B,15839407,2019-09-28,285109326,False
+investment_642,startup_243,vc_25,Series A,31797504,2023-07-21,127190016,True
+investment_643,startup_243,vc_122,Pre-seed,3241299,2023-04-05,58343391,True
+investment_644,startup_243,vc_80,Series B,3241299,2023-04-05,45378193,False
+investment_645,startup_243,vc_119,Series C,5464188,2017-10-04,65570256,True
+investment_646,startup_244,vc_32,Series A,17154466,2017-06-27,240162531,True
+investment_647,startup_244,vc_82,Pre-seed,17154466,2017-06-27,137235732,False
+investment_648,startup_244,vc_97,Series C,45518223,2021-12-07,273109338,True
+investment_649,startup_244,vc_30,Series B,17877560,2019-10-06,107265360,True
+investment_650,startup_245,vc_87,Series A,9318953,2012-08-11,223654880,True
+investment_651,startup_245,vc_42,Seed,9318953,2012-08-11,195698020,False
+investment_652,startup_245,vc_17,Series B,9318953,2012-08-11,335482320,False
+investment_653,startup_245,vc_45,Series C,13116988,2020-11-20,104935908,True
+investment_654,startup_245,vc_77,Seed,13116988,2020-11-20,288573747,False
+investment_655,startup_246,vc_129,Series B,21650833,2018-12-18,389715003,True
+investment_656,startup_246,vc_68,Pre-seed,21650833,2018-12-18,433016670,False
+investment_657,startup_247,vc_48,Series A,34437240,2023-11-21,241060680,True
+investment_658,startup_248,vc_3,Seed,3138872,2021-09-15,15694360,True
+investment_659,startup_248,vc_124,Seed,29998921,2023-08-29,269990289,True
+investment_660,startup_248,vc_13,Seed,23252079,2021-09-27,255772869,True
+investment_661,startup_250,vc_124,Pre-seed,6502957,2019-11-28,156070984,True
+investment_662,startup_250,vc_49,Series A,6502957,2019-11-28,136562111,False
+investment_663,startup_250,vc_38,Seed,6502957,2019-11-28,78035492,False
+investment_664,startup_250,vc_143,Seed,8111231,2020-07-28,162224620,True
+investment_665,startup_250,vc_113,Series B,8111231,2020-07-28,113557234,False
+investment_666,startup_251,vc_13,Seed,10031183,2021-11-18,180561306,True
+investment_667,startup_251,vc_10,Series C,10031183,2021-11-18,240748408,False
+investment_668,startup_251,vc_115,Seed,10031183,2021-11-18,120374204,False
+investment_669,startup_253,vc_45,Pre-seed,6342676,2022-05-30,114168174,True
+investment_670,startup_253,vc_129,Series A,6342676,2022-05-30,171252261,False
+investment_671,startup_253,vc_53,Seed,6342676,2022-05-30,228336348,False
+investment_672,startup_253,vc_74,Seed,33471183,2025-01-08,334711830,True
+investment_673,startup_253,vc_98,Series C,955078,2024-05-05,17191410,True
+investment_674,startup_253,vc_48,Pre-seed,955078,2024-05-05,22921880,False
+investment_675,startup_253,vc_70,Series C,955078,2024-05-05,14326175,False
+investment_676,startup_254,vc_91,Series C,17876113,2017-04-15,321770034,True
+investment_677,startup_254,vc_36,Pre-seed,17876113,2017-04-15,357522260,False
+investment_678,startup_254,vc_121,Pre-seed,4361348,2022-05-23,17445392,True
+investment_679,startup_254,vc_1,Series A,40341735,2024-09-03,322733880,True
+investment_680,startup_254,vc_101,Series A,10417802,2023-03-11,41671208,True
+investment_681,startup_255,vc_83,Seed,8727811,2016-08-29,261834330,True
+investment_682,startup_255,vc_36,Seed,8727811,2016-08-29,183284031,False
+investment_683,startup_255,vc_130,Series B,8727811,2016-08-29,314201196,False
+investment_684,startup_256,vc_5,Series B,49555944,2021-10-20,594671328,True
+investment_685,startup_256,vc_146,Series C,6546313,2021-04-04,137472587,True
+investment_686,startup_256,vc_90,Pre-seed,6546313,2021-04-04,176750469,False
+investment_687,startup_256,vc_65,Series C,6546313,2021-04-04,137472587,False
+investment_688,startup_256,vc_99,Series A,7861135,2022-02-24,212250645,True
+investment_689,startup_256,vc_83,Series C,7861135,2022-02-24,212250645,False
+investment_690,startup_256,vc_132,Seed,7861135,2022-02-24,259417455,False
+investment_691,startup_257,vc_117,Seed,7702339,2024-07-07,207963171,True
+investment_692,startup_257,vc_40,Series A,7702339,2024-07-07,184856152,False
+investment_693,startup_257,vc_140,Seed,7702339,2024-07-07,138642114,False
+investment_694,startup_257,vc_42,Series C,15855762,2024-03-05,332971009,True
+investment_695,startup_257,vc_134,Seed,15855762,2024-03-05,237836435,False
+investment_696,startup_257,vc_128,Series A,15855762,2024-03-05,570807444,False
+investment_697,startup_259,vc_71,Series B,22110757,2024-01-28,265329084,True
+investment_698,startup_260,vc_133,Series B,24662594,2025-04-10,197300752,True
+investment_699,startup_260,vc_51,Seed,24662594,2025-04-10,246625940,False
+investment_700,startup_261,vc_98,Series A,3318701,2025-02-13,33187010,True
+investment_701,startup_261,vc_137,Series C,2394067,2024-11-19,11970335,True
+investment_702,startup_261,vc_119,Seed,2771555,2024-08-23,58202655,True
+investment_703,startup_261,vc_61,Series A,2771555,2024-08-23,74831985,False
+investment_704,startup_261,vc_91,Series C,2771555,2024-08-23,99775980,False
+investment_705,startup_265,vc_50,Pre-seed,13156407,2025-06-04,236815335,True
+investment_706,startup_265,vc_65,Series A,13156407,2025-06-04,131564075,False
+investment_707,startup_265,vc_65,Series C,16290897,2025-05-27,537599612,True
+investment_708,startup_265,vc_30,Pre-seed,16290897,2025-05-27,390981536,False
+investment_709,startup_265,vc_145,Pre-seed,16290897,2025-05-27,586472304,False
+investment_710,startup_265,vc_67,Series A,10530720,2025-05-27,347513760,True
+investment_711,startup_265,vc_28,Series A,10530720,2025-05-27,221145120,False
+investment_712,startup_265,vc_33,Seed,10530720,2025-05-27,347513760,False
+investment_713,startup_267,vc_117,Seed,9558987,2025-04-02,76471900,True
+investment_714,startup_267,vc_48,Series A,9558987,2025-04-02,229415700,False
+investment_715,startup_267,vc_18,Pre-seed,28121016,2025-03-11,168726096,True
+investment_716,startup_268,vc_39,Seed,22747440,2024-02-06,500443680,True
+investment_717,startup_268,vc_16,Series B,22747440,2024-02-06,500443680,False
+investment_718,startup_271,vc_61,Series C,8741942,2016-07-27,209806620,True
+investment_719,startup_271,vc_42,Pre-seed,8741942,2016-07-27,122387195,False
+investment_720,startup_271,vc_89,Series B,41416382,2024-12-23,372747438,True
+investment_721,startup_272,vc_70,Series A,9506967,2015-05-04,76055736,True
+investment_722,startup_272,vc_81,Series C,9506967,2015-05-04,133097538,False
+investment_723,startup_272,vc_96,Seed,37042149,2019-02-16,259295043,True
+investment_724,startup_274,vc_34,Series C,24362130,2025-01-02,267983430,True
+investment_725,startup_274,vc_40,Series B,18083171,2016-06-11,144665372,True
+investment_726,startup_274,vc_52,Series B,18083171,2016-06-11,397829773,False
+investment_727,startup_275,vc_78,Series A,35511444,2022-08-26,248580108,True
+investment_728,startup_276,vc_135,Series B,15378008,2024-01-11,246048136,True
+investment_729,startup_276,vc_131,Series C,15378008,2024-01-11,246048136,False
+investment_730,startup_276,vc_88,Series C,20116232,2021-11-06,181046088,True
+investment_731,startup_276,vc_111,Pre-seed,4093187,2020-03-18,49118244,True
+investment_732,startup_277,vc_38,Series B,3270686,2024-05-31,32706865,True
+investment_733,startup_277,vc_110,Pre-seed,3270686,2024-05-31,58872357,False
+investment_734,startup_277,vc_3,Series A,13701041,2024-10-18,246618738,True
+investment_735,startup_277,vc_110,Series A,13701041,2024-10-18,191814574,False
+investment_736,startup_277,vc_149,Pre-seed,19681289,2024-08-06,216494179,True
+investment_737,startup_278,vc_16,Series C,15882992,2023-11-21,127063936,True
+investment_738,startup_278,vc_11,Series B,19557281,2021-09-17,469374744,True
+investment_739,startup_278,vc_42,Seed,19557281,2021-09-17,352031058,False
+investment_740,startup_280,vc_79,Series A,16420061,2020-12-02,295561110,True
+investment_741,startup_280,vc_142,Pre-seed,16420061,2020-12-02,541862035,False
+investment_742,startup_280,vc_9,Series A,16420061,2020-12-02,541862035,False
+investment_743,startup_280,vc_101,Series A,20005746,2023-07-30,440126412,True
+investment_744,startup_280,vc_79,Series C,20005746,2023-07-30,360103428,False
+investment_745,startup_281,vc_141,Pre-seed,5371202,2024-11-13,177249688,True
+investment_746,startup_281,vc_75,Seed,5371202,2024-11-13,193363296,False
+investment_747,startup_281,vc_100,Series A,5371202,2024-11-13,112795256,False
+investment_748,startup_281,vc_18,Series B,8183258,2023-07-05,147298653,True
+investment_749,startup_281,vc_62,Pre-seed,8183258,2023-07-05,163665170,False
+investment_750,startup_281,vc_122,Series A,3204443,2024-12-06,25635544,True
+investment_751,startup_281,vc_39,Series B,3204443,2024-12-06,32044430,False
+investment_752,startup_282,vc_12,Pre-seed,968833,2019-09-06,7750664,True
+investment_753,startup_282,vc_85,Series A,18303628,2023-07-21,292858056,True
+investment_754,startup_282,vc_17,Pre-seed,18303628,2023-07-21,183036285,False
+investment_755,startup_282,vc_66,Series A,19869662,2021-12-31,238435950,True
+investment_756,startup_282,vc_59,Pre-seed,19869662,2021-12-31,476871900,False
+investment_757,startup_282,vc_6,Seed,17407968,2022-12-01,417791244,True
+investment_758,startup_282,vc_120,Seed,17407968,2022-12-01,417791244,False
+investment_759,startup_285,vc_68,Series B,1570083,2015-12-06,28261494,True
+investment_760,startup_285,vc_115,Series A,1570083,2015-12-06,42392241,False
+investment_761,startup_285,vc_24,Pre-seed,1570083,2015-12-06,32971743,False
+investment_762,startup_286,vc_59,Series B,43455616,2024-04-26,347644928,True
+investment_763,startup_287,vc_3,Series B,21515945,2025-04-11,172127560,True
+investment_764,startup_287,vc_109,Series A,1049321,2024-08-06,20986420,True
+investment_765,startup_287,vc_71,Seed,1049321,2024-08-06,25183704,False
+investment_766,startup_287,vc_136,Series B,9905687,2025-03-15,138679618,True
+investment_767,startup_287,vc_95,Series C,9905687,2025-03-15,138679618,False
+investment_768,startup_287,vc_136,Series B,6298646,2021-07-18,170063460,True
+investment_769,startup_287,vc_49,Series B,6298646,2021-07-18,188959400,False
+investment_770,startup_287,vc_121,Pre-seed,6298646,2021-07-18,94479700,False
+investment_771,startup_288,vc_100,Pre-seed,49192072,2015-09-16,245960360,True
+investment_772,startup_288,vc_84,Pre-seed,21465910,2019-05-08,128795460,True
+investment_773,startup_291,vc_45,Series A,15375055,2014-08-31,92250330,True
+investment_774,startup_291,vc_33,Pre-seed,16188511,2017-04-08,388524276,True
+investment_775,startup_291,vc_104,Series C,16188511,2017-04-08,323770230,False
+investment_776,startup_293,vc_109,Series A,13591459,2024-09-08,163097508,True
+investment_777,startup_293,vc_2,Seed,13591459,2024-09-08,448518147,False
+investment_778,startup_293,vc_49,Pre-seed,13591459,2024-09-08,407743770,False
+investment_779,startup_293,vc_48,Series B,20795720,2025-05-04,207957200,True
+investment_780,startup_293,vc_93,Series B,11462995,2025-01-11,183407920,True
+investment_781,startup_293,vc_145,Pre-seed,11462995,2025-01-11,160481930,False
+investment_782,startup_293,vc_95,Series B,13640613,2024-04-28,368296569,True
+investment_783,startup_293,vc_5,Seed,13640613,2024-04-28,204609205,False
+investment_784,startup_293,vc_54,Pre-seed,13640613,2024-04-28,204609205,False
+investment_785,startup_294,vc_51,Series A,2556786,2022-07-23,61362880,True
+investment_786,startup_294,vc_119,Pre-seed,2556786,2022-07-23,76703600,False
+investment_787,startup_294,vc_145,Series C,2556786,2022-07-23,92044320,False
+investment_788,startup_295,vc_139,Series B,24743635,2021-07-06,544359981,True
+investment_789,startup_295,vc_18,Series A,24743635,2021-07-06,593847252,False
+investment_790,startup_296,vc_58,Pre-seed,19900605,2024-07-14,477614532,True
+investment_791,startup_296,vc_118,Series B,19900605,2024-07-14,318409688,False
+investment_792,startup_297,vc_86,Series B,20268711,2025-04-21,202687110,True
+investment_793,startup_297,vc_124,Pre-seed,20268711,2025-04-21,283761954,False
+investment_794,startup_297,vc_17,Series B,9736278,2025-03-05,214198116,True
+investment_795,startup_297,vc_115,Seed,9736278,2025-03-05,116835336,False
+investment_796,startup_297,vc_35,Series C,13222890,2025-05-27,105783120,True
+investment_797,startup_299,vc_148,Series C,21983538,2025-05-16,483637847,True
+investment_798,startup_299,vc_40,Pre-seed,21983538,2025-05-16,175868308,False
+investment_799,startup_299,vc_102,Series A,18417818,2025-02-21,110506908,True
+investment_800,startup_299,vc_47,Pre-seed,4866733,2025-04-23,58400802,True
+investment_801,startup_299,vc_16,Series C,4866733,2025-04-23,58400802,False
+investment_802,startup_300,vc_111,Pre-seed,9233749,2022-03-30,46168745,True
+investment_803,startup_300,vc_111,Series A,24081840,2022-06-21,433473129,True
+investment_804,startup_300,vc_7,Series A,24081840,2022-06-21,385309448,False
+investment_805,startup_301,vc_1,Series C,14108370,2023-07-19,112866964,True
+investment_806,startup_301,vc_137,Series B,14108370,2023-07-19,282167410,False
+investment_807,startup_302,vc_25,Series C,5155826,2019-01-08,72181564,True
+investment_808,startup_302,vc_63,Series A,5155826,2019-01-08,103116520,False
+investment_809,startup_302,vc_23,Series C,11932049,2017-06-04,119320490,True
+investment_810,startup_302,vc_35,Pre-seed,11427178,2020-11-28,274252280,True
+investment_811,startup_302,vc_97,Series C,11427178,2020-11-28,205689210,False
+investment_812,startup_302,vc_48,Series C,11427178,2020-11-28,342815350,False
+investment_813,startup_302,vc_148,Series C,22832388,2018-09-27,228323880,True
+investment_814,startup_302,vc_81,Seed,22832388,2018-09-27,456647760,False
+investment_815,startup_305,vc_53,Series A,23569651,2024-02-13,141417906,True
+investment_816,startup_305,vc_29,Series C,14185508,2023-09-10,340452192,True
+investment_817,startup_305,vc_55,Series B,14185508,2023-09-10,141855080,False
+investment_818,startup_306,vc_103,Pre-seed,15715918,2023-06-15,345750196,True
+investment_819,startup_306,vc_102,Pre-seed,15715918,2023-06-15,251454688,False
+investment_820,startup_306,vc_101,Series B,23060033,2024-03-01,184480268,True
+investment_821,startup_306,vc_35,Seed,23060033,2024-03-01,230600335,False
+investment_822,startup_307,vc_131,Series B,16503488,2019-04-30,264055808,True
+investment_823,startup_307,vc_28,Pre-seed,16503488,2019-04-30,330069760,False
+investment_824,startup_310,vc_136,Series C,24429751,2024-05-09,439735527,True
+investment_825,startup_310,vc_118,Series C,24429751,2024-05-09,390876024,False
+investment_826,startup_310,vc_118,Seed,3702068,2024-08-24,133274460,True
+investment_827,startup_310,vc_20,Series A,3702068,2024-08-24,44424820,False
+investment_828,startup_310,vc_28,Series B,3702068,2024-08-24,66637230,False
+investment_829,startup_312,vc_126,Seed,4315751,2022-02-19,129472530,True
+investment_830,startup_312,vc_59,Seed,4315751,2022-02-19,155367036,False
+investment_831,startup_312,vc_16,Series A,4315751,2022-02-19,90630771,False
+investment_832,startup_313,vc_35,Pre-seed,5068780,2024-04-14,121650732,True
+investment_833,startup_313,vc_79,Seed,5068780,2024-04-14,101375610,False
+investment_834,startup_313,vc_88,Series B,731739,2024-05-24,5853912,True
+investment_835,startup_314,vc_124,Series A,13595001,2019-08-07,108760008,True
+investment_836,startup_314,vc_9,Series C,13595001,2019-08-07,163140012,False
+investment_837,startup_316,vc_2,Series B,5230059,2020-02-12,104601190,True
+investment_838,startup_316,vc_65,Series B,5230059,2020-02-12,41840476,False
+investment_839,startup_316,vc_122,Series A,2054058,2017-08-26,43135232,True
+investment_840,startup_316,vc_44,Seed,2054058,2017-08-26,55459584,False
+investment_841,startup_316,vc_52,Series B,2054058,2017-08-26,55459584,False
+investment_842,startup_317,vc_112,Series C,22644601,2024-10-27,362313616,True
+investment_843,startup_317,vc_69,Pre-seed,22644601,2024-10-27,543470424,False
+investment_844,startup_317,vc_108,Series A,13685224,2024-12-08,82111344,True
+investment_845,startup_318,vc_37,Series A,45201909,2024-10-18,452019090,True
+investment_846,startup_320,vc_64,Series C,2571741,2022-10-05,38576125,True
+investment_847,startup_320,vc_15,Series C,2571741,2022-10-05,38576125,False
+investment_848,startup_320,vc_133,Pre-seed,2571741,2022-10-05,54006575,False
+investment_849,startup_321,vc_80,Pre-seed,8698932,2025-05-16,260967960,True
+investment_850,startup_321,vc_100,Series A,8698932,2025-05-16,156580776,False
+investment_851,startup_321,vc_126,Series A,8698932,2025-05-16,156580776,False
+investment_852,startup_322,vc_139,Series A,11334070,2018-10-05,408026532,True
+investment_853,startup_322,vc_22,Series C,11334070,2018-10-05,340022110,False
+investment_854,startup_322,vc_131,Pre-seed,11334070,2018-10-05,374024321,False
+investment_855,startup_323,vc_38,Series A,24186564,2014-06-27,193492512,True
+investment_856,startup_323,vc_99,Series B,23625345,2016-05-14,212628105,True
+investment_857,startup_323,vc_129,Series A,22144674,2022-10-13,398604141,True
+investment_858,startup_323,vc_34,Series C,22144674,2022-10-13,310025443,False
+investment_859,startup_323,vc_11,Series C,20824960,2014-06-21,166599680,True
+investment_860,startup_325,vc_78,Series C,23505314,2017-11-19,282063774,True
+investment_861,startup_325,vc_113,Series C,23505314,2017-11-19,376085032,False
+investment_862,startup_325,vc_127,Seed,3491763,2015-08-07,38409393,True
+investment_863,startup_326,vc_7,Series A,16378250,2016-11-13,114647750,True
+investment_864,startup_326,vc_117,Pre-seed,23911678,2023-10-30,573880272,True
+investment_865,startup_326,vc_16,Series B,23911678,2023-10-30,239116780,False
+investment_866,startup_326,vc_0,Seed,23895841,2022-06-16,286750098,True
+investment_867,startup_326,vc_87,Series B,23895841,2022-06-16,430125147,False
+investment_868,startup_327,vc_134,Pre-seed,13663328,2022-03-14,163959940,True
+investment_869,startup_327,vc_18,Series A,13663328,2022-03-14,450889835,False
+investment_870,startup_327,vc_0,Series B,13663328,2022-03-14,491879820,False
+investment_871,startup_327,vc_95,Series B,9749649,2013-07-29,146244740,True
+investment_872,startup_327,vc_136,Seed,9749649,2013-07-29,233991584,False
+investment_873,startup_327,vc_106,Series B,9749649,2013-07-29,146244740,False
+investment_874,startup_328,vc_106,Series B,28781730,2024-06-03,345380760,True
+investment_875,startup_329,vc_60,Series B,12965215,2023-03-07,466747764,True
+investment_876,startup_329,vc_76,Seed,12965215,2023-03-07,272269529,False
+investment_877,startup_329,vc_81,Series B,12965215,2023-03-07,272269529,False
+investment_878,startup_330,vc_116,Pre-seed,4490881,2023-11-27,107781144,True
+investment_879,startup_330,vc_65,Series B,4490881,2023-11-27,94308501,False
+investment_880,startup_330,vc_140,Series B,4490881,2023-11-27,121253787,False
+investment_881,startup_330,vc_73,Pre-seed,47995349,2016-03-10,335967443,True
+investment_882,startup_330,vc_0,Series A,16196065,2023-07-12,194352780,True
+investment_883,startup_332,vc_6,Series C,31866054,2015-01-29,223062378,True
+investment_884,startup_333,vc_65,Pre-seed,15869677,2025-04-15,285654198,True
+investment_885,startup_333,vc_57,Series A,15869677,2025-04-15,523699363,False
+investment_886,startup_333,vc_130,Series B,15869677,2025-04-15,190436132,False
+investment_887,startup_334,vc_2,Pre-seed,34939135,2025-02-13,384330485,True
+investment_888,startup_335,vc_130,Pre-seed,15056906,2021-03-22,451707200,True
+investment_889,startup_335,vc_105,Pre-seed,15056906,2021-03-22,271024320,False
+investment_890,startup_335,vc_29,Series C,15056906,2021-03-22,542048640,False
+investment_891,startup_336,vc_117,Series C,29799946,2024-05-05,297999460,True
+investment_892,startup_337,vc_11,Seed,1663055,2025-05-26,59870004,True
+investment_893,startup_337,vc_144,Series C,1663055,2025-05-26,34924169,False
+investment_894,startup_337,vc_97,Series C,1663055,2025-05-26,54880837,False
+investment_895,startup_338,vc_19,Pre-seed,30204602,2015-04-09,362455224,True
+investment_896,startup_338,vc_79,Seed,14751667,2020-09-19,354040020,True
+investment_897,startup_338,vc_140,Seed,14751667,2020-09-19,236026680,False
+investment_898,startup_343,vc_71,Series A,26894107,2019-04-04,295835177,True
+investment_899,startup_344,vc_31,Series A,20759752,2025-01-03,207597520,True
+investment_900,startup_346,vc_100,Pre-seed,3333660,2023-04-09,70006860,True
+investment_901,startup_346,vc_27,Pre-seed,3333660,2023-04-09,110010780,False
+investment_902,startup_346,vc_14,Series C,3333660,2023-04-09,60005880,False
+investment_903,startup_350,vc_67,Series B,3874245,2020-04-05,19371225,True
+investment_904,startup_350,vc_124,Series A,15743115,2019-09-18,141688035,True
+investment_905,startup_351,vc_116,Seed,14798356,2024-08-16,399555630,True
+investment_906,startup_351,vc_30,Series A,14798356,2024-08-16,443950700,False
+investment_907,startup_351,vc_70,Pre-seed,14798356,2024-08-16,355160560,False
+investment_908,startup_354,vc_29,Series C,8476100,2025-01-10,101713204,True
+investment_909,startup_354,vc_88,Series C,8476100,2025-01-10,279711311,False
+investment_910,startup_354,vc_19,Series C,8476100,2025-01-10,177998107,False
+investment_911,startup_355,vc_26,Seed,2292611,2022-08-05,22926110,True
+investment_912,startup_355,vc_24,Series B,15983747,2023-12-05,431561178,True
+investment_913,startup_355,vc_130,Pre-seed,15983747,2023-12-05,383609936,False
+investment_914,startup_355,vc_101,Series A,15983747,2023-12-05,335658694,False
+investment_915,startup_356,vc_27,Series B,4048801,2021-08-22,121464040,True
+investment_916,startup_356,vc_0,Pre-seed,4048801,2021-08-22,133610444,False
+investment_917,startup_356,vc_95,Series B,4048801,2021-08-22,97171232,False
+investment_918,startup_357,vc_89,Series A,13089366,2022-11-12,261787330,True
+investment_919,startup_357,vc_103,Series C,13089366,2022-11-12,157072398,False
+investment_920,startup_358,vc_137,Pre-seed,46636499,2023-04-27,559637988,True
+investment_921,startup_358,vc_142,Series B,8731730,2024-09-24,122244227,True
+investment_922,startup_358,vc_60,Series C,8731730,2024-09-24,157171149,False
+investment_923,startup_359,vc_3,Series B,5054596,2024-02-06,45491364,True
+investment_924,startup_360,vc_34,Pre-seed,11380866,2024-09-14,170712990,True
+investment_925,startup_360,vc_28,Series A,11380866,2024-09-14,136570392,False
+investment_926,startup_360,vc_43,Seed,11380866,2024-09-14,375568578,False
+investment_927,startup_360,vc_61,Pre-seed,18882513,2024-09-11,339885234,True
+investment_928,startup_360,vc_57,Pre-seed,18882513,2024-09-11,377650260,False
+investment_929,startup_361,vc_25,Pre-seed,12906045,2022-09-14,154872546,True
+investment_930,startup_361,vc_21,Pre-seed,12906045,2022-09-14,206496728,False
+investment_931,startup_361,vc_9,Pre-seed,2221301,2020-03-30,26655612,True
+investment_932,startup_361,vc_44,Series A,2221301,2020-03-30,35540816,False
+investment_933,startup_362,vc_130,Pre-seed,21915721,2023-01-12,153410047,True
+investment_934,startup_363,vc_146,Series C,21773858,2024-09-30,239512438,True
+investment_935,startup_363,vc_85,Series C,12671820,2023-10-11,304123692,True
+investment_936,startup_363,vc_112,Series A,12671820,2023-10-11,278780051,False
+investment_937,startup_364,vc_55,Series B,15455989,2021-01-30,154559890,True
+investment_938,startup_364,vc_136,Seed,15455989,2021-01-30,247295824,False
+investment_939,startup_364,vc_43,Series A,901450,2018-06-21,16226112,True
+investment_940,startup_364,vc_9,Series B,901450,2018-06-21,10817408,False
+investment_941,startup_364,vc_74,Series C,901450,2018-06-21,10817408,False
+investment_942,startup_366,vc_136,Series C,4167027,2016-12-02,83340540,True
+investment_943,startup_366,vc_60,Pre-seed,4167027,2016-12-02,58338378,False
+investment_944,startup_366,vc_75,Series B,13426291,2022-04-07,201394375,True
+investment_945,startup_366,vc_27,Series C,13426291,2022-04-07,362509875,False
+investment_946,startup_366,vc_118,Pre-seed,13426291,2022-04-07,443067625,False
+investment_947,startup_367,vc_137,Series A,12173687,2023-04-07,121736875,True
+investment_948,startup_367,vc_126,Pre-seed,12173687,2023-04-07,292168500,False
+investment_949,startup_369,vc_13,Series B,5478800,2020-08-28,65745604,True
+investment_950,startup_369,vc_105,Pre-seed,5478800,2020-08-28,180800411,False
+investment_951,startup_369,vc_30,Series A,5478800,2020-08-28,65745604,False
+investment_952,startup_369,vc_145,Seed,720219,2018-12-23,11523512,True
+investment_953,startup_369,vc_73,Pre-seed,720219,2018-12-23,7202195,False
+investment_954,startup_370,vc_62,Seed,23967454,2023-08-23,575218896,True
+investment_955,startup_370,vc_32,Seed,23967454,2023-08-23,575218896,False
+investment_956,startup_370,vc_143,Pre-seed,41595794,2022-09-20,249574764,True
+investment_957,startup_371,vc_26,Series C,39099889,2024-12-02,469198668,True
+investment_958,startup_371,vc_77,Series B,22516766,2024-07-26,225167660,True
+investment_959,startup_371,vc_59,Series A,22516766,2024-07-26,315234724,False
+investment_960,startup_374,vc_50,Pre-seed,35674252,2021-06-05,356742520,True
+investment_961,startup_374,vc_67,Series B,1647739,2015-09-27,16477390,True
+investment_962,startup_374,vc_63,Series B,1647739,2015-09-27,13181912,False
+investment_963,startup_377,vc_146,Series B,11945379,2016-08-16,119453790,True
+investment_964,startup_380,vc_53,Seed,20778500,2023-11-08,498684012,True
+investment_965,startup_380,vc_93,Series C,20778500,2023-11-08,498684012,False
+investment_966,startup_381,vc_4,Pre-seed,6311436,2020-07-11,88360111,True
+investment_967,startup_381,vc_11,Seed,6311436,2020-07-11,113605857,False
+investment_968,startup_381,vc_140,Series C,18330263,2023-04-01,183302635,True
+investment_969,startup_381,vc_132,Seed,18330263,2023-04-01,293284216,False
+investment_970,startup_381,vc_75,Series A,33408742,2021-07-16,300678678,True
+investment_971,startup_384,vc_78,Seed,15377202,2024-06-02,307544040,True
+investment_972,startup_384,vc_18,Series B,15377202,2024-06-02,276789636,False
+investment_973,startup_384,vc_5,Series C,18406553,2023-12-14,147252428,True
+investment_974,startup_384,vc_37,Series C,18406553,2023-12-14,257691749,False
+investment_975,startup_385,vc_84,Pre-seed,23708082,2016-10-15,474161640,True
+investment_976,startup_385,vc_126,Seed,23708082,2016-10-15,474161640,False
+investment_977,startup_385,vc_23,Series A,6609072,2021-10-10,79308864,True
+investment_978,startup_385,vc_6,Series A,6609072,2021-10-10,158617728,False
+investment_979,startup_385,vc_98,Seed,22948028,2024-10-09,550752672,True
+investment_980,startup_385,vc_5,Seed,22948028,2024-10-09,458960560,False
+investment_981,startup_387,vc_91,Seed,11331281,2019-11-15,203963067,True
+investment_982,startup_387,vc_67,Series B,11331281,2019-11-15,249288193,False
+investment_983,startup_387,vc_149,Seed,9431632,2025-04-19,188632640,True
+investment_984,startup_387,vc_102,Series B,9431632,2025-04-19,188632640,False
+investment_985,startup_387,vc_7,Series A,13290374,2024-10-26,106322992,True
+investment_986,startup_387,vc_75,Series A,13290374,2024-10-26,106322992,False
+investment_987,startup_388,vc_14,Series A,13111153,2021-01-27,157333836,True
+investment_988,startup_388,vc_61,Pre-seed,13111153,2021-01-27,314667672,False
+investment_989,startup_388,vc_67,Series B,1360765,2021-06-15,6803825,True
+investment_990,startup_388,vc_88,Series C,11966443,2022-01-26,215395986,True
+investment_991,startup_388,vc_32,Seed,11966443,2022-01-26,179496655,False
+investment_992,startup_388,vc_135,Series C,11966443,2022-01-26,394892641,False
+investment_993,startup_390,vc_42,Series A,2215054,2022-10-19,35440872,True
+investment_994,startup_390,vc_87,Series A,2215054,2022-10-19,35440872,False
+investment_995,startup_390,vc_96,Seed,16510814,2023-08-24,594389328,True
+investment_996,startup_390,vc_70,Series C,16510814,2023-08-24,594389328,False
+investment_997,startup_390,vc_106,Series B,16510814,2023-08-24,346727108,False
+investment_998,startup_391,vc_66,Series B,10975743,2022-11-18,87805944,True
+investment_999,startup_392,vc_37,Pre-seed,28921867,2014-12-07,173531202,True
+investment_1000,startup_393,vc_12,Series B,6061538,2021-08-15,121230760,True
+investment_1001,startup_393,vc_99,Series B,6061538,2021-08-15,145476912,False
+investment_1002,startup_393,vc_72,Seed,17780638,2023-02-25,391174047,True
+investment_1003,startup_393,vc_104,Pre-seed,17780638,2023-02-25,355612770,False
+investment_1004,startup_393,vc_41,Series A,13011221,2023-03-16,312269320,True
+investment_1005,startup_393,vc_39,Series B,13011221,2023-03-16,195168325,False
+investment_1006,startup_393,vc_24,Pre-seed,13011221,2023-03-16,429370315,False
+investment_1007,startup_393,vc_109,Series C,15435394,2024-01-16,246966312,True
+investment_1008,startup_393,vc_23,Series C,15435394,2024-01-16,185224734,False
+investment_1009,startup_394,vc_127,Series A,31406723,2022-03-20,376880676,True
+investment_1010,startup_395,vc_109,Series B,4545530,2023-10-27,109092728,True
+investment_1011,startup_395,vc_39,Series A,4545530,2023-10-27,54546364,False
+investment_1012,startup_395,vc_67,Seed,4545530,2023-10-27,81819546,False
+investment_1013,startup_395,vc_55,Series B,13727317,2022-01-04,329455624,True
+investment_1014,startup_395,vc_70,Pre-seed,13727317,2022-01-04,205909765,False
+investment_1015,startup_395,vc_89,Series B,13727317,2022-01-04,370637577,False
+investment_1016,startup_396,vc_114,Series B,21945831,2020-12-05,307241641,True
+investment_1017,startup_396,vc_83,Seed,21945831,2020-12-05,307241641,False
+investment_1018,startup_396,vc_29,Seed,3383402,2023-04-20,71051449,True
+investment_1019,startup_396,vc_76,Series B,3383402,2023-04-20,121802484,False
+investment_1020,startup_396,vc_111,Series A,3383402,2023-04-20,50751035,False
+investment_1021,startup_397,vc_34,Pre-seed,26225535,2019-11-06,262255350,True
+investment_1022,startup_399,vc_62,Seed,8713042,2013-11-20,191686924,True
+investment_1023,startup_399,vc_2,Seed,8713042,2013-11-20,104556504,False
+investment_1024,startup_399,vc_91,Pre-seed,20295668,2024-04-09,324730688,True
+investment_1025,startup_399,vc_83,Series A,20295668,2024-04-09,162365344,False
+investment_1026,startup_399,vc_82,Pre-seed,24879134,2024-04-19,348307876,True
+investment_1027,startup_399,vc_94,Seed,24879134,2024-04-19,497582680,False
+investment_1028,startup_399,vc_34,Series C,1067273,2014-01-13,21345460,True
+investment_1029,startup_399,vc_65,Series C,1067273,2014-01-13,21345460,False
+investment_1030,startup_400,vc_116,Series A,2672093,2025-03-29,26720930,True
+investment_1031,startup_400,vc_8,Seed,2672093,2025-03-29,42753488,False
+investment_1032,startup_400,vc_143,Series B,19456382,2024-07-26,350214885,True
+investment_1033,startup_400,vc_122,Seed,19456382,2024-07-26,428040415,False
+investment_1034,startup_402,vc_120,Seed,15603199,2022-09-13,468095970,True
+investment_1035,startup_402,vc_127,Seed,15603199,2022-09-13,561715164,False
+investment_1036,startup_402,vc_66,Series B,15603199,2022-09-13,374476776,False
+investment_1037,startup_404,vc_104,Series B,23610021,2025-04-27,236100215,True
+investment_1038,startup_404,vc_74,Pre-seed,23610021,2025-04-27,377760344,False
+investment_1039,startup_405,vc_89,Series A,20951912,2024-02-03,167615296,True
+investment_1040,startup_407,vc_38,Seed,12572305,2025-04-17,150867664,True
+investment_1041,startup_407,vc_78,Series C,12572305,2025-04-17,452602992,False
+investment_1042,startup_407,vc_17,Series A,12572305,2025-04-17,377169160,False
+investment_1043,startup_407,vc_129,Series A,18797675,2025-03-13,338358150,True
+investment_1044,startup_407,vc_130,Pre-seed,18797675,2025-03-13,225572100,False
+investment_1045,startup_408,vc_113,Series C,4956466,2019-08-10,24782330,True
+investment_1046,startup_408,vc_103,Series A,19041740,2019-05-18,304667840,True
+investment_1047,startup_408,vc_98,Pre-seed,19041740,2019-05-18,457001760,False
+investment_1048,startup_408,vc_42,Series C,13688589,2016-01-16,410657690,True
+investment_1049,startup_408,vc_103,Series C,13688589,2016-01-16,164263076,False
+investment_1050,startup_408,vc_116,Pre-seed,13688589,2016-01-16,492789228,False
+investment_1051,startup_409,vc_46,Pre-seed,36407002,2023-09-14,254849014,True
+investment_1052,startup_410,vc_53,Series C,688812,2020-08-21,15153875,True
+investment_1053,startup_410,vc_13,Series C,688812,2020-08-21,15153875,False
+investment_1054,startup_411,vc_146,Series B,42410948,2023-12-01,466520428,True
+investment_1055,startup_411,vc_47,Pre-seed,15620017,2021-12-02,281160312,True
+investment_1056,startup_411,vc_28,Pre-seed,15620017,2021-12-02,515460572,False
+investment_1057,startup_411,vc_7,Series C,15620017,2021-12-02,281160312,False
+investment_1058,startup_412,vc_149,Series C,13905970,2023-12-21,375461190,True
+investment_1059,startup_412,vc_59,Pre-seed,13905970,2023-12-21,166871640,False
+investment_1060,startup_412,vc_106,Series B,13905970,2023-12-21,500614920,False
+investment_1061,startup_412,vc_130,Seed,24084643,2020-09-03,192677148,True
+investment_1062,startup_412,vc_96,Pre-seed,24084643,2020-09-03,385354296,False
+investment_1063,startup_415,vc_3,Seed,11421746,2025-05-20,251278412,True
+investment_1064,startup_415,vc_116,Pre-seed,11421746,2025-05-20,182747936,False
+investment_1065,startup_415,vc_35,Pre-seed,9166980,2025-05-16,220007536,True
+investment_1066,startup_415,vc_10,Series B,9166980,2025-05-16,192506594,False
+investment_1067,startup_415,vc_64,Series A,9166980,2025-05-16,220007536,False
+investment_1068,startup_415,vc_69,Series A,30397389,2025-05-13,273576501,True
+investment_1069,startup_416,vc_146,Seed,394704,2019-06-04,3157636,True
+investment_1070,startup_416,vc_43,Seed,394704,2019-06-04,5525863,False
+investment_1071,startup_416,vc_123,Series A,15032608,2022-10-15,225489125,True
+investment_1072,startup_416,vc_127,Seed,15032608,2022-10-15,270586950,False
+investment_1073,startup_416,vc_0,Seed,15032608,2022-10-15,405880425,False
+investment_1074,startup_417,vc_143,Pre-seed,15189936,2015-02-09,273418854,True
+investment_1075,startup_417,vc_80,Pre-seed,15189936,2015-02-09,318988663,False
+investment_1076,startup_417,vc_148,Series A,15189936,2015-02-09,273418854,False
+investment_1077,startup_417,vc_144,Series C,10575028,2016-11-27,116325308,True
+investment_1078,startup_417,vc_71,Series B,9804555,2017-09-17,205895662,True
+investment_1079,startup_417,vc_75,Series B,9804555,2017-09-17,235309328,False
+investment_1080,startup_417,vc_117,Series A,9804555,2017-09-17,147068330,False
+investment_1081,startup_417,vc_117,Pre-seed,4371479,2013-06-30,91801059,True
+investment_1082,startup_417,vc_149,Series A,4371479,2013-06-30,104915496,False
+investment_1083,startup_417,vc_14,Series B,4371479,2013-06-30,78686622,False
+investment_1084,startup_418,vc_128,Series B,14876995,2025-03-10,535571820,True
+investment_1085,startup_418,vc_134,Series A,14876995,2025-03-10,446309850,False
+investment_1086,startup_418,vc_98,Pre-seed,14876995,2025-03-10,401678865,False
+investment_1087,startup_418,vc_132,Series C,10342287,2025-01-07,206845740,True
+investment_1088,startup_418,vc_82,Series C,10342287,2025-01-07,248214888,False
+investment_1089,startup_418,vc_31,Series A,14136376,2024-09-30,113091008,True
+investment_1090,startup_418,vc_5,Pre-seed,14136376,2024-09-30,113091008,False
+investment_1091,startup_419,vc_135,Seed,12766668,2018-09-08,280866696,True
+investment_1092,startup_419,vc_60,Seed,12766668,2018-09-08,153200016,False
+investment_1093,startup_419,vc_139,Pre-seed,15578131,2018-04-03,186937572,True
+investment_1094,startup_419,vc_110,Series B,15578131,2018-04-03,186937572,False
+investment_1095,startup_419,vc_47,Series C,15578131,2018-04-03,280406358,False
+investment_1096,startup_419,vc_60,Pre-seed,13825691,2017-07-05,414770740,True
+investment_1097,startup_419,vc_98,Pre-seed,13825691,2017-07-05,248862444,False
+investment_1098,startup_419,vc_82,Pre-seed,13825691,2017-07-05,331816592,False
+investment_1099,startup_422,vc_0,Pre-seed,13397960,2023-09-12,321551052,True
+investment_1100,startup_422,vc_10,Seed,13397960,2023-09-12,160775526,False
+investment_1101,startup_422,vc_48,Series A,18247005,2025-02-15,182470050,True
+investment_1102,startup_422,vc_70,Pre-seed,11633008,2022-09-25,139596096,True
+investment_1103,startup_422,vc_62,Series C,11633008,2022-09-25,174495120,False
+investment_1104,startup_422,vc_56,Series A,11633008,2022-09-25,348990240,False
+investment_1105,startup_423,vc_91,Seed,13555633,2024-09-12,271112660,True
+investment_1106,startup_423,vc_87,Pre-seed,13555633,2024-09-12,244001394,False
+investment_1107,startup_423,vc_14,Pre-seed,25506869,2025-02-17,127534345,True
+investment_1108,startup_423,vc_33,Seed,11886444,2020-07-07,285274656,True
+investment_1109,startup_423,vc_118,Series C,11886444,2020-07-07,213955992,False
+investment_1110,startup_425,vc_77,Series A,2013391,2024-10-21,20133915,True
+investment_1111,startup_425,vc_27,Series C,2013391,2024-10-21,28187481,False
+investment_1112,startup_428,vc_25,Seed,5642682,2021-03-23,56426820,True
+investment_1113,startup_428,vc_26,Series A,5642682,2021-03-23,67712184,False
+investment_1114,startup_428,vc_62,Series B,45974731,2025-01-17,413772579,True
+investment_1115,startup_428,vc_42,Series B,19593913,2019-07-01,137157391,True
+investment_1116,startup_429,vc_109,Seed,13470576,2020-10-10,215529224,True
+investment_1117,startup_429,vc_27,Seed,13470576,2020-10-10,323293836,False
+investment_1118,startup_430,vc_122,Pre-seed,7797903,2015-03-27,171553866,True
+investment_1119,startup_430,vc_68,Series B,7797903,2015-03-27,124766448,False
+investment_1120,startup_430,vc_26,Series A,16267431,2015-08-17,341616065,True
+investment_1121,startup_430,vc_33,Series A,16267431,2015-08-17,585627540,False
+investment_1122,startup_430,vc_124,Series A,16267431,2015-08-17,195209180,False
+investment_1123,startup_430,vc_129,Pre-seed,10952601,2018-06-20,219052030,True
+investment_1124,startup_430,vc_50,Seed,10952601,2018-06-20,240957233,False
+investment_1125,startup_431,vc_131,Series A,15614165,2013-03-13,374739972,True
+investment_1126,startup_431,vc_133,Seed,15614165,2013-03-13,218598317,False
+investment_1127,startup_431,vc_57,Seed,11256768,2020-02-08,202621833,True
+investment_1128,startup_431,vc_85,Series A,11256768,2020-02-08,135081222,False
+investment_1129,startup_431,vc_30,Series B,10909105,2017-05-13,130909264,True
+investment_1130,startup_431,vc_87,Series A,10909105,2017-05-13,163636580,False
+investment_1131,startup_431,vc_123,Seed,10909105,2017-05-13,327273160,False
+investment_1132,startup_432,vc_109,Seed,5440257,2024-06-14,97924626,True
+investment_1133,startup_432,vc_41,Series C,5440257,2024-06-14,179528481,False
+investment_1134,startup_432,vc_20,Series C,5440257,2024-06-14,114245397,False
+investment_1135,startup_432,vc_60,Seed,11185402,2024-06-08,111854020,True
+investment_1136,startup_432,vc_96,Seed,11185402,2024-06-08,178966432,False
+investment_1137,startup_432,vc_13,Series A,9419221,2023-11-30,226061304,True
+investment_1138,startup_432,vc_149,Pre-seed,9419221,2023-11-30,226061304,False
+investment_1139,startup_432,vc_129,Pre-seed,9419221,2023-11-30,339091956,False
+investment_1140,startup_433,vc_148,Pre-seed,15876626,2016-02-24,349285772,True
+investment_1141,startup_433,vc_88,Series A,15876626,2016-02-24,127013008,False
+investment_1142,startup_433,vc_87,Series C,8855506,2017-10-23,185965626,True
+investment_1143,startup_433,vc_140,Series C,8855506,2017-10-23,292231698,False
+investment_1144,startup_433,vc_57,Pre-seed,8855506,2017-10-23,185965626,False
+investment_1145,startup_433,vc_1,Series B,39581095,2023-05-11,356229855,True
+investment_1146,startup_435,vc_64,Series B,5720619,2021-02-14,171618580,True
+investment_1147,startup_435,vc_4,Pre-seed,5720619,2021-02-14,85809290,False
+investment_1148,startup_435,vc_43,Seed,5720619,2021-02-14,171618580,False
+investment_1149,startup_436,vc_30,Pre-seed,12304704,2022-08-18,221484678,True
+investment_1150,startup_436,vc_40,Seed,12304704,2022-08-18,332227017,False
+investment_1151,startup_436,vc_102,Series C,12304704,2022-08-18,406055243,False
+investment_1152,startup_437,vc_124,Series A,10942894,2025-04-30,131314728,True
+investment_1153,startup_437,vc_2,Series A,10942894,2025-04-30,196972092,False
+investment_1154,startup_438,vc_40,Pre-seed,2649474,2023-11-24,31793692,True
+investment_1155,startup_438,vc_87,Pre-seed,2649474,2023-11-24,87432653,False
+investment_1156,startup_438,vc_129,Series B,2649474,2023-11-24,39742115,False
+investment_1157,startup_438,vc_92,Series A,12373739,2024-04-26,148484874,True
+investment_1158,startup_438,vc_139,Seed,12373739,2024-04-26,272222269,False
+investment_1159,startup_438,vc_114,Series C,8849070,2022-11-17,185830477,True
+investment_1160,startup_438,vc_44,Series B,8849070,2022-11-17,106188844,False
+investment_1161,startup_438,vc_123,Series B,8849070,2022-11-17,159283266,False
+investment_1162,startup_438,vc_44,Series A,15273910,2024-12-20,504039030,True
+investment_1163,startup_438,vc_117,Series B,15273910,2024-12-20,320752110,False
+investment_1164,startup_438,vc_68,Series A,15273910,2024-12-20,320752110,False
+investment_1165,startup_439,vc_71,Series A,18576516,2023-06-14,371530320,True
+investment_1166,startup_439,vc_145,Series B,18576516,2023-06-14,148612128,False
+investment_1167,startup_439,vc_122,Pre-seed,44901789,2025-01-20,538821468,True
+investment_1168,startup_440,vc_69,Seed,9764594,2022-05-24,205056474,True
+investment_1169,startup_440,vc_127,Series B,9764594,2022-05-24,263644038,False
+investment_1170,startup_440,vc_60,Series B,9764594,2022-05-24,205056474,False
+investment_1171,startup_442,vc_3,Series A,47235895,2021-07-23,283415370,True
+investment_1172,startup_443,vc_16,Series C,28736229,2024-04-22,344834748,True
+investment_1173,startup_443,vc_70,Series B,31740773,2024-11-19,349148503,True
+investment_1174,startup_444,vc_16,Series C,34955162,2025-02-11,244686134,True
+investment_1175,startup_447,vc_67,Pre-seed,11911714,2025-02-18,250146001,True
+investment_1176,startup_447,vc_109,Series B,11911714,2025-02-18,142940572,False
+investment_1177,startup_447,vc_82,Series C,11911714,2025-02-18,250146001,False
+investment_1178,startup_447,vc_102,Pre-seed,17671545,2023-01-08,176715450,True
+investment_1179,startup_447,vc_147,Series B,29249235,2025-04-23,292492350,True
+investment_1180,startup_448,vc_7,Series B,3672174,2022-07-23,73443480,True
+investment_1181,startup_448,vc_29,Seed,3672174,2022-07-23,66099132,False
+investment_1182,startup_448,vc_30,Series C,15435028,2022-11-28,463050860,True
+investment_1183,startup_448,vc_8,Series B,15435028,2022-11-28,416745774,False
+investment_1184,startup_448,vc_38,Seed,15435028,2022-11-28,185220344,False
+investment_1185,startup_448,vc_100,Seed,22835951,2025-02-04,365375224,True
+investment_1186,startup_448,vc_81,Pre-seed,22835951,2025-02-04,411047127,False
+investment_1187,startup_449,vc_110,Seed,11805453,2016-10-06,318747240,True
+investment_1188,startup_449,vc_15,Series C,11805453,2016-10-06,177081800,False
+investment_1189,startup_449,vc_44,Pre-seed,11805453,2016-10-06,177081800,False
+investment_1190,startup_449,vc_85,Series B,8699984,2018-06-26,130499760,True
+investment_1191,startup_449,vc_124,Pre-seed,8699984,2018-06-26,287099472,False
+investment_1192,startup_449,vc_22,Series A,8699984,2018-06-26,313199424,False
+investment_1193,startup_450,vc_110,Pre-seed,28532787,2025-01-12,199729509,True
+investment_1194,startup_450,vc_10,Series A,4150823,2024-11-14,124524700,True
+investment_1195,startup_450,vc_146,Series C,4150823,2024-11-14,112072230,False
+investment_1196,startup_450,vc_115,Seed,4150823,2024-11-14,49809880,False
+investment_1197,startup_451,vc_144,Series C,44470709,2023-02-27,266824254,True
+investment_1198,startup_452,vc_30,Series C,12331573,2024-08-05,184973605,True
+investment_1199,startup_452,vc_75,Series B,12331573,2024-08-05,443936652,False
+investment_1200,startup_452,vc_103,Series B,12331573,2024-08-05,406941931,False
+investment_1201,startup_453,vc_46,Series A,3863075,2025-03-19,139070700,True
+investment_1202,startup_453,vc_131,Seed,3863075,2025-03-19,69535350,False
+investment_1203,startup_453,vc_83,Series B,3863075,2025-03-19,57946125,False
+investment_1204,startup_453,vc_144,Series C,30110549,2024-08-07,120442196,True
+investment_1205,startup_453,vc_66,Seed,17485432,2025-02-05,349708640,True
+investment_1206,startup_453,vc_41,Pre-seed,17485432,2025-02-05,244796048,False
+investment_1207,startup_456,vc_50,Seed,16640410,2023-02-22,249606150,True
+investment_1208,startup_456,vc_44,Series A,16640410,2023-02-22,599054760,False
+investment_1209,startup_456,vc_21,Seed,16640410,2023-02-22,549133530,False
+investment_1210,startup_456,vc_76,Series B,25196836,2025-01-14,277165196,True
+investment_1211,startup_456,vc_22,Series C,3106235,2024-09-30,74549652,True
+investment_1212,startup_456,vc_140,Series B,3106235,2024-09-30,31062355,False
+investment_1213,startup_457,vc_43,Series A,19563893,2024-09-24,430405657,True
+investment_1214,startup_457,vc_102,Series B,19563893,2024-09-24,234766722,False
+investment_1215,startup_457,vc_129,Pre-seed,7243697,2016-08-13,173848736,True
+investment_1216,startup_457,vc_65,Pre-seed,7243697,2016-08-13,86924368,False
+investment_1217,startup_457,vc_28,Series A,7243697,2016-08-13,152117644,False
+investment_1218,startup_457,vc_94,Series B,1159711,2018-03-22,38270463,True
+investment_1219,startup_457,vc_106,Series B,1159711,2018-03-22,31312197,False
+investment_1220,startup_457,vc_3,Series A,1159711,2018-03-22,27833064,False
+investment_1221,startup_458,vc_76,Pre-seed,10449411,2024-06-20,94044699,True
+investment_1222,startup_459,vc_114,Series B,16505522,2021-08-12,594198804,True
+investment_1223,startup_459,vc_81,Series B,16505522,2021-08-12,594198804,False
+investment_1224,startup_459,vc_126,Series A,16505522,2021-08-12,594198804,False
+investment_1225,startup_460,vc_70,Series B,10135569,2019-06-05,101355695,True
+investment_1226,startup_460,vc_119,Seed,10135569,2019-06-05,81084556,False
+investment_1227,startup_460,vc_142,Series B,6219925,2025-06-05,99518808,True
+investment_1228,startup_460,vc_27,Pre-seed,6219925,2025-06-05,99518808,False
+investment_1229,startup_461,vc_116,Seed,4527700,2025-05-01,149414111,True
+investment_1230,startup_461,vc_5,Pre-seed,4527700,2025-05-01,95081707,False
+investment_1231,startup_461,vc_46,Seed,4527700,2025-05-01,81498606,False
+investment_1232,startup_461,vc_133,Seed,19468517,2025-05-11,428307374,True
+investment_1233,startup_461,vc_14,Pre-seed,19468517,2025-05-11,272559238,False
+investment_1234,startup_462,vc_66,Pre-seed,2096016,2025-03-23,14672112,True
+investment_1235,startup_462,vc_67,Series C,16850372,2025-03-26,134802976,True
+investment_1236,startup_462,vc_87,Series B,16850372,2025-03-26,269605952,False
+investment_1237,startup_463,vc_73,Seed,4945012,2016-08-08,98900250,True
+investment_1238,startup_463,vc_3,Series C,4945012,2016-08-08,89010225,False
+investment_1239,startup_463,vc_82,Series C,41992428,2016-08-22,377931852,True
+investment_1240,startup_463,vc_122,Series A,9741856,2012-09-24,77934852,True
+investment_1241,startup_463,vc_107,Pre-seed,9741856,2012-09-24,77934852,False
+investment_1242,startup_463,vc_139,Pre-seed,7516350,2025-01-24,157843350,True
+investment_1243,startup_463,vc_67,Series B,7516350,2025-01-24,270588600,False
+investment_1244,startup_463,vc_96,Series C,7516350,2025-01-24,225490500,False
+investment_1245,startup_469,vc_115,Series C,49154401,2023-03-12,344080807,True
+investment_1246,startup_469,vc_1,Series B,14355928,2017-08-08,430677850,True
+investment_1247,startup_469,vc_41,Series A,14355928,2017-08-08,172271140,False
+investment_1248,startup_469,vc_85,Pre-seed,14355928,2017-08-08,258406710,False
+investment_1249,startup_475,vc_39,Series B,46163274,2020-08-26,184653096,True
+investment_1250,startup_475,vc_11,Series A,8098573,2024-01-20,267252920,True
+investment_1251,startup_475,vc_62,Series C,8098573,2024-01-20,121478600,False
+investment_1252,startup_475,vc_16,Pre-seed,8098573,2024-01-20,145774320,False
+investment_1253,startup_475,vc_138,Seed,2335335,2022-10-21,28024024,True
+investment_1254,startup_475,vc_8,Pre-seed,2335335,2022-10-21,70060060,False
+investment_1255,startup_475,vc_68,Series C,2335335,2022-10-21,35030030,False
+investment_1256,startup_478,vc_2,Pre-seed,5642824,2020-06-29,169284720,True
+investment_1257,startup_478,vc_57,Series C,5642824,2020-06-29,101570832,False
+investment_1258,startup_478,vc_80,Series C,5642824,2020-06-29,169284720,False
+investment_1259,startup_480,vc_125,Series B,8917961,2025-05-22,187277195,True
+investment_1260,startup_480,vc_32,Pre-seed,8917961,2025-05-22,294292735,False
+investment_1261,startup_480,vc_145,Series A,8917961,2025-05-22,107015540,False
+investment_1262,startup_480,vc_104,Seed,11159981,2025-05-28,66959886,True
+investment_1263,startup_480,vc_116,Series A,10652720,2025-05-05,287623449,True
+investment_1264,startup_480,vc_33,Series B,10652720,2025-05-05,287623449,False
+investment_1265,startup_480,vc_97,Pre-seed,10652720,2025-05-05,383497932,False
+investment_1266,startup_480,vc_84,Seed,14835894,2025-05-19,222538410,True
+investment_1267,startup_480,vc_122,Series C,14835894,2025-05-19,445076820,False
+investment_1268,startup_480,vc_40,Series A,14835894,2025-05-19,267046092,False
+investment_1269,startup_481,vc_43,Seed,5616679,2019-05-27,151650351,True
+investment_1270,startup_481,vc_129,Series C,5616679,2019-05-27,134800312,False
+investment_1271,startup_481,vc_46,Series B,5616679,2019-05-27,151650351,False
+investment_1272,startup_482,vc_98,Series C,35470331,2018-11-07,319232979,True
+investment_1273,startup_484,vc_43,Pre-seed,21817973,2022-07-28,152725811,True
+investment_1274,startup_484,vc_49,Pre-seed,15065099,2022-04-02,120520792,True
+investment_1275,startup_485,vc_79,Pre-seed,933906,2022-06-29,30818898,True
+investment_1276,startup_485,vc_31,Seed,933906,2022-06-29,22413744,False
+investment_1277,startup_485,vc_98,Series A,933906,2022-06-29,19612026,False
+investment_1278,startup_485,vc_9,Series C,9860527,2023-08-21,147907905,True
+investment_1279,startup_485,vc_89,Seed,9860527,2023-08-21,118326324,False
+investment_1280,startup_485,vc_5,Seed,9860527,2023-08-21,325397391,False
+investment_1281,startup_485,vc_92,Series A,8648034,2025-02-23,155664612,True
+investment_1282,startup_485,vc_117,Series C,8648034,2025-02-23,86480340,False
+investment_1283,startup_486,vc_66,Series A,6210819,2020-02-02,68319009,True
+investment_1284,startup_486,vc_141,Series B,10457311,2019-07-29,146402354,True
+investment_1285,startup_486,vc_112,Series A,10457311,2019-07-29,250975464,False
+investment_1286,startup_486,vc_27,Seed,10625715,2021-10-21,382525764,True
+investment_1287,startup_486,vc_24,Series B,10625715,2021-10-21,382525764,False
+investment_1288,startup_486,vc_40,Series C,10625715,2021-10-21,223140029,False
+investment_1289,startup_486,vc_33,Pre-seed,6000057,2024-06-01,108001035,True
+investment_1290,startup_486,vc_5,Seed,6000057,2024-06-01,60000575,False
+investment_1291,startup_488,vc_61,Seed,14625165,2024-01-06,73125825,True
+investment_1292,startup_488,vc_116,Series B,7143053,2023-10-12,171433284,True
+investment_1293,startup_488,vc_115,Series A,7143053,2023-10-12,114288856,False
+investment_1294,startup_488,vc_22,Series B,11591833,2018-01-23,231836670,True
+investment_1295,startup_488,vc_81,Series A,11591833,2018-01-23,139102002,False
+investment_1296,startup_488,vc_110,Seed,13006107,2021-09-10,273128261,True
+investment_1297,startup_488,vc_51,Pre-seed,13006107,2021-09-10,429201553,False
+investment_1298,startup_488,vc_34,Series B,13006107,2021-09-10,156073292,False
+investment_1299,startup_489,vc_41,Pre-seed,5963070,2023-10-19,214670532,True
+investment_1300,startup_489,vc_69,Seed,5963070,2023-10-19,214670532,False
+investment_1301,startup_489,vc_16,Series A,5963070,2023-10-19,161002899,False
+investment_1302,startup_489,vc_70,Seed,1910938,2023-04-22,22931256,True
+investment_1303,startup_489,vc_100,Series A,1910938,2023-04-22,68793768,False
+investment_1304,startup_489,vc_69,Series C,1910938,2023-04-22,45862512,False
+investment_1305,startup_489,vc_137,Series C,15224507,2016-12-10,182694084,True
+investment_1306,startup_489,vc_76,Series C,15224507,2016-12-10,182694084,False
+investment_1307,startup_489,vc_141,Seed,15224507,2016-12-10,182694084,False
+investment_1308,startup_492,vc_70,Pre-seed,19317744,2025-05-21,347719401,True
+investment_1309,startup_492,vc_30,Seed,19317744,2025-05-21,347719401,False
+investment_1310,startup_493,vc_101,Series C,6603704,2024-05-19,178300008,True
+investment_1311,startup_493,vc_21,Pre-seed,6603704,2024-05-19,217922232,False
+investment_1312,startup_493,vc_95,Pre-seed,6603704,2024-05-19,138677784,False
+investment_1313,startup_495,vc_145,Series C,11190277,2019-01-15,123093047,True
+investment_1314,startup_495,vc_74,Seed,17423189,2023-12-28,243924653,True
+investment_1315,startup_495,vc_66,Pre-seed,17423189,2023-12-28,209078274,False
+investment_1316,startup_495,vc_89,Series B,2328634,2019-11-23,62873136,True
+investment_1317,startup_495,vc_83,Series B,2328634,2019-11-23,27943616,False
+investment_1318,startup_495,vc_66,Pre-seed,2328634,2019-11-23,83830848,False
+investment_1319,startup_496,vc_26,Seed,11407983,2023-01-19,228159660,True
+investment_1320,startup_496,vc_123,Series B,11407983,2023-01-19,228159660,False
+investment_1321,startup_498,vc_11,Series C,11333187,2021-09-17,271996488,True
+investment_1322,startup_498,vc_147,Pre-seed,11333187,2021-09-17,135998244,False
+investment_1323,startup_498,vc_85,Pre-seed,11333187,2021-09-17,373995171,False
+investment_1324,startup_499,vc_101,Series C,8134649,2023-11-06,268443428,True
+investment_1325,startup_499,vc_56,Series C,8134649,2023-11-06,244039480,False
+investment_1326,startup_499,vc_91,Series B,8134649,2023-11-06,122019740,False
+investment_1327,startup_501,vc_51,Series C,11930876,2024-09-29,214755774,True
+investment_1328,startup_501,vc_48,Series C,11930876,2024-09-29,250548403,False
+investment_1329,startup_501,vc_77,Series C,11930876,2024-09-29,322133661,False
+investment_1330,startup_502,vc_43,Seed,5112596,2016-04-11,102251920,True
+investment_1331,startup_502,vc_57,Seed,5112596,2016-04-11,61351152,False
+investment_1332,startup_502,vc_118,Series C,3841420,2020-02-19,57621305,True
+investment_1333,startup_502,vc_35,Series C,3841420,2020-02-19,126766871,False
+investment_1334,startup_502,vc_117,Seed,3841420,2020-02-19,126766871,False
+investment_1335,startup_502,vc_54,Series A,11370058,2019-08-25,250141276,True
+investment_1336,startup_502,vc_46,Series C,11370058,2019-08-25,159180812,False
+investment_1337,startup_503,vc_27,Series B,15116697,2025-05-13,136050273,True
+investment_1338,startup_503,vc_118,Series C,7604483,2025-04-29,91253796,True
+investment_1339,startup_504,vc_17,Seed,31451206,2020-10-14,125804824,True
+investment_1340,startup_505,vc_11,Seed,17020175,2022-02-19,204242100,True
+investment_1341,startup_505,vc_28,Seed,17020175,2022-02-19,136161400,False
+investment_1342,startup_505,vc_61,Series C,21444623,2023-11-15,85778492,True
+investment_1343,startup_506,vc_45,Series B,3346219,2023-10-11,60231942,True
+investment_1344,startup_506,vc_129,Seed,3346219,2023-10-11,40154628,False
+investment_1345,startup_506,vc_120,Seed,3346219,2023-10-11,50193285,False
+investment_1346,startup_506,vc_135,Series A,11230107,2021-11-13,370593553,True
+investment_1347,startup_506,vc_99,Series A,11230107,2021-11-13,134761292,False
+investment_1348,startup_506,vc_116,Series B,11230107,2021-11-13,134761292,False
+investment_1349,startup_506,vc_37,Series B,9269319,2019-03-13,148309104,True
+investment_1350,startup_506,vc_101,Series C,9269319,2019-03-13,185386380,False
+investment_1351,startup_507,vc_11,Seed,20252465,2017-09-11,405049300,True
+investment_1352,startup_507,vc_149,Pre-seed,20252465,2017-09-11,283534510,False
+investment_1353,startup_508,vc_20,Series B,12848136,2022-11-14,231266460,True
+investment_1354,startup_508,vc_105,Series A,12848136,2022-11-14,462532920,False
+investment_1355,startup_508,vc_9,Series A,12848136,2022-11-14,231266460,False
+investment_1356,startup_508,vc_131,Series B,15935456,2020-05-13,239031845,True
+investment_1357,startup_508,vc_145,Series A,15935456,2020-05-13,191225476,False
+investment_1358,startup_508,vc_99,Seed,15935456,2020-05-13,334644583,False
+investment_1359,startup_508,vc_121,Series C,16726179,2021-12-24,117083253,True
+investment_1360,startup_508,vc_26,Seed,22087328,2025-02-07,176698624,True
+investment_1361,startup_508,vc_30,Series B,22087328,2025-02-07,265047936,False
+investment_1362,startup_509,vc_128,Series A,13358351,2024-12-02,160300212,True
+investment_1363,startup_509,vc_132,Series A,34879293,2024-10-24,279034344,True
+investment_1364,startup_509,vc_2,Seed,9749201,2020-11-01,233980824,True
+investment_1365,startup_509,vc_97,Seed,9749201,2020-11-01,77993608,False
+investment_1366,startup_510,vc_33,Seed,6714076,2025-04-16,241706736,True
+investment_1367,startup_510,vc_78,Series B,6714076,2025-04-16,100711140,False
+investment_1368,startup_510,vc_19,Series A,6714076,2025-04-16,181280052,False
+investment_1369,startup_512,vc_3,Seed,17677375,2020-09-20,282838008,True
+investment_1370,startup_512,vc_8,Series B,17677375,2020-09-20,176773755,False
+investment_1371,startup_512,vc_110,Series A,930870,2017-04-26,16755672,True
+investment_1372,startup_512,vc_100,Series C,930870,2017-04-26,30718732,False
+investment_1373,startup_512,vc_47,Pre-seed,930870,2017-04-26,27926120,False
+investment_1374,startup_515,vc_119,Pre-seed,24714414,2017-03-31,346001803,True
+investment_1375,startup_515,vc_111,Series C,24714414,2017-03-31,296572974,False
+investment_1376,startup_520,vc_146,Series C,14737337,2016-01-13,103161359,True
+investment_1377,startup_524,vc_0,Pre-seed,1215013,2024-09-25,36450400,True
+investment_1378,startup_524,vc_15,Series C,1215013,2024-09-25,18225200,False
+investment_1379,startup_524,vc_40,Seed,1215013,2024-09-25,43740480,False
+investment_1380,startup_524,vc_13,Seed,9384357,2023-03-12,140765360,True
+investment_1381,startup_524,vc_133,Pre-seed,9384357,2023-03-12,253377648,False
+investment_1382,startup_524,vc_77,Pre-seed,9384357,2023-03-12,281530720,False
+investment_1383,startup_526,vc_16,Series C,5285980,2023-07-16,142721469,True
+investment_1384,startup_526,vc_5,Series A,5285980,2023-07-16,63431764,False
+investment_1385,startup_526,vc_6,Seed,5285980,2023-07-16,174437351,False
+investment_1386,startup_526,vc_85,Series A,4082943,2022-07-26,146985948,True
+investment_1387,startup_526,vc_100,Series C,4082943,2022-07-26,61244145,False
+investment_1388,startup_526,vc_120,Series C,4082943,2022-07-26,73492974,False
+investment_1389,startup_526,vc_142,Series B,18281744,2021-12-19,402198368,True
+investment_1390,startup_526,vc_41,Series A,18281744,2021-12-19,365634880,False
+investment_1391,startup_527,vc_137,Pre-seed,5075150,2023-08-29,152254510,True
+investment_1392,startup_527,vc_36,Pre-seed,5075150,2023-08-29,76127255,False
+investment_1393,startup_527,vc_38,Series C,5075150,2023-08-29,167479961,False
+investment_1394,startup_527,vc_59,Seed,12820093,2017-04-28,205121488,True
+investment_1395,startup_527,vc_106,Series A,12820093,2017-04-28,282042046,False
+investment_1396,startup_529,vc_63,Series A,11487338,2022-08-29,68924028,True
+investment_1397,startup_529,vc_70,Series C,13804026,2018-12-25,248472468,True
+investment_1398,startup_529,vc_92,Seed,13804026,2018-12-25,331296624,False
+investment_1399,startup_529,vc_149,Series A,10144377,2021-09-08,243465048,True
+investment_1400,startup_529,vc_41,Series B,10144377,2021-09-08,182598786,False
+investment_1401,startup_529,vc_23,Series C,10144377,2021-09-08,213031917,False
+investment_1402,startup_529,vc_129,Series B,16297852,2018-05-13,293361336,True
+investment_1403,startup_529,vc_113,Series C,16297852,2018-05-13,195574224,False
+investment_1404,startup_529,vc_52,Pre-seed,16297852,2018-05-13,293361336,False
+investment_1405,startup_530,vc_106,Pre-seed,5098889,2020-01-02,76483340,True
+investment_1406,startup_530,vc_55,Series B,5098889,2020-01-02,183560016,False
+investment_1407,startup_530,vc_137,Series A,5098889,2020-01-02,183560016,False
+investment_1408,startup_531,vc_140,Series C,42403852,2022-02-07,212019260,True
+investment_1409,startup_532,vc_6,Series B,1210528,2023-07-29,21789504,True
+investment_1410,startup_532,vc_132,Series A,1210528,2023-07-29,29052672,False
+investment_1411,startup_532,vc_134,Series A,5502209,2018-11-10,181572897,True
+investment_1412,startup_532,vc_15,Series C,5502209,2018-11-10,165066270,False
+investment_1413,startup_532,vc_109,Series C,5502209,2018-11-10,115546389,False
+investment_1414,startup_533,vc_12,Pre-seed,12840461,2022-12-04,102723692,True
+investment_1415,startup_533,vc_30,Series C,12840461,2022-12-04,308171076,False
+investment_1416,startup_535,vc_91,Series C,5153749,2021-09-21,51537495,True
+investment_1417,startup_535,vc_4,Seed,5153749,2021-09-21,82459992,False
+investment_1418,startup_535,vc_146,Series A,384452,2022-03-03,12686927,True
+investment_1419,startup_535,vc_74,Series B,384452,2022-03-03,12686927,False
+investment_1420,startup_535,vc_16,Series A,384452,2022-03-03,5766785,False
+investment_1421,startup_536,vc_60,Series A,10531267,2021-03-31,252750408,True
+investment_1422,startup_536,vc_120,Series A,10531267,2021-03-31,315938010,False
+investment_1423,startup_536,vc_56,Seed,10531267,2021-03-31,252750408,False
+investment_1424,startup_537,vc_88,Seed,16221812,2023-11-23,194661750,True
+investment_1425,startup_537,vc_127,Pre-seed,16221812,2023-11-23,356879875,False
+investment_1426,startup_537,vc_78,Seed,16485977,2023-09-25,395663464,True
+investment_1427,startup_537,vc_77,Pre-seed,16485977,2023-09-25,494579330,False
+investment_1428,startup_537,vc_26,Series A,16485977,2023-09-25,445121397,False
+investment_1429,startup_538,vc_88,Seed,8685532,2025-01-12,286622556,True
+investment_1430,startup_538,vc_21,Series B,8685532,2025-01-12,286622556,False
+investment_1431,startup_538,vc_112,Series B,8685532,2025-01-12,156339576,False
+investment_1432,startup_538,vc_90,Series A,7213153,2025-01-11,259673520,True
+investment_1433,startup_538,vc_100,Series C,7213153,2025-01-11,151476220,False
+investment_1434,startup_538,vc_89,Series C,7213153,2025-01-11,151476220,False
+investment_1435,startup_538,vc_72,Series C,11207452,2018-03-08,67244712,True
+investment_1436,startup_538,vc_23,Series B,10568724,2020-11-27,253649376,True
+investment_1437,startup_538,vc_124,Seed,10568724,2020-11-27,232511928,False
+investment_1438,startup_539,vc_98,Series B,6204892,2023-09-09,186146770,True
+investment_1439,startup_539,vc_17,Series C,6204892,2023-09-09,186146770,False
+investment_1440,startup_539,vc_64,Series B,6204892,2023-09-09,186146770,False
+investment_1441,startup_543,vc_64,Seed,25789332,2025-02-01,206314656,True
+investment_1442,startup_543,vc_26,Seed,16350374,2024-07-22,392408992,True
+investment_1443,startup_543,vc_143,Series C,16350374,2024-07-22,539562364,False
+investment_1444,startup_543,vc_127,Series B,16350374,2024-07-22,441460116,False
+investment_1445,startup_544,vc_4,Series B,22831310,2025-03-22,228313105,True
+investment_1446,startup_544,vc_131,Series B,22831310,2025-03-22,547951452,False
+investment_1447,startup_544,vc_21,Series A,16569410,2024-03-18,364527020,True
+investment_1448,startup_544,vc_81,Series B,16569410,2024-03-18,397665840,False
+investment_1449,startup_544,vc_104,Series B,13440970,2025-03-20,443552010,True
+investment_1450,startup_544,vc_65,Series B,13440970,2025-03-20,322583280,False
+investment_1451,startup_544,vc_51,Pre-seed,13440970,2025-03-20,322583280,False
+investment_1452,startup_546,vc_129,Seed,4003802,2011-11-02,60057040,True
+investment_1453,startup_546,vc_75,Pre-seed,4003802,2011-11-02,144136896,False
+investment_1454,startup_546,vc_65,Seed,4003802,2011-11-02,72068448,False
+investment_1455,startup_546,vc_43,Pre-seed,49065148,2022-11-13,294390888,True
+investment_1456,startup_546,vc_45,Series C,2866783,2011-08-30,51602094,True
+investment_1457,startup_546,vc_11,Series B,2866783,2011-08-30,68802792,False
+investment_1458,startup_546,vc_60,Series A,2866783,2011-08-30,34401396,False
+investment_1459,startup_546,vc_24,Series B,4276249,2014-04-12,64143745,True
+investment_1460,startup_546,vc_59,Seed,4276249,2014-04-12,115458741,False
+investment_1461,startup_546,vc_141,Series A,4276249,2014-04-12,153944988,False
+investment_1462,startup_547,vc_59,Seed,12564715,2015-10-22,301553160,True
+investment_1463,startup_547,vc_69,Pre-seed,12564715,2015-10-22,452329740,False
+investment_1464,startup_547,vc_12,Series B,12564715,2015-10-22,376941450,False
+investment_1465,startup_547,vc_66,Series B,15561105,2024-10-15,217855477,True
+investment_1466,startup_547,vc_107,Seed,15561105,2024-10-15,373466532,False
+investment_1467,startup_547,vc_13,Seed,21635503,2016-05-11,475981066,True
+investment_1468,startup_547,vc_148,Pre-seed,21635503,2016-05-11,216355030,False
+investment_1469,startup_548,vc_116,Series A,10058644,2025-03-27,211231524,True
+investment_1470,startup_548,vc_96,Series A,10058644,2025-03-27,241407456,False
+investment_1471,startup_548,vc_126,Series A,10058644,2025-03-27,362111184,False
+investment_1472,startup_549,vc_93,Seed,8098855,2021-12-03,56691985,True
+investment_1473,startup_549,vc_100,Series C,14217388,2022-04-21,170608662,True
+investment_1474,startup_549,vc_56,Series B,14217388,2022-04-21,170608662,False
+investment_1475,startup_549,vc_19,Pre-seed,24306819,2021-06-10,170147733,True
+investment_1476,startup_549,vc_14,Pre-seed,21631394,2024-12-28,389365092,True
+investment_1477,startup_549,vc_140,Seed,21631394,2024-12-28,259576728,False
+investment_1478,startup_551,vc_89,Series B,1587255,2021-11-22,38094132,True
+investment_1479,startup_551,vc_73,Seed,1587255,2021-11-22,22221577,False
+investment_1480,startup_551,vc_88,Series B,19741574,2018-12-10,78966296,True
+investment_1481,startup_551,vc_99,Seed,2527957,2018-04-11,68254857,True
+investment_1482,startup_551,vc_21,Series C,2527957,2018-04-11,37919365,False
+investment_1483,startup_551,vc_142,Series B,2527957,2018-04-11,75838730,False
+investment_1484,startup_552,vc_86,Series B,41751575,2023-10-22,208757875,True
+investment_1485,startup_552,vc_110,Series B,22257697,2025-05-31,178061576,True
+investment_1486,startup_552,vc_95,Series A,13086070,2024-08-02,104688564,True
+investment_1487,startup_552,vc_24,Series C,13086070,2024-08-02,314065692,False
+investment_1488,startup_552,vc_123,Series A,37350376,2023-03-26,373503760,True
+investment_1489,startup_553,vc_107,Series C,19091944,2019-11-19,133643608,True
+investment_1490,startup_553,vc_37,Seed,5413918,2023-10-14,113692278,True
+investment_1491,startup_553,vc_111,Seed,5413918,2023-10-14,146175786,False
+investment_1492,startup_553,vc_110,Series A,5413918,2023-10-14,129934032,False
+investment_1493,startup_554,vc_142,Pre-seed,43233388,2024-01-08,518800656,True
+investment_1494,startup_555,vc_46,Series B,12713983,2023-02-05,228851700,True
+investment_1495,startup_555,vc_40,Series C,12713983,2023-02-05,457703400,False
+investment_1496,startup_555,vc_53,Seed,12713983,2023-02-05,228851700,False
+investment_1497,startup_555,vc_49,Seed,18371415,2025-03-31,367428300,True
+investment_1498,startup_555,vc_104,Series A,18371415,2025-03-31,293942640,False
+investment_1499,startup_558,vc_49,Seed,15057265,2022-04-23,180687184,True
+investment_1500,startup_558,vc_72,Series B,15057265,2022-04-23,406546164,False
+investment_1501,startup_558,vc_101,Seed,15057265,2022-04-23,361374368,False
+investment_1502,startup_558,vc_60,Pre-seed,10989086,2022-04-08,131869038,True
+investment_1503,startup_558,vc_129,Series C,10989086,2022-04-08,109890865,False
+investment_1504,startup_558,vc_8,Series B,16591012,2022-08-05,447957324,True
+investment_1505,startup_558,vc_88,Seed,16591012,2022-08-05,199092144,False
+investment_1506,startup_558,vc_91,Series B,16591012,2022-08-05,248865180,False
+investment_1507,startup_560,vc_115,Series A,6122405,2023-02-17,110203290,True
+investment_1508,startup_560,vc_7,Series B,6122405,2023-02-17,73468860,False
+investment_1509,startup_560,vc_16,Pre-seed,4166614,2024-02-18,16666456,True
+investment_1510,startup_560,vc_92,Series C,10838033,2023-04-08,325141000,True
+investment_1511,startup_560,vc_27,Seed,10838033,2023-04-08,130056400,False
+investment_1512,startup_560,vc_80,Series C,10838033,2023-04-08,357655100,False
+investment_1513,startup_561,vc_72,Series C,5068874,2013-04-03,25344370,True
+investment_1514,startup_561,vc_141,Series B,41730886,2019-05-16,459039746,True
+investment_1515,startup_561,vc_115,Seed,4899535,2022-10-26,146986050,True
+investment_1516,startup_561,vc_10,Seed,4899535,2022-10-26,73493025,False
+investment_1517,startup_561,vc_20,Series B,4899535,2022-10-26,132287445,False
+investment_1518,startup_563,vc_105,Pre-seed,13788033,2024-02-14,165456404,True
+investment_1519,startup_563,vc_132,Pre-seed,13788033,2024-02-14,165456404,False
+investment_1520,startup_563,vc_63,Pre-seed,13788033,2024-02-14,496369212,False
+investment_1521,startup_563,vc_138,Series B,23252461,2024-12-13,186019692,True
+investment_1522,startup_563,vc_76,Series A,23252461,2024-12-13,558059076,False
+investment_1523,startup_567,vc_18,Series A,11179405,2023-09-14,234767512,True
+investment_1524,startup_567,vc_54,Seed,11179405,2023-09-14,234767512,False
+investment_1525,startup_567,vc_92,Series C,11179405,2023-09-14,201229296,False
+investment_1526,startup_568,vc_119,Seed,6883646,2022-08-13,247811268,True
+investment_1527,startup_568,vc_143,Series B,6883646,2022-08-13,247811268,False
+investment_1528,startup_568,vc_98,Seed,6883646,2022-08-13,82603756,False
+investment_1529,startup_570,vc_25,Pre-seed,23139447,2024-05-08,254533917,True
+investment_1530,startup_571,vc_28,Series C,8909690,2020-03-22,320748864,True
+investment_1531,startup_571,vc_123,Pre-seed,8909690,2020-03-22,160374432,False
+investment_1532,startup_571,vc_15,Series C,8909690,2020-03-22,213832576,False
+investment_1533,startup_571,vc_120,Series B,5595910,2020-09-11,100726386,True
+investment_1534,startup_571,vc_90,Pre-seed,5595910,2020-09-11,100726386,False
+investment_1535,startup_571,vc_33,Series C,5595910,2020-09-11,117514117,False
+investment_1536,startup_571,vc_55,Series C,12200276,2022-11-09,183004140,True
+investment_1537,startup_571,vc_32,Series A,12200276,2022-11-09,256205796,False
+investment_1538,startup_571,vc_124,Series A,12200276,2022-11-09,219604968,False
+investment_1539,startup_571,vc_6,Seed,16170300,2025-05-10,226384200,True
+investment_1540,startup_571,vc_91,Series C,16170300,2025-05-10,161703000,False
+investment_1541,startup_572,vc_99,Series A,9474080,2021-02-09,227377932,True
+investment_1542,startup_572,vc_145,Pre-seed,9474080,2021-02-09,75792644,False
+investment_1543,startup_572,vc_53,Series B,11275503,2016-02-26,236785570,True
+investment_1544,startup_572,vc_108,Seed,11275503,2016-02-26,169132550,False
+investment_1545,startup_572,vc_0,Series B,11275503,2016-02-26,270612080,False
+investment_1546,startup_572,vc_93,Seed,34645886,2019-02-18,207875316,True
+investment_1547,startup_572,vc_106,Series C,42125816,2020-03-25,421258160,True
+investment_1548,startup_574,vc_85,Series B,12566854,2024-03-06,301604496,True
+investment_1549,startup_574,vc_12,Pre-seed,12566854,2024-03-06,301604496,False
+investment_1550,startup_574,vc_64,Series C,2945956,2024-03-18,58919130,True
+investment_1551,startup_574,vc_15,Series C,2945956,2024-03-18,41243391,False
+investment_1552,startup_574,vc_121,Pre-seed,31456924,2024-03-20,125827696,True
+investment_1553,startup_576,vc_99,Series B,7397859,2024-08-13,29591436,True
+investment_1554,startup_579,vc_3,Seed,37476179,2023-05-25,299809432,True
+investment_1555,startup_579,vc_80,Series C,8395011,2018-04-28,125925170,True
+investment_1556,startup_579,vc_118,Series B,8395011,2018-04-28,151110204,False
+investment_1557,startup_579,vc_100,Series B,8395011,2018-04-28,201480272,False
+investment_1558,startup_579,vc_140,Series B,49769121,2025-04-05,547460331,True
+investment_1559,startup_580,vc_144,Seed,27191268,2023-02-28,299103948,True
+investment_1560,startup_581,vc_145,Series B,5805651,2025-03-17,121918685,True
+investment_1561,startup_581,vc_51,Pre-seed,5805651,2025-03-17,174169550,False
+investment_1562,startup_581,vc_125,Series A,5805651,2025-03-17,139335640,False
+investment_1563,startup_583,vc_132,Series A,9363218,2019-11-01,196627578,True
+investment_1564,startup_583,vc_42,Series B,9363218,2019-11-01,337075848,False
+investment_1565,startup_583,vc_53,Series C,9363218,2019-11-01,112358616,False
+investment_1566,startup_584,vc_148,Seed,8298069,2024-07-11,224047881,True
+investment_1567,startup_584,vc_47,Pre-seed,8298069,2024-07-11,99576836,False
+investment_1568,startup_584,vc_41,Pre-seed,8298069,2024-07-11,224047881,False
+investment_1569,startup_587,vc_111,Series B,7835642,2018-09-28,235069280,True
+investment_1570,startup_587,vc_147,Series A,7835642,2018-09-28,282083136,False
+investment_1571,startup_587,vc_134,Series B,7835642,2018-09-28,258576208,False
+investment_1572,startup_587,vc_33,Series A,12111412,2023-02-03,218005416,True
+investment_1573,startup_587,vc_26,Series A,12111412,2023-02-03,290673888,False
+investment_1574,startup_587,vc_49,Pre-seed,12111412,2023-02-03,145336944,False
+investment_1575,startup_590,vc_96,Pre-seed,17512056,2017-06-06,175120560,True
+investment_1576,startup_590,vc_30,Series B,17512056,2017-06-06,175120560,False
+investment_1577,startup_591,vc_52,Seed,11479514,2018-02-11,252549319,True
+investment_1578,startup_591,vc_144,Series A,11479514,2018-02-11,229590290,False
+investment_1579,startup_592,vc_42,Series C,14929227,2024-01-05,179150724,True
+investment_1580,startup_592,vc_64,Pre-seed,12247883,2023-01-19,122478835,True
+investment_1581,startup_592,vc_23,Series A,12247883,2023-01-19,171470369,False
+investment_1582,startup_593,vc_118,Series A,38872462,2025-01-16,233234772,True
+investment_1583,startup_593,vc_94,Series A,31175040,2025-04-06,374100480,True
+investment_1584,startup_593,vc_76,Series C,14439650,2025-03-01,216594755,True
+investment_1585,startup_593,vc_82,Series C,14439650,2025-03-01,433189510,False
+investment_1586,startup_593,vc_66,Seed,14439650,2025-03-01,433189510,False
+investment_1587,startup_594,vc_102,Series A,15291257,2022-07-17,458737710,True
+investment_1588,startup_594,vc_141,Series C,15291257,2022-07-17,458737710,False
+investment_1589,startup_594,vc_34,Series A,15291257,2022-07-17,504611481,False
+investment_1590,startup_594,vc_16,Series B,6937938,2021-09-16,48565566,True
+investment_1591,startup_594,vc_141,Series C,5024915,2017-07-29,90448470,True
+investment_1592,startup_594,vc_46,Pre-seed,5024915,2017-07-29,120597960,False
+investment_1593,startup_594,vc_62,Series B,5024915,2017-07-29,120597960,False
+investment_1594,startup_595,vc_42,Pre-seed,11237008,2021-11-02,179792136,True
+investment_1595,startup_595,vc_99,Series C,11237008,2021-11-02,224740170,False
+investment_1596,startup_596,vc_141,Seed,34281744,2012-11-17,377099184,True
+investment_1597,startup_597,vc_115,Series A,13863463,2025-02-10,55453852,True
+investment_1598,startup_597,vc_68,Pre-seed,7151870,2017-11-24,85822440,True
+investment_1599,startup_597,vc_67,Seed,9359872,2021-09-02,196557312,True
+investment_1600,startup_597,vc_135,Series A,9359872,2021-09-02,252716544,False
+investment_1601,startup_597,vc_117,Pre-seed,9359872,2021-09-02,308875776,False
+investment_1602,startup_598,vc_94,Pre-seed,4303082,2025-02-21,94667815,True
+investment_1603,startup_598,vc_42,Series B,4303082,2025-02-21,51636990,False
+investment_1604,startup_598,vc_80,Seed,7229197,2024-11-06,57833576,True
+investment_1605,startup_598,vc_2,Pre-seed,21457676,2025-02-16,214576760,True
+investment_1606,startup_598,vc_144,Series B,21457676,2025-02-16,171661408,False
+investment_1607,startup_599,vc_133,Series B,7846023,2017-05-13,164766497,True
+investment_1608,startup_599,vc_115,Series B,7846023,2017-05-13,188304568,False
+investment_1609,startup_599,vc_112,Pre-seed,7846023,2017-05-13,164766497,False
+investment_1610,startup_600,vc_33,Series B,3904275,2023-07-29,128841097,True
+investment_1611,startup_600,vc_31,Series B,3904275,2023-07-29,105415443,False
+investment_1612,startup_600,vc_2,Pre-seed,3904275,2023-07-29,81989789,False
+investment_1613,startup_601,vc_67,Series B,7729436,2019-07-13,255071399,True
+investment_1614,startup_601,vc_16,Seed,7729436,2019-07-13,92753236,False
+investment_1615,startup_601,vc_131,Seed,7729436,2019-07-13,115941545,False
+investment_1616,startup_601,vc_83,Pre-seed,17697431,2020-11-29,123882017,True
+investment_1617,startup_602,vc_43,Seed,32592598,2014-12-03,325925980,True
+investment_1618,startup_604,vc_80,Seed,6689722,2018-05-13,120415008,True
+investment_1619,startup_604,vc_20,Seed,6689722,2018-05-13,80276672,False
+investment_1620,startup_604,vc_121,Series A,6689722,2018-05-13,220760848,False
+investment_1621,startup_604,vc_7,Series C,6227722,2017-04-14,93415835,True
+investment_1622,startup_604,vc_89,Pre-seed,6227722,2017-04-14,130782169,False
+investment_1623,startup_604,vc_15,Series B,6227722,2017-04-14,168148503,False
+investment_1624,startup_604,vc_63,Pre-seed,11620510,2023-11-04,116205100,True
+investment_1625,startup_604,vc_122,Series C,11620510,2023-11-04,278892240,False
+investment_1626,startup_604,vc_97,Series B,24122848,2019-12-25,289474176,True
+investment_1627,startup_604,vc_64,Series A,24122848,2019-12-25,337719872,False
+investment_1628,startup_605,vc_136,Series A,4939754,2024-05-28,69156563,True
+investment_1629,startup_605,vc_14,Series B,4939754,2024-05-28,118554108,False
+investment_1630,startup_605,vc_139,Series B,41096176,2024-01-13,205480880,True
+investment_1631,startup_606,vc_32,Seed,5137200,2024-11-19,169527600,True
+investment_1632,startup_606,vc_58,Pre-seed,5137200,2024-11-19,169527600,False
+investment_1633,startup_606,vc_89,Seed,5137200,2024-11-19,169527600,False
+investment_1634,startup_606,vc_85,Series B,21146778,2025-05-30,105733890,True
+investment_1635,startup_606,vc_57,Pre-seed,7864103,2025-03-02,259515399,True
+investment_1636,startup_606,vc_103,Series C,7864103,2025-03-02,212330781,False
+investment_1637,startup_606,vc_35,Series B,7864103,2025-03-02,165146163,False
+investment_1638,startup_607,vc_122,Series C,20609194,2025-04-19,329747104,True
+investment_1639,startup_607,vc_31,Series C,20609194,2025-04-19,288528716,False
+investment_1640,startup_608,vc_45,Series C,12393446,2025-03-26,446164068,True
+investment_1641,startup_608,vc_39,Series A,12393446,2025-03-26,148721356,False
+investment_1642,startup_608,vc_66,Pre-seed,12393446,2025-03-26,446164068,False
+investment_1643,startup_609,vc_30,Pre-seed,30551787,2022-04-12,152758935,True
+investment_1644,startup_609,vc_78,Series B,4582779,2018-01-25,68741695,True
+investment_1645,startup_609,vc_109,Series A,4582779,2018-01-25,109986712,False
+investment_1646,startup_609,vc_3,Seed,4582779,2018-01-25,109986712,False
+investment_1647,startup_611,vc_124,Series C,17403362,2020-09-21,243647068,True
+investment_1648,startup_611,vc_69,Pre-seed,17403362,2020-09-21,243647068,False
+investment_1649,startup_611,vc_74,Series C,5085537,2021-10-08,30513222,True
+investment_1650,startup_612,vc_29,Series A,19835858,2019-03-04,476060604,True
+investment_1651,startup_612,vc_53,Series A,19835858,2019-03-04,476060604,False
+investment_1652,startup_613,vc_108,Seed,17884619,2024-12-20,196730809,True
+investment_1653,startup_613,vc_12,Seed,27287931,2025-02-16,272879310,True
+investment_1654,startup_614,vc_12,Seed,13176011,2023-09-09,197640170,True
+investment_1655,startup_614,vc_114,Series B,13176011,2023-09-09,355752306,False
+investment_1656,startup_614,vc_149,Series C,13176011,2023-09-09,355752306,False
+investment_1657,startup_617,vc_15,Series B,4863452,2022-04-27,175084284,True
+investment_1658,startup_617,vc_50,Series B,4863452,2022-04-27,131313213,False
+investment_1659,startup_617,vc_104,Pre-seed,4863452,2022-04-27,102132499,False
+investment_1660,startup_617,vc_143,Pre-seed,2817449,2023-10-25,61983878,True
+investment_1661,startup_617,vc_131,Series A,2817449,2023-10-25,56348980,False
+investment_1662,startup_617,vc_63,Pre-seed,43318716,2021-03-10,259912296,True
+investment_1663,startup_617,vc_84,Series A,36012493,2023-09-22,144049972,True
+investment_1664,startup_618,vc_102,Pre-seed,35148237,2020-07-18,316334133,True
+investment_1665,startup_619,vc_56,Series B,23054681,2016-12-23,253601491,True
+investment_1666,startup_619,vc_12,Series C,16333345,2021-01-27,539000385,True
+investment_1667,startup_619,vc_66,Seed,16333345,2021-01-27,196000140,False
+investment_1668,startup_619,vc_125,Series A,16333345,2021-01-27,539000385,False
+investment_1669,startup_621,vc_134,Series C,1114474,2023-09-29,13373696,True
+investment_1670,startup_621,vc_104,Pre-seed,1114474,2023-09-29,40121088,False
+investment_1671,startup_621,vc_144,Series B,1114474,2023-09-29,23403968,False
+investment_1672,startup_621,vc_124,Series B,13234429,2022-11-05,158813154,True
+investment_1673,startup_621,vc_113,Series C,13234429,2022-11-05,238219731,False
+investment_1674,startup_622,vc_142,Series B,11353025,2024-12-07,181648408,True
+investment_1675,startup_622,vc_137,Series B,11353025,2024-12-07,227060510,False
+investment_1676,startup_622,vc_97,Pre-seed,44103635,2023-08-16,220518175,True
+investment_1677,startup_622,vc_85,Series C,4807909,2023-08-01,48079090,True
+investment_1678,startup_622,vc_112,Pre-seed,4807909,2023-08-01,105773998,False
+investment_1679,startup_624,vc_80,Series C,6262226,2025-05-20,112720080,True
+investment_1680,startup_624,vc_64,Series A,6262226,2025-05-20,75146720,False
+investment_1681,startup_624,vc_4,Seed,6262226,2025-05-20,187866800,False
+investment_1682,startup_625,vc_47,Series A,12955508,2024-01-13,259110170,True
+investment_1683,startup_625,vc_30,Seed,12955508,2024-01-13,181377119,False
+investment_1684,startup_625,vc_18,Series B,12784251,2021-01-07,281253533,True
+investment_1685,startup_625,vc_131,Series B,12784251,2021-01-07,204548024,False
+investment_1686,startup_626,vc_9,Pre-seed,27383432,2024-07-07,109533728,True
+investment_1687,startup_626,vc_77,Seed,19423071,2022-10-25,388461420,True
+investment_1688,startup_626,vc_5,Series A,19423071,2022-10-25,388461420,False
+investment_1689,startup_627,vc_120,Series B,43604223,2025-06-04,348833784,True
+investment_1690,startup_628,vc_121,Seed,8412899,2023-02-06,277625678,True
+investment_1691,startup_628,vc_149,Series B,8412899,2023-02-06,252386980,False
+investment_1692,startup_628,vc_15,Seed,8412899,2023-02-06,201909584,False
+investment_1693,startup_629,vc_138,Pre-seed,20222534,2025-01-19,485340816,True
+investment_1694,startup_629,vc_137,Seed,20222534,2025-01-19,364005612,False
+investment_1695,startup_630,vc_93,Pre-seed,39797726,2020-07-25,358179534,True
+investment_1696,startup_630,vc_142,Pre-seed,19009987,2022-11-01,456239700,True
+investment_1697,startup_630,vc_4,Series B,19009987,2022-11-01,380199750,False
+investment_1698,startup_630,vc_14,Seed,23384846,2019-08-25,514466612,True
+investment_1699,startup_630,vc_27,Pre-seed,23384846,2019-08-25,420927228,False
+investment_1700,startup_631,vc_66,Seed,19050489,2020-06-24,190504895,True
+investment_1701,startup_631,vc_25,Series C,19050489,2020-06-24,419110769,False
+investment_1702,startup_631,vc_25,Series C,8488427,2012-07-27,280118102,True
+investment_1703,startup_631,vc_106,Pre-seed,8488427,2012-07-27,254652820,False
+investment_1704,startup_631,vc_138,Series C,8488427,2012-07-27,152791692,False
+investment_1705,startup_631,vc_8,Series B,42268388,2022-07-13,422683880,True
+investment_1706,startup_631,vc_130,Pre-seed,20528893,2016-05-05,123173358,True
+investment_1707,startup_632,vc_69,Seed,16400200,2024-10-15,131201600,True
+investment_1708,startup_633,vc_125,Seed,20101558,2016-02-09,100507790,True
+investment_1709,startup_633,vc_61,Seed,3546300,2023-04-24,28370400,True
+investment_1710,startup_633,vc_8,Series A,3546300,2023-04-24,70926000,False
+investment_1711,startup_633,vc_74,Series A,24478768,2024-01-13,391660288,True
+investment_1712,startup_633,vc_52,Series A,24478768,2024-01-13,391660288,False
+investment_1713,startup_634,vc_91,Pre-seed,2674934,2017-05-28,26749340,True
+investment_1714,startup_634,vc_44,Series B,2674934,2017-05-28,37449076,False
+investment_1715,startup_634,vc_127,Series A,16004125,2017-11-03,288074250,True
+investment_1716,startup_634,vc_85,Series A,16004125,2017-11-03,224057750,False
+investment_1717,startup_635,vc_101,Series B,1248932,2023-12-16,41214767,True
+investment_1718,startup_635,vc_66,Series C,1248932,2023-12-16,26227579,False
+investment_1719,startup_635,vc_134,Series C,1248932,2023-12-16,41214767,False
+investment_1720,startup_635,vc_49,Seed,12332539,2018-09-01,98660316,True
+investment_1721,startup_635,vc_1,Series B,12332539,2018-09-01,246650790,False
+investment_1722,startup_636,vc_143,Series B,36732106,2018-12-17,257124742,True
+investment_1723,startup_637,vc_89,Series B,13750016,2024-04-10,495000576,True
+investment_1724,startup_637,vc_136,Series B,13750016,2024-04-10,371250432,False
+investment_1725,startup_637,vc_29,Series B,13750016,2024-04-10,330000384,False
+investment_1726,startup_637,vc_99,Seed,38937065,2024-01-03,233622390,True
+investment_1727,startup_638,vc_148,Series B,9094378,2018-03-30,218265088,True
+investment_1728,startup_638,vc_134,Series C,9094378,2018-03-30,327397632,False
+investment_1729,startup_638,vc_55,Pre-seed,9094378,2018-03-30,245548224,False
+investment_1730,startup_638,vc_62,Seed,48637201,2025-02-19,389097608,True
+investment_1731,startup_638,vc_51,Series A,22037304,2018-07-21,528895296,True
+investment_1732,startup_638,vc_90,Series C,22037304,2018-07-21,308522256,False
+investment_1733,startup_639,vc_137,Series A,13198444,2012-08-20,435548652,True
+investment_1734,startup_639,vc_37,Series C,13198444,2012-08-20,395953320,False
+investment_1735,startup_639,vc_40,Series A,13198444,2012-08-20,277167324,False
+investment_1736,startup_640,vc_99,Seed,7030425,2014-05-07,253095312,True
+investment_1737,startup_640,vc_5,Seed,7030425,2014-05-07,232004036,False
+investment_1738,startup_640,vc_62,Series A,7030425,2014-05-07,147638932,False
+investment_1739,startup_640,vc_84,Series A,12629872,2015-06-23,101038980,True
+investment_1740,startup_640,vc_82,Pre-seed,12629872,2015-06-23,176818215,False
+investment_1741,startup_641,vc_111,Series B,3743359,2011-12-14,89840616,True
+investment_1742,startup_641,vc_123,Series C,3743359,2011-12-14,59893744,False
+investment_1743,startup_641,vc_10,Pre-seed,722336,2017-01-08,2889344,True
+investment_1744,startup_642,vc_115,Series B,5894039,2016-06-25,194503309,True
+investment_1745,startup_642,vc_18,Series A,5894039,2016-06-25,123774833,False
+investment_1746,startup_642,vc_78,Series C,5894039,2016-06-25,212185428,False
+investment_1747,startup_645,vc_96,Series A,16993735,2024-08-01,135949880,True
+investment_1748,startup_645,vc_107,Series A,16993735,2024-08-01,373862170,False
+investment_1749,startup_646,vc_54,Series C,24014407,2021-03-06,576345780,True
+investment_1750,startup_646,vc_13,Seed,24014407,2021-03-06,192115260,False
+investment_1751,startup_646,vc_126,Series C,4251023,2022-03-21,42510230,True
+investment_1752,startup_646,vc_140,Seed,10100380,2014-09-15,181806852,True
+investment_1753,startup_646,vc_103,Series C,10100380,2014-09-15,181806852,False
+investment_1754,startup_646,vc_120,Series A,10100380,2014-09-15,272710278,False
+investment_1755,startup_646,vc_95,Series A,45839572,2019-10-11,320877004,True
+investment_1756,startup_647,vc_35,Series C,7434423,2022-10-14,89213084,True
+investment_1757,startup_647,vc_50,Series B,7434423,2022-10-14,245335981,False
+investment_1758,startup_647,vc_42,Series B,7434423,2022-10-14,200729439,False
+investment_1759,startup_647,vc_137,Series C,40008934,2016-10-14,360080406,True
+investment_1760,startup_648,vc_139,Series A,48838368,2025-03-10,293030208,True
+investment_1761,startup_648,vc_76,Series B,13931306,2024-02-19,376145262,True
+investment_1762,startup_648,vc_16,Pre-seed,13931306,2024-02-19,250763508,False
+investment_1763,startup_648,vc_102,Series A,13931306,2024-02-19,417939180,False
+investment_1764,startup_650,vc_108,Series B,1655601,2025-03-16,49668040,True
+investment_1765,startup_650,vc_42,Pre-seed,1655601,2025-03-16,39734432,False
+investment_1766,startup_650,vc_73,Series A,1655601,2025-03-16,29800824,False
+investment_1767,startup_650,vc_64,Series A,13219986,2025-04-23,475919520,True
+investment_1768,startup_650,vc_146,Series B,13219986,2025-04-23,436259560,False
+investment_1769,startup_650,vc_61,Seed,13219986,2025-04-23,277619720,False
+investment_1770,startup_650,vc_81,Seed,2598859,2024-12-21,31186316,True
+investment_1771,startup_650,vc_94,Pre-seed,2598859,2024-12-21,46779474,False
+investment_1772,startup_650,vc_148,Series A,2598859,2024-12-21,54576053,False
+investment_1773,startup_651,vc_15,Series C,4747622,2023-01-02,75961952,True
+investment_1774,startup_651,vc_57,Series A,4747622,2023-01-02,85457196,False
+investment_1775,startup_651,vc_91,Series C,23859437,2024-12-24,190875496,True
+investment_1776,startup_652,vc_51,Pre-seed,16715180,2021-10-08,100291080,True
+investment_1777,startup_653,vc_149,Series A,11481973,2023-08-04,344459190,True
+investment_1778,startup_653,vc_109,Series C,11481973,2023-08-04,137783676,False
+investment_1779,startup_653,vc_34,Seed,11481973,2023-08-04,241121433,False
+investment_1780,startup_653,vc_141,Seed,921731,2018-01-02,30417134,True
+investment_1781,startup_653,vc_29,Series B,921731,2018-01-02,33182328,False
+investment_1782,startup_653,vc_59,Seed,921731,2018-01-02,24886746,False
+investment_1783,startup_653,vc_68,Series B,14498460,2023-08-09,173981520,True
+investment_1784,startup_653,vc_107,Pre-seed,14498460,2023-08-09,202978440,False
+investment_1785,startup_655,vc_117,Series A,9990987,2018-05-14,239783700,True
+investment_1786,startup_655,vc_132,Seed,9990987,2018-05-14,199819750,False
+investment_1787,startup_655,vc_20,Series A,8741468,2023-01-30,209795244,True
+investment_1788,startup_655,vc_145,Seed,8741468,2023-01-30,69931748,False
+investment_1789,startup_655,vc_102,Seed,44835105,2016-01-08,538021260,True
+investment_1790,startup_656,vc_72,Series C,47345204,2024-11-01,284071224,True
+investment_1791,startup_657,vc_15,Series C,3349872,2020-10-11,40198464,True
+investment_1792,startup_657,vc_91,Series A,3349872,2020-10-11,66997440,False
+investment_1793,startup_657,vc_79,Series C,22924372,2021-10-29,366789952,True
+investment_1794,startup_657,vc_128,Series C,22924372,2021-10-29,366789952,False
+investment_1795,startup_657,vc_26,Series B,5630869,2024-04-22,112617390,True
+investment_1796,startup_657,vc_20,Series A,5630869,2024-04-22,123879129,False
+investment_1797,startup_658,vc_64,Seed,15384318,2017-06-21,553835448,True
+investment_1798,startup_658,vc_31,Series B,15384318,2017-06-21,461529540,False
+investment_1799,startup_658,vc_145,Seed,15384318,2017-06-21,230764770,False
+investment_1800,startup_658,vc_120,Series C,22924513,2021-12-27,137547078,True
+investment_1801,startup_659,vc_4,Series B,41733559,2021-03-21,292134913,True
+investment_1802,startup_659,vc_36,Series A,23671320,2018-08-25,331398487,True
+investment_1803,startup_659,vc_23,Series C,23671320,2018-08-25,378741128,False
+investment_1804,startup_660,vc_16,Seed,8493050,2023-08-20,33972200,True
+investment_1805,startup_660,vc_91,Series C,30970881,2022-03-07,371650572,True
+investment_1806,startup_661,vc_53,Series B,11768019,2024-04-23,141216228,True
+investment_1807,startup_661,vc_118,Series A,11768019,2024-04-23,117680190,False
+investment_1808,startup_662,vc_132,Series C,8467828,2023-08-15,67742624,True
+investment_1809,startup_663,vc_139,Series C,43106609,2022-01-03,517279308,True
+investment_1810,startup_663,vc_39,Series C,45504427,2016-07-22,546053124,True
+investment_1811,startup_664,vc_38,Series A,29489398,2023-11-02,324383378,True
+investment_1812,startup_664,vc_113,Series A,12060236,2019-10-14,434168496,True
+investment_1813,startup_664,vc_46,Series A,12060236,2019-10-14,144722832,False
+investment_1814,startup_664,vc_119,Series B,12060236,2019-10-14,144722832,False
+investment_1815,startup_664,vc_45,Series B,1930247,2021-11-26,69488904,True
+investment_1816,startup_664,vc_98,Series B,1930247,2021-11-26,69488904,False
+investment_1817,startup_664,vc_73,Seed,1930247,2021-11-26,57907420,False
+investment_1818,startup_666,vc_99,Series C,16663206,2024-07-19,449906571,True
+investment_1819,startup_666,vc_31,Pre-seed,16663206,2024-07-19,349927333,False
+investment_1820,startup_666,vc_18,Pre-seed,16663206,2024-07-19,599875428,False
+investment_1821,startup_667,vc_26,Pre-seed,17574803,2021-06-19,175748030,True
+investment_1822,startup_668,vc_129,Pre-seed,25601290,2014-08-18,281614190,True
+investment_1823,startup_668,vc_34,Seed,8543001,2025-01-06,256290030,True
+investment_1824,startup_668,vc_62,Pre-seed,8543001,2025-01-06,281919033,False
+investment_1825,startup_668,vc_89,Series A,8543001,2025-01-06,179403021,False
+investment_1826,startup_668,vc_90,Series C,19410067,2020-10-04,194100670,True
+investment_1827,startup_668,vc_6,Series B,19410067,2020-10-04,388201340,False
+investment_1828,startup_669,vc_116,Series A,18239681,2022-08-27,72958724,True
+investment_1829,startup_669,vc_126,Series C,2872737,2016-05-04,22981900,True
+investment_1830,startup_669,vc_12,Series A,2872737,2016-05-04,45963800,False
+investment_1831,startup_669,vc_44,Series C,13967117,2017-10-04,223473872,True
+investment_1832,startup_669,vc_10,Series B,13967117,2017-10-04,251408106,False
+investment_1833,startup_669,vc_38,Seed,3073687,2022-10-31,110652756,True
+investment_1834,startup_669,vc_5,Series B,3073687,2022-10-31,82989567,False
+investment_1835,startup_669,vc_7,Series B,3073687,2022-10-31,101431693,False
+investment_1836,startup_670,vc_138,Pre-seed,13881615,2016-01-06,249869079,True
+investment_1837,startup_670,vc_111,Seed,13881615,2016-01-06,249869079,False
+investment_1838,startup_670,vc_91,Series B,14206056,2022-09-01,142060560,True
+investment_1839,startup_670,vc_24,Pre-seed,14206056,2022-09-01,170472672,False
+investment_1840,startup_671,vc_42,Seed,5316119,2021-12-14,116954629,True
+investment_1841,startup_671,vc_80,Pre-seed,5316119,2021-12-14,53161195,False
+investment_1842,startup_671,vc_103,Seed,10650098,2011-07-01,74550686,True
+investment_1843,startup_672,vc_76,Seed,5553423,2018-12-09,133282152,True
+investment_1844,startup_672,vc_138,Series A,5553423,2018-12-09,199923228,False
+investment_1845,startup_672,vc_143,Series C,5553423,2018-12-09,183262959,False
+investment_1846,startup_673,vc_73,Series C,11525197,2017-12-10,172877965,True
+investment_1847,startup_673,vc_13,Seed,11525197,2017-12-10,172877965,False
+investment_1848,startup_673,vc_66,Seed,11525197,2017-12-10,311180337,False
+investment_1849,startup_676,vc_122,Pre-seed,17820889,2021-04-29,320776002,True
+investment_1850,startup_676,vc_146,Series A,17820889,2021-04-29,356417780,False
+investment_1851,startup_676,vc_3,Seed,6895130,2024-07-27,82741564,True
+investment_1852,startup_676,vc_146,Pre-seed,6895130,2024-07-27,186168519,False
+investment_1853,startup_676,vc_111,Series C,6895130,2024-07-27,206853910,False
+investment_1854,startup_676,vc_85,Series B,10158702,2023-04-25,182856636,True
+investment_1855,startup_676,vc_69,Seed,10158702,2023-04-25,101587020,False
+investment_1856,startup_678,vc_80,Series C,1378289,2023-06-17,45483559,True
+investment_1857,startup_678,vc_134,Pre-seed,1378289,2023-06-17,28944083,False
+investment_1858,startup_678,vc_77,Pre-seed,1378289,2023-06-17,49618428,False
+investment_1859,startup_680,vc_59,Pre-seed,15884253,2022-08-31,571833108,True
+investment_1860,startup_680,vc_63,Seed,15884253,2022-08-31,238263795,False
+investment_1861,startup_680,vc_123,Series C,15884253,2022-08-31,524180349,False
+investment_1862,startup_683,vc_67,Series C,9454419,2025-03-26,198542813,True
+investment_1863,startup_683,vc_147,Series A,9454419,2025-03-26,141816295,False
+investment_1864,startup_683,vc_24,Series B,9454419,2025-03-26,311995849,False
+investment_1865,startup_686,vc_118,Series C,6566373,2022-01-27,52530984,True
+investment_1866,startup_686,vc_137,Seed,6566373,2022-01-27,78796476,False
+investment_1867,startup_686,vc_90,Pre-seed,46115450,2022-09-24,184461800,True
+investment_1868,startup_686,vc_74,Pre-seed,2308546,2022-03-02,27702558,True
+investment_1869,startup_686,vc_8,Seed,2308546,2022-03-02,50788023,False
+investment_1870,startup_688,vc_16,Seed,14298096,2023-03-19,128682864,True
+investment_1871,startup_692,vc_49,Pre-seed,6991062,2019-11-28,111856992,True
+investment_1872,startup_692,vc_47,Series B,6991062,2019-11-28,125839116,False
+investment_1873,startup_694,vc_143,Pre-seed,30498908,2018-11-07,213492356,True
+investment_1874,startup_696,vc_17,Series C,47481769,2014-08-11,474817690,True
+investment_1875,startup_696,vc_71,Series A,35798243,2019-01-09,178991215,True
+investment_1876,startup_698,vc_60,Seed,21305554,2018-02-03,383499972,True
+investment_1877,startup_698,vc_136,Series A,21305554,2018-02-03,468722188,False
+investment_1878,startup_698,vc_25,Series A,6461554,2019-01-05,129231090,True
+investment_1879,startup_698,vc_146,Seed,6461554,2019-01-05,129231090,False
+investment_1880,startup_698,vc_18,Series C,5344100,2019-07-20,96193812,True
+investment_1881,startup_698,vc_9,Series C,5344100,2019-07-20,144290718,False
+investment_1882,startup_698,vc_28,Seed,5344100,2019-07-20,64129208,False
+investment_1883,startup_699,vc_23,Series A,4951349,2025-04-30,74270240,True
+investment_1884,startup_699,vc_102,Series C,4951349,2025-04-30,74270240,False
+investment_1885,startup_699,vc_81,Series C,4951349,2025-04-30,148540480,False
+investment_1886,startup_699,vc_53,Seed,269920,2024-05-25,7287840,True
+investment_1887,startup_699,vc_39,Series A,269920,2024-05-25,9717120,False
+investment_1888,startup_699,vc_8,Series C,269920,2024-05-25,3239040,False
+investment_1889,startup_699,vc_117,Series C,15769935,2021-10-07,520407866,True
+investment_1890,startup_699,vc_24,Series C,15769935,2021-10-07,520407866,False
+investment_1891,startup_699,vc_135,Seed,15769935,2021-10-07,378478448,False
+investment_1892,startup_699,vc_40,Series A,9924306,2015-06-11,357275016,True
+investment_1893,startup_699,vc_134,Series B,9924306,2015-06-11,148864590,False
+investment_1894,startup_699,vc_61,Seed,9924306,2015-06-11,267956262,False
+investment_1895,startup_700,vc_111,Series C,10755901,2021-09-30,193606218,True
+investment_1896,startup_700,vc_15,Series C,10755901,2021-09-30,150582614,False
+investment_1897,startup_701,vc_144,Series A,6133154,2017-04-20,55198386,True
+investment_1898,startup_702,vc_133,Series B,17766262,2020-07-17,177662620,True
+investment_1899,startup_703,vc_57,Series B,34180698,2017-11-30,307626282,True
+investment_1900,startup_703,vc_14,Series A,937798,2017-07-31,22507160,True
+investment_1901,startup_703,vc_61,Seed,937798,2017-07-31,14066975,False
+investment_1902,startup_703,vc_26,Series A,937798,2017-07-31,19693765,False
+investment_1903,startup_703,vc_113,Seed,49972817,2017-08-12,449755353,True
+investment_1904,startup_704,vc_13,Series C,8541296,2024-11-17,102495552,True
+investment_1905,startup_704,vc_1,Series A,8541296,2024-11-17,170825920,False
+investment_1906,startup_704,vc_79,Seed,396207,2024-12-27,8716565,True
+investment_1907,startup_704,vc_78,Seed,396207,2024-12-27,7924150,False
+investment_1908,startup_705,vc_83,Seed,39887768,2023-02-23,398877680,True
+investment_1909,startup_705,vc_128,Series A,9496710,2021-07-04,142450650,True
+investment_1910,startup_705,vc_140,Series C,9496710,2021-07-04,113960520,False
+investment_1911,startup_705,vc_7,Pre-seed,9496710,2021-07-04,313391430,False
+investment_1912,startup_707,vc_79,Pre-seed,8918908,2017-03-30,160540344,True
+investment_1913,startup_707,vc_98,Seed,8918908,2017-03-30,71351264,False
+investment_1914,startup_707,vc_58,Series C,16173455,2017-08-23,291122199,True
+investment_1915,startup_707,vc_66,Series C,16173455,2017-08-23,161734555,False
+investment_1916,startup_708,vc_147,Series A,30424314,2018-01-10,304243140,True
+investment_1917,startup_709,vc_4,Series B,4628686,2015-08-29,37029488,True
+investment_1918,startup_709,vc_26,Series B,42172640,2019-03-05,337381120,True
+investment_1919,startup_709,vc_127,Seed,22722272,2016-11-04,272667270,True
+investment_1920,startup_709,vc_125,Series A,22722272,2016-11-04,454445450,False
+investment_1921,startup_710,vc_129,Series A,256619,2021-07-14,3079428,True
+investment_1922,startup_710,vc_135,Seed,256619,2021-07-14,5132380,False
+investment_1923,startup_710,vc_49,Series A,7310608,2023-02-28,263181888,True
+investment_1924,startup_710,vc_36,Series A,7310608,2023-02-28,197386416,False
+investment_1925,startup_710,vc_33,Series B,7310608,2023-02-28,219318240,False
+investment_1926,startup_711,vc_8,Series B,1073356,2020-08-01,12880272,True
+investment_1927,startup_711,vc_92,Series A,12996746,2014-10-16,311921904,True
+investment_1928,startup_711,vc_46,Series B,12996746,2014-10-16,181954444,False
+investment_1929,startup_712,vc_78,Series B,8367186,2014-05-22,125507800,True
+investment_1930,startup_712,vc_144,Pre-seed,8367186,2014-05-22,225914040,False
+investment_1931,startup_712,vc_85,Series B,8367186,2014-05-22,301218720,False
+investment_1932,startup_713,vc_80,Seed,5611081,2025-03-23,22444324,True
+investment_1933,startup_713,vc_114,Series A,4113550,2022-04-19,90498100,True
+investment_1934,startup_713,vc_13,Series B,4113550,2022-04-19,49362600,False
+investment_1935,startup_714,vc_84,Series C,14214088,2024-11-28,383780385,True
+investment_1936,startup_714,vc_62,Series C,14214088,2024-11-28,426422650,False
+investment_1937,startup_714,vc_25,Series B,14214088,2024-11-28,426422650,False
+investment_1938,startup_715,vc_36,Series C,10961206,2021-09-05,394603440,True
+investment_1939,startup_715,vc_141,Seed,10961206,2021-09-05,263068960,False
+investment_1940,startup_715,vc_97,Seed,10961206,2021-09-05,263068960,False
+investment_1941,startup_715,vc_124,Seed,2781917,2020-07-20,61202185,True
+investment_1942,startup_715,vc_127,Seed,2781917,2020-07-20,22255340,False
+investment_1943,startup_715,vc_42,Series A,24282101,2021-04-29,339949421,True
+investment_1944,startup_715,vc_134,Series B,24282101,2021-04-29,485642030,False
+investment_1945,startup_716,vc_93,Series C,2818428,2017-10-29,25365852,True
+investment_1946,startup_717,vc_83,Series C,26184311,2013-05-10,235658799,True
+investment_1947,startup_717,vc_27,Pre-seed,46508501,2012-01-19,279051006,True
+investment_1948,startup_719,vc_32,Series A,2346442,2020-03-26,42235956,True
+investment_1949,startup_719,vc_126,Series B,2346442,2020-03-26,46928840,False
+investment_1950,startup_719,vc_129,Seed,16020817,2023-09-06,384499620,True
+investment_1951,startup_719,vc_103,Series A,16020817,2023-09-06,256333080,False
+investment_1952,startup_722,vc_125,Series C,8284437,2017-03-24,99413250,True
+investment_1953,startup_722,vc_22,Series B,8284437,2017-03-24,132551000,False
+investment_1954,startup_722,vc_146,Series A,6979896,2025-03-20,146577816,True
+investment_1955,startup_722,vc_70,Series A,6979896,2025-03-20,146577816,False
+investment_1956,startup_722,vc_95,Seed,6979896,2025-03-20,83758752,False
+investment_1957,startup_723,vc_114,Seed,477508,2021-01-21,11460192,True
+investment_1958,startup_723,vc_89,Series A,477508,2021-01-21,15757764,False
+investment_1959,startup_723,vc_108,Pre-seed,477508,2021-01-21,10027668,False
+investment_1960,startup_723,vc_148,Series A,11998792,2019-09-18,431956512,True
+investment_1961,startup_723,vc_27,Series A,11998792,2019-09-18,179981880,False
+investment_1962,startup_723,vc_76,Pre-seed,11998792,2019-09-18,359963760,False
+investment_1963,startup_726,vc_90,Series C,25370822,2015-01-29,279079042,True
+investment_1964,startup_726,vc_145,Series B,4149301,2020-05-02,20746505,True
+investment_1965,startup_728,vc_114,Series A,6568532,2019-10-05,157644768,True
+investment_1966,startup_728,vc_46,Pre-seed,6568532,2019-10-05,52548256,False
+investment_1967,startup_728,vc_16,Series B,9236488,2025-03-11,166256790,True
+investment_1968,startup_728,vc_90,Series C,9236488,2025-03-11,166256790,False
+investment_1969,startup_728,vc_119,Pre-seed,9236488,2025-03-11,332513580,False
+investment_1970,startup_729,vc_80,Series A,4661992,2016-02-10,153845736,True
+investment_1971,startup_729,vc_49,Pre-seed,4661992,2016-02-10,153845736,False
+investment_1972,startup_729,vc_29,Series B,4661992,2016-02-10,69929880,False
+investment_1973,startup_730,vc_148,Series A,18221979,2018-01-22,255107706,True
+investment_1974,startup_730,vc_93,Series C,18221979,2018-01-22,327995622,False
+investment_1975,startup_731,vc_64,Series B,19139261,2025-05-18,191392610,True
+investment_1976,startup_731,vc_20,Pre-seed,19139261,2025-05-18,191392610,False
+investment_1977,startup_731,vc_132,Seed,6408699,2025-05-02,76904392,True
+investment_1978,startup_731,vc_61,Pre-seed,6408699,2025-05-02,115356588,False
+investment_1979,startup_731,vc_76,Seed,6408699,2025-05-02,230713176,False
+investment_1980,startup_731,vc_55,Seed,21399950,2025-05-27,256799400,True
+investment_1981,startup_735,vc_49,Series A,328904,2022-02-14,8880408,True
+investment_1982,startup_735,vc_86,Seed,328904,2022-02-14,5920272,False
+investment_1983,startup_735,vc_82,Series B,328904,2022-02-14,4933560,False
+investment_1984,startup_736,vc_52,Pre-seed,4689550,2019-09-16,56274600,True
+investment_1985,startup_736,vc_30,Series A,4689550,2019-09-16,126617850,False
+investment_1986,startup_736,vc_145,Seed,4689550,2019-09-16,98480550,False
+investment_1987,startup_739,vc_11,Series B,13696913,2024-11-01,164362956,True
+investment_1988,startup_739,vc_128,Series B,13696913,2024-11-01,493088868,False
+investment_1989,startup_739,vc_57,Series A,13696913,2024-11-01,164362956,False
+investment_1990,startup_739,vc_62,Pre-seed,28410194,2024-11-29,284101940,True
+investment_1991,startup_740,vc_34,Seed,3452634,2024-09-27,62147418,True
+investment_1992,startup_740,vc_58,Series B,3452634,2024-09-27,51789515,False
+investment_1993,startup_740,vc_52,Seed,3452634,2024-09-27,113936933,False
+investment_1994,startup_742,vc_41,Series A,14503993,2023-07-18,290079860,True
+investment_1995,startup_742,vc_4,Series A,14503993,2023-07-18,232063888,False
+investment_1996,startup_742,vc_74,Seed,4967312,2025-03-29,34771184,True
+investment_1997,startup_742,vc_71,Series B,7354670,2023-07-21,132384060,True
+investment_1998,startup_742,vc_33,Series B,7354670,2023-07-21,242704110,False
+investment_1999,startup_742,vc_122,Series A,7354670,2023-07-21,110320050,False
+investment_2000,startup_743,vc_18,Series A,8396120,2018-06-19,67168960,True
+investment_2001,startup_743,vc_72,Series C,8396120,2018-06-19,83961200,False
+investment_2002,startup_743,vc_77,Pre-seed,5101478,2019-08-17,91826613,True
+investment_2003,startup_743,vc_135,Series C,5101478,2019-08-17,122435484,False
+investment_2004,startup_743,vc_102,Series B,18753475,2025-05-06,262548650,True
+investment_2005,startup_743,vc_18,Seed,18753475,2025-05-06,225041700,False
+investment_2006,startup_744,vc_44,Series C,36886828,2023-09-20,258207796,True
+investment_2007,startup_745,vc_8,Series A,17714924,2022-07-09,194864164,True
+investment_2008,startup_746,vc_83,Series A,20661680,2020-11-12,413233600,True
+investment_2009,startup_746,vc_127,Series C,20661680,2020-11-12,289263520,False
+investment_2010,startup_746,vc_40,Series A,19094153,2012-10-02,381883060,True
+investment_2011,startup_746,vc_142,Series B,19094153,2012-10-02,381883060,False
+investment_2012,startup_748,vc_10,Series A,2975059,2021-03-01,89251780,True
+investment_2013,startup_748,vc_128,Series C,2975059,2021-03-01,107102136,False
+investment_2014,startup_748,vc_58,Seed,2975059,2021-03-01,107102136,False
+investment_2015,startup_749,vc_7,Series B,25371272,2021-10-05,304455264,True
+investment_2016,startup_751,vc_24,Series C,23140272,2014-12-08,555366528,True
+investment_2017,startup_751,vc_109,Series B,23140272,2014-12-08,416524896,False
+investment_2018,startup_751,vc_142,Series A,4742010,2015-09-04,37936080,True
+investment_2019,startup_752,vc_11,Series B,2646650,2022-10-23,21173200,True
+investment_2020,startup_752,vc_69,Seed,13217059,2025-03-08,317209432,True
+investment_2021,startup_752,vc_37,Pre-seed,13217059,2025-03-08,198255895,False
+investment_2022,startup_752,vc_108,Series C,13217059,2025-03-08,436162969,False
+investment_2023,startup_753,vc_113,Seed,14982416,2020-05-08,89894496,True
+investment_2024,startup_754,vc_73,Series B,44418133,2021-12-17,533017596,True
+investment_2025,startup_754,vc_1,Series B,13343374,2017-06-23,93403618,True
+investment_2026,startup_755,vc_2,Series C,19718677,2024-09-24,197186770,True
+investment_2027,startup_755,vc_142,Pre-seed,3127066,2023-05-19,31270665,True
+investment_2028,startup_755,vc_69,Seed,3127066,2023-05-19,68795463,False
+investment_2029,startup_755,vc_121,Series B,1590406,2025-01-06,19084876,True
+investment_2030,startup_755,vc_100,Seed,1590406,2025-01-06,57254628,False
+investment_2031,startup_755,vc_119,Pre-seed,1590406,2025-01-06,23856095,False
+investment_2032,startup_756,vc_146,Pre-seed,9212530,2024-02-08,193463137,True
+investment_2033,startup_756,vc_51,Series B,9212530,2024-02-08,138187955,False
+investment_2034,startup_756,vc_134,Series A,9212530,2024-02-08,193463137,False
+investment_2035,startup_756,vc_112,Pre-seed,17357676,2025-05-20,121503732,True
+investment_2036,startup_757,vc_75,Seed,15077931,2023-06-21,150779310,True
+investment_2037,startup_760,vc_115,Pre-seed,2384440,2024-12-19,64379889,True
+investment_2038,startup_760,vc_149,Series C,2384440,2024-12-19,64379889,False
+investment_2039,startup_760,vc_101,Seed,2384440,2024-12-19,85839852,False
+investment_2040,startup_760,vc_7,Series B,9528502,2025-03-11,171513045,True
+investment_2041,startup_760,vc_73,Series B,9528502,2025-03-11,114342030,False
+investment_2042,startup_761,vc_35,Pre-seed,15826668,2024-08-23,427320036,True
+investment_2043,startup_761,vc_117,Series C,15826668,2024-08-23,474800040,False
+investment_2044,startup_761,vc_116,Pre-seed,15826668,2024-08-23,569760048,False
+investment_2045,startup_762,vc_26,Series A,42784536,2021-09-06,513414432,True
+investment_2046,startup_762,vc_83,Seed,12045768,2025-02-10,216823824,True
+investment_2047,startup_762,vc_87,Seed,12045768,2025-02-10,168640752,False
+investment_2048,startup_762,vc_81,Pre-seed,10771099,2022-08-20,161566495,True
+investment_2049,startup_762,vc_140,Pre-seed,10771099,2022-08-20,161566495,False
+investment_2050,startup_762,vc_124,Series C,10771099,2022-08-20,290819691,False
+investment_2051,startup_762,vc_78,Pre-seed,6331418,2016-07-14,50651344,True
+investment_2052,startup_763,vc_66,Pre-seed,4866283,2023-06-27,68127962,True
+investment_2053,startup_763,vc_79,Series C,4866283,2023-06-27,48662830,False
+investment_2054,startup_763,vc_128,Pre-seed,8740439,2017-04-30,314655816,True
+investment_2055,startup_763,vc_119,Series B,8740439,2017-04-30,104885272,False
+investment_2056,startup_763,vc_115,Series C,8740439,2017-04-30,262213180,False
+investment_2057,startup_763,vc_133,Series C,16315277,2021-01-13,195783324,True
+investment_2058,startup_763,vc_39,Series A,16315277,2021-01-13,195783324,False
+investment_2059,startup_765,vc_78,Seed,516054,2017-05-15,10321090,True
+investment_2060,startup_765,vc_125,Series C,516054,2017-05-15,6192654,False
+investment_2061,startup_766,vc_82,Series B,15145516,2025-01-03,272619294,True
+investment_2062,startup_766,vc_51,Series B,15145516,2025-01-03,545238588,False
+investment_2063,startup_766,vc_23,Pre-seed,15145516,2025-01-03,408928941,False
+investment_2064,startup_766,vc_96,Series A,1252756,2021-04-05,22549620,True
+investment_2065,startup_766,vc_68,Pre-seed,1252756,2021-04-05,26307890,False
+investment_2066,startup_766,vc_45,Series A,1252756,2021-04-05,18791350,False
+investment_2067,startup_766,vc_124,Series B,11418074,2023-06-16,137016892,True
+investment_2068,startup_766,vc_134,Series B,11418074,2023-06-16,308288007,False
+investment_2069,startup_766,vc_145,Series B,11418074,2023-06-16,274033784,False
+investment_2070,startup_767,vc_3,Pre-seed,9787654,2019-04-30,234903704,True
+investment_2071,startup_767,vc_38,Seed,9787654,2019-04-30,146814815,False
+investment_2072,startup_767,vc_108,Seed,9787654,2019-04-30,117451852,False
+investment_2073,startup_767,vc_85,Seed,3802705,2025-03-15,114081150,True
+investment_2074,startup_767,vc_89,Seed,3802705,2025-03-15,125489265,False
+investment_2075,startup_767,vc_29,Pre-seed,3802705,2025-03-15,136897380,False
+investment_2076,startup_767,vc_126,Pre-seed,37170090,2022-01-13,260190630,True
+investment_2077,startup_768,vc_96,Series B,18478199,2022-10-31,184781990,True
+investment_2078,startup_768,vc_110,Seed,18478199,2022-10-31,406520378,False
+investment_2079,startup_771,vc_74,Series C,1927159,2024-07-20,19271595,True
+investment_2080,startup_771,vc_106,Pre-seed,1927159,2024-07-20,30834552,False
+investment_2081,startup_771,vc_34,Pre-seed,17046808,2023-07-26,170468080,True
+investment_2082,startup_771,vc_90,Series C,17046808,2023-07-26,375029776,False
+investment_2083,startup_772,vc_143,Pre-seed,14066743,2022-10-12,506402760,True
+investment_2084,startup_772,vc_48,Series C,14066743,2022-10-12,422002300,False
+investment_2085,startup_772,vc_76,Series A,14066743,2022-10-12,464202530,False
+investment_2086,startup_773,vc_138,Series A,49708242,2019-02-26,546790662,True
+investment_2087,startup_773,vc_33,Series C,11512556,2023-12-04,414452028,True
+investment_2088,startup_773,vc_138,Seed,11512556,2023-12-04,379914359,False
+investment_2089,startup_773,vc_22,Series B,11512556,2023-12-04,345376690,False
+investment_2090,startup_774,vc_50,Pre-seed,13833847,2022-11-01,373513887,True
+investment_2091,startup_774,vc_20,Pre-seed,13833847,2022-11-01,332012344,False
+investment_2092,startup_774,vc_54,Seed,13833847,2022-11-01,373513887,False
+investment_2093,startup_775,vc_129,Pre-seed,13950908,2023-06-23,292969075,True
+investment_2094,startup_775,vc_72,Seed,13950908,2023-06-23,460379975,False
+investment_2095,startup_775,vc_37,Series C,13950908,2023-06-23,376674525,False
+investment_2096,startup_777,vc_3,Series A,19786712,2024-10-31,237440544,True
+investment_2097,startup_777,vc_143,Series A,19786712,2024-10-31,316587392,False
+investment_2098,startup_777,vc_99,Seed,5957238,2024-12-28,107230293,True
+investment_2099,startup_777,vc_8,Series B,5957238,2024-12-28,131059247,False
+investment_2100,startup_777,vc_121,Series C,20610890,2024-09-21,206108905,True
+investment_2101,startup_777,vc_123,Seed,20610890,2024-09-21,206108905,False
+investment_2102,startup_778,vc_128,Seed,6289064,2024-04-11,207539134,True
+investment_2103,startup_778,vc_50,Series A,6289064,2024-04-11,207539134,False
+investment_2104,startup_778,vc_120,Series C,6289064,2024-04-11,132070358,False
+investment_2105,startup_778,vc_95,Series B,1934274,2024-03-02,9671370,True
+investment_2106,startup_778,vc_129,Series A,38425679,2022-09-08,153702716,True
+investment_2107,startup_779,vc_110,Seed,24998167,2023-07-14,349974338,True
+investment_2108,startup_779,vc_58,Pre-seed,24998167,2023-07-14,349974338,False
+investment_2109,startup_779,vc_33,Seed,43711972,2024-10-04,305983804,True
+investment_2110,startup_780,vc_69,Pre-seed,22110810,2024-08-29,221108100,True
+investment_2111,startup_780,vc_17,Seed,22110810,2024-08-29,486437820,False
+investment_2112,startup_781,vc_37,Seed,33098607,2024-12-04,198591642,True
+investment_2113,startup_781,vc_102,Series C,8041523,2024-10-16,64332184,True
+investment_2114,startup_781,vc_145,Series B,8041523,2024-10-16,176913506,False
+investment_2115,startup_782,vc_49,Pre-seed,40535456,2023-10-03,486425472,True
+investment_2116,startup_783,vc_112,Pre-seed,49581796,2015-09-20,198327184,True
+investment_2117,startup_784,vc_135,Series A,8709124,2023-04-16,139345992,True
+investment_2118,startup_784,vc_71,Pre-seed,8709124,2023-04-16,139345992,False
+investment_2119,startup_785,vc_16,Seed,47247678,2021-08-29,377981424,True
+investment_2120,startup_785,vc_34,Seed,4278923,2020-04-13,64183850,True
+investment_2121,startup_785,vc_42,Series C,4278923,2020-04-13,154041240,False
+investment_2122,startup_785,vc_8,Series A,4278923,2020-04-13,89857390,False
+investment_2123,startup_786,vc_32,Series A,1202416,2017-03-24,26453163,True
+investment_2124,startup_786,vc_42,Seed,1202416,2017-03-24,21643497,False
+investment_2125,startup_786,vc_94,Seed,7043787,2024-11-01,140875740,True
+investment_2126,startup_786,vc_103,Series C,7043787,2024-11-01,154963314,False
+investment_2127,startup_786,vc_89,Series B,36693926,2021-12-14,256857482,True
+investment_2128,startup_787,vc_26,Series B,7286147,2023-08-15,153009087,True
+investment_2129,startup_787,vc_56,Series C,7286147,2023-08-15,153009087,False
+investment_2130,startup_787,vc_68,Seed,7286147,2023-08-15,196725969,False
+investment_2131,startup_787,vc_57,Pre-seed,38406986,2024-07-30,230441916,True
+investment_2132,startup_789,vc_3,Pre-seed,36259763,2024-03-14,326337867,True
+investment_2133,startup_789,vc_9,Series A,20757663,2025-01-06,207576630,True
+investment_2134,startup_789,vc_0,Series C,20757663,2025-01-06,207576630,False
+investment_2135,startup_790,vc_19,Pre-seed,2360887,2021-01-20,35413305,True
+investment_2136,startup_790,vc_66,Seed,2360887,2021-01-20,77909271,False
+investment_2137,startup_790,vc_4,Pre-seed,2360887,2021-01-20,70826610,False
+investment_2138,startup_790,vc_123,Seed,47327554,2021-06-25,567930648,True
+investment_2139,startup_791,vc_145,Series A,9773712,2022-03-28,117284544,True
+investment_2140,startup_791,vc_8,Series C,9773712,2022-03-28,117284544,False
+investment_2141,startup_791,vc_41,Seed,9773712,2022-03-28,351853632,False
+investment_2142,startup_791,vc_107,Series B,4934875,2025-05-03,118437000,True
+investment_2143,startup_791,vc_42,Seed,4934875,2025-05-03,103632375,False
+investment_2144,startup_791,vc_15,Series B,4934875,2025-05-03,162850875,False
+investment_2145,startup_792,vc_135,Series B,44510670,2024-05-24,356085360,True
+investment_2146,startup_792,vc_0,Seed,12968606,2022-07-06,311246552,True
+investment_2147,startup_792,vc_35,Seed,12968606,2022-07-06,233434914,False
+investment_2148,startup_792,vc_61,Pre-seed,12968606,2022-07-06,155623276,False
+investment_2149,startup_793,vc_97,Seed,20524432,2025-04-07,164195456,True
+investment_2150,startup_793,vc_56,Pre-seed,4019459,2018-01-17,96467032,True
+investment_2151,startup_793,vc_62,Seed,4019459,2018-01-17,120583790,False
+investment_2152,startup_793,vc_110,Seed,4019459,2018-01-17,72350274,False
+investment_2153,startup_793,vc_89,Series A,17428689,2018-12-20,139429516,True
+investment_2154,startup_793,vc_135,Series C,17428689,2018-12-20,174286895,False
+investment_2155,startup_793,vc_130,Pre-seed,24187293,2023-05-15,145123758,True
+investment_2156,startup_794,vc_22,Series A,15824972,2018-12-22,253199552,True
+investment_2157,startup_794,vc_101,Series A,15824972,2018-12-22,221549608,False
+investment_2158,startup_797,vc_92,Series B,30336391,2020-03-19,242691128,True
+investment_2159,startup_797,vc_126,Series B,22179644,2016-08-06,443592890,True
+investment_2160,startup_797,vc_114,Pre-seed,22179644,2016-08-06,532311468,False
+investment_2161,startup_798,vc_95,Seed,31705144,2013-04-06,126820576,True
+investment_2162,startup_798,vc_139,Series B,11385788,2023-05-22,91086308,True
+investment_2163,startup_798,vc_94,Series B,11385788,2023-05-22,182172616,False
+investment_2164,startup_798,vc_95,Series C,10594333,2023-10-23,286047000,True
+investment_2165,startup_798,vc_106,Series C,10594333,2023-10-23,127132000,False
+investment_2166,startup_798,vc_107,Series C,10594333,2023-10-23,254264000,False
+investment_2167,startup_798,vc_61,Seed,2555729,2018-01-19,84339068,True
+investment_2168,startup_798,vc_94,Series A,2555729,2018-01-19,53670316,False
+investment_2169,startup_798,vc_1,Seed,2555729,2018-01-19,38335940,False
+investment_2170,startup_799,vc_29,Series B,49990508,2019-11-02,349933556,True

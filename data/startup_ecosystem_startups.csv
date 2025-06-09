@@ -1,0 +1,801 @@
+id,name,description,industry,location,founded_date,stage,employee_count,website,business_model,revenue_model,status
+startup_0,Robinson,Progressive fresh-thinking attitude syndicate front-end partnerships,SaaS,Philadelphia,2013-02-12,Series C,112,https://robinson.com,B2B2C,SaaS,Closed
+startup_1,DigitalLogic,Profit-focused multi-state collaboration extend open-source synergies,SaaS,Washington DC,2011-11-16,Growth,119,https://digitallogic.com,B2B,Advertising,Active
+startup_2,FusionHub,Persevering bottom-line info-mediaries matrix granular relationships,FinTech,Atlanta,2012-07-04,Pre-seed,219,https://fusionhub.com,B2C,Freemium,Acquired
+startup_3,Harris,Multi-channeled tertiary customer loyalty matrix wireless info-mediaries,MarTech,Miami,2019-07-18,Pre-seed,209,https://harris.com,Marketplace,Freemium,Active
+startup_4,CloudAnalytics,Progressive scalable extranet incubate B2C methodologies,IoT,Chicago,2014-05-24,Series C,207,https://cloudanalytics.com,Platform,Commission,Closed
+startup_5,"Mcguire, Duncan and Evans",Networked actuating initiative benchmark extensible convergence,SaaS,Los Angeles,2012-10-25,Series B,445,"https://mcguire,duncanandevans.com",Platform,Transaction,Active
+startup_6,ApexAnalytics,Vision-oriented directional knowledgebase repurpose leading-edge initiatives,Gaming,Chicago,2025-04-27,Seed,129,https://apexanalytics.com,Marketplace,SaaS,Active
+startup_7,"Smith, Oconnell and Cain",Distributed optimizing access grow innovative action-items,AI/ML,Denver,2011-05-31,Series A,484,"https://smith,oconnellandcain.com",B2B,Commission,Active
+startup_8,FusionHub,Focused systematic installation expedite rich eyeballs,AgriTech,Portland,2018-04-26,Series A,278,https://fusionhub.com,B2C,Transaction,Active
+startup_9,FusionCore,Ameliorated client-driven capacity whiteboard cross-platform systems,HRTech,Washington DC,2017-12-03,Series C,106,https://fusioncore.com,Marketplace,Commission,Active
+startup_10,MetaLogic,Multi-lateral interactive benchmark repurpose global ROI,AgriTech,San Diego,2013-11-22,Series A,318,https://metalogic.com,Marketplace,Advertising,Active
+startup_11,VertexCore,Ameliorated optimal strategy extend global convergence,AgriTech,New York,2021-06-25,Series A,7,https://vertexcore.com,B2B,Transaction,Active
+startup_12,Mcguire-Miller,User-centric dedicated orchestration aggregate cross-media supply-chains,SaaS,Denver,2022-01-21,Series A,98,https://mcguire-miller.com,Marketplace,Transaction,Active
+startup_13,ApexBase,Sharable user-facing alliance repurpose transparent convergence,AgriTech,San Diego,2017-10-02,Series B,244,https://apexbase.com,B2B2C,Freemium,Active
+startup_14,"Barr, Reynolds and Rodgers",Enterprise-wide cohesive time-frame benchmark rich infrastructures,Blockchain,San Francisco,2012-08-02,Growth,46,"https://barr,reynoldsandrodgers.com",B2B,Advertising,Active
+startup_15,SmartSolutions,Mandatory system-worthy system engine expedite frictionless web-readiness,AgriTech,Austin,2013-04-15,Pre-seed,243,https://smartsolutions.com,B2C,SaaS,Active
+startup_16,MetaAnalytics,Switchable multi-state concept disintermediate one-to-one initiatives,AgriTech,Dallas,2020-07-13,Seed,390,https://metaanalytics.com,B2B,Freemium,Active
+startup_17,Zuniga PLC,Sharable solution-oriented pricing structure re-contextualize strategic users,SaaS,Miami,2024-10-06,Series B,94,https://zunigaplc.com,Platform,Freemium,Active
+startup_18,DataHub,Reverse-engineered background forecast morph web-enabled users,LegalTech,Austin,2013-12-11,Series B,426,https://datahub.com,Marketplace,Commission,Active
+startup_19,FusionPlatform,Pre-emptive tangible instruction set harness leading-edge communities,EdTech,Boston,2024-11-28,Series C,207,https://fusionplatform.com,Marketplace,SaaS,Active
+startup_20,"Taylor, Mcdaniel and Ochoa",Upgradable well-modulated website synthesize synergistic partnerships,E-commerce,Austin,2012-07-08,Series B,330,"https://taylor,mcdanielandochoa.com",B2B2C,SaaS,Active
+startup_21,SmartPlatform,Cloned impactful analyzer evolve end-to-end methodologies,CleanTech,Dallas,2016-11-03,Series B,205,https://smartplatform.com,Marketplace,SaaS,Active
+startup_22,FusionCore,Business-focused even-keeled core drive revolutionary models,CleanTech,Seattle,2022-02-10,Pre-seed,202,https://fusioncore.com,B2B,Commission,Active
+startup_23,SmartAnalytics,Organized disintermediate website repurpose open-source paradigms,HealthTech,Nashville,2015-08-27,Series B,162,https://smartanalytics.com,B2C,Advertising,Active
+startup_24,SecureSolutions,User-centric reciprocal secured line mesh interactive infrastructures,AI/ML,Seattle,2013-05-17,Pre-seed,3,https://securesolutions.com,B2C,Advertising,Active
+startup_25,SmartPlatform,Public-key asynchronous implementation architect intuitive info-mediaries,LegalTech,Los Angeles,2014-03-26,Series C,377,https://smartplatform.com,B2B2C,Advertising,Closed
+startup_26,Watts-Adams,Synergistic discrete adapter re-contextualize transparent info-mediaries,SaaS,Boston,2014-03-24,Series C,378,https://watts-adams.com,Marketplace,Transaction,Active
+startup_27,InfiniteBase,Balanced 6thgeneration productivity leverage user-centric e-commerce,PropTech,New York,2016-08-04,Series C,261,https://infinitebase.com,B2B2C,SaaS,Active
+startup_28,Jones-Williamson,Team-oriented maximized interface cultivate e-business channels,PropTech,Washington DC,2013-04-15,Series C,242,https://jones-williamson.com,B2B,Transaction,Active
+startup_29,SecurePlatform,Multi-channeled transitional ability streamline web-enabled action-items,FoodTech,Washington DC,2019-05-08,Seed,402,https://secureplatform.com,B2B2C,SaaS,Active
+startup_30,CloudNetwork,Self-enabling dynamic strategy deploy leading-edge platforms,AI/ML,Nashville,2024-11-07,Series B,411,https://cloudnetwork.com,Platform,SaaS,Closed
+startup_31,Reese PLC,Programmable interactive budgetary management transform rich deliverables,SaaS,Los Angeles,2024-01-31,Pre-seed,395,https://reeseplc.com,B2C,Transaction,IPO
+startup_32,CloudSystems,Polarized optimal knowledgebase utilize global info-mediaries,InsurTech,Miami,2020-09-27,Pre-seed,227,https://cloudsystems.com,B2B,SaaS,Active
+startup_33,DigitalAnalytics,Innovative interactive groupware leverage open-source applications,EdTech,Denver,2011-06-12,Series B,114,https://digitalanalytics.com,Marketplace,Transaction,Active
+startup_34,CloudHub,Optional 3rdgeneration hardware disintermediate scalable e-services,AI/ML,Chicago,2012-03-08,Series A,301,https://cloudhub.com,B2B2C,SaaS,Active
+startup_35,"Ware, Alvarez and Reid",Reverse-engineered well-modulated Internet solution orchestrate plug-and-play functionalities,AgriTech,Portland,2023-08-11,Series A,92,"https://ware,alvarezandreid.com",Marketplace,Commission,Active
+startup_36,Coffey-Lee,Public-key solution-oriented product benchmark clicks-and-mortar initiatives,PropTech,Portland,2016-12-24,Pre-seed,457,https://coffey-lee.com,Marketplace,Transaction,Active
+startup_37,"Hall, Griffin and Sanchez",Down-sized bottom-line collaboration benchmark cutting-edge communities,Gaming,Nashville,2016-01-24,Series C,497,"https://hall,griffinandsanchez.com",B2B,Advertising,Active
+startup_38,CyberSolutions,Reactive incremental project optimize vertical web-readiness,IoT,Phoenix,2019-08-10,Series B,338,https://cybersolutions.com,B2C,Freemium,Active
+startup_39,Smith,Seamless uniform capability e-enable one-to-one web services,CleanTech,Philadelphia,2024-10-14,Seed,64,https://smith.com,Marketplace,SaaS,Active
+startup_40,Cochran,Centralized actuating moderator evolve ubiquitous models,CleanTech,Chicago,2014-01-23,Series A,114,https://cochran.com,B2B,Commission,Active
+startup_41,Kim-Clark,Integrated exuding throughput synthesize back-end metrics,PropTech,Atlanta,2019-06-23,Pre-seed,287,https://kim-clark.com,Marketplace,Advertising,Active
+startup_42,Hale,Configurable systemic analyzer monetize clicks-and-mortar technologies,PropTech,Miami,2013-08-31,Series B,291,https://hale.com,B2C,SaaS,Active
+startup_43,"Hammond, Stokes and Williams",Robust leadingedge algorithm drive interactive applications,FoodTech,Chicago,2019-12-11,Series B,301,"https://hammond,stokesandwilliams.com",B2B2C,Advertising,Active
+startup_44,Schneider,Upgradable client-server moderator innovate strategic info-mediaries,EdTech,Chicago,2024-04-29,Series B,71,https://schneider.com,B2B2C,Transaction,Active
+startup_45,"Tucker, Lewis and Pacheco",Reverse-engineered value-added groupware e-enable rich interfaces,FinTech,Phoenix,2020-03-01,Series A,310,"https://tucker,lewisandpacheco.com",B2B,Transaction,Active
+startup_46,Reilly-Lee,Focused non-volatile migration redefine robust paradigms,CleanTech,Dallas,2020-06-04,Series C,40,https://reilly-lee.com,Marketplace,Freemium,Active
+startup_47,DigitalCore,Ergonomic client-server parallelism harness out-of-the-box users,HealthTech,San Francisco,2014-04-01,Series A,11,https://digitalcore.com,B2B2C,Advertising,Active
+startup_48,Gibson-Pruitt,Focused explicit structure seize 24/7 models,CleanTech,Chicago,2014-01-27,Series B,3,https://gibson-pruitt.com,B2C,Advertising,Active
+startup_49,QuantumLabs,Configurable multi-tasking framework enhance clicks-and-mortar partnerships,Gaming,Boston,2010-11-14,Growth,68,https://quantumlabs.com,B2B2C,Transaction,Active
+startup_50,SecureHub,Inverse 3rdgeneration open architecture iterate open-source schemas,InsurTech,Washington DC,2021-08-24,Series C,394,https://securehub.com,B2B2C,Transaction,Active
+startup_51,QuantumHub,Multi-layered background moderator envisioneer bricks-and-clicks schemas,Blockchain,Chicago,2012-02-23,Series C,62,https://quantumhub.com,B2B2C,Freemium,Active
+startup_52,CloudPlatform,Intuitive disintermediate moratorium morph compelling applications,CleanTech,Washington DC,2022-02-23,Series B,306,https://cloudplatform.com,B2C,Advertising,Active
+startup_53,FusionNetwork,Innovative human-resource time-frame implement holistic e-markets,InsurTech,Phoenix,2015-07-27,Series A,482,https://fusionnetwork.com,B2C,Transaction,Active
+startup_54,MetaLabs,Virtual next generation migration innovate distributed infrastructures,Cybersecurity,Philadelphia,2022-04-05,Growth,493,https://metalabs.com,Marketplace,Commission,Active
+startup_55,Nelson-Beard,Pre-emptive high-level parallelism productize mission-critical technologies,AI/ML,Nashville,2025-05-14,Growth,310,https://nelson-beard.com,Platform,SaaS,Active
+startup_56,SecureAnalytics,Object-based object-oriented application integrate integrated channels,LegalTech,Portland,2018-07-07,Seed,193,https://secureanalytics.com,B2B2C,SaaS,Closed
+startup_57,SmartNetwork,Proactive bandwidth-monitored intranet seize user-centric infrastructures,CleanTech,Atlanta,2017-11-13,Seed,396,https://smartnetwork.com,B2B,Advertising,Active
+startup_58,QuantumLogic,Persevering intermediate encryption repurpose transparent web services,AgriTech,San Francisco,2022-08-07,Series A,24,https://quantumlogic.com,Marketplace,Commission,Active
+startup_59,RapidSystems,Inverse cohesive project syndicate cross-media web services,LegalTech,Seattle,2017-05-27,Series C,424,https://rapidsystems.com,Marketplace,Advertising,Active
+startup_60,"Smith, Cook and Wright",Object-based upward-trending array utilize collaborative solutions,AI/ML,Philadelphia,2019-03-03,Series A,52,"https://smith,cookandwright.com",Marketplace,Transaction,Active
+startup_61,GlobalBase,Upgradable full-range data-warehouse reinvent magnetic e-markets,IoT,Denver,2012-11-01,Series B,365,https://globalbase.com,B2B,SaaS,Active
+startup_62,Rivas-Taylor,Secured bottom-line approach whiteboard killer e-commerce,IoT,Atlanta,2019-04-13,Series B,245,https://rivas-taylor.com,B2B,Transaction,Active
+startup_63,QuantumFlow,Synergized methodical model matrix magnetic channels,LegalTech,Philadelphia,2013-12-26,Seed,420,https://quantumflow.com,Platform,Advertising,Active
+startup_64,Reynolds-Santiago,Customizable zero-defect solution strategize e-business supply-chains,E-commerce,San Diego,2018-10-23,Series B,79,https://reynolds-santiago.com,B2B2C,Freemium,Active
+startup_65,DigitalCore,Focused high-level frame productize B2C interfaces,SaaS,Atlanta,2020-07-24,Series C,276,https://digitalcore.com,Platform,Freemium,Active
+startup_66,SecureFlow,Up-sized well-modulated access orchestrate collaborative e-markets,HealthTech,Dallas,2025-05-17,Series A,417,https://secureflow.com,Platform,Transaction,Active
+startup_67,"Wright, Jones and Johnson",Expanded stable challenge grow cross-platform solutions,HRTech,Los Angeles,2023-02-05,Growth,235,"https://wright,jonesandjohnson.com",B2B,Commission,Active
+startup_68,"Daniels, Stephens and Myers",Stand-alone fresh-thinking product deliver turn-key relationships,InsurTech,New York,2022-09-27,Series A,194,"https://daniels,stephensandmyers.com",Marketplace,Freemium,Closed
+startup_69,Brown-Castro,Switchable grid-enabled customer loyalty seize collaborative e-tailers,Cybersecurity,Dallas,2019-03-10,Series B,389,https://brown-castro.com,Platform,Commission,Active
+startup_70,Cruz-Morgan,Enterprise-wide didactic Graphical User Interface e-enable integrated partnerships,FinTech,Boston,2012-12-05,Series B,207,https://cruz-morgan.com,B2C,Commission,Active
+startup_71,Hicks-Ortiz,Sharable grid-enabled implementation leverage global vortals,AI/ML,Washington DC,2023-11-21,Growth,47,https://hicks-ortiz.com,Platform,SaaS,Active
+startup_72,DigitalLabs,Synergized empowering hardware synergize wireless communities,E-commerce,Miami,2015-03-08,Series C,204,https://digitallabs.com,Marketplace,Transaction,Active
+startup_73,"Mooney, Brooks and Peterson",Expanded systematic service-desk e-enable viral supply-chains,LegalTech,Philadelphia,2014-09-20,Series C,233,"https://mooney,brooksandpeterson.com",Platform,Freemium,Active
+startup_74,QuantumFlow,Synergistic background focus group generate plug-and-play architectures,Blockchain,Phoenix,2018-05-01,Growth,463,https://quantumflow.com,B2B,Advertising,Acquired
+startup_75,MetaEngine,Reduced transitional extranet reinvent revolutionary web services,EdTech,Washington DC,2017-05-03,Series C,361,https://metaengine.com,Marketplace,Freemium,Active
+startup_76,MetaAnalytics,Extended demand-driven Graphic Interface orchestrate value-added web services,HealthTech,Los Angeles,2010-07-28,Growth,280,https://metaanalytics.com,B2C,Advertising,Active
+startup_77,ApexNetwork,Horizontal leadingedge database syndicate dot-com info-mediaries,AI/ML,San Diego,2011-11-25,Seed,493,https://apexnetwork.com,B2B,Freemium,IPO
+startup_78,FusionLabs,Object-based 24hour customer loyalty extend impactful deliverables,InsurTech,New York,2014-07-30,Series A,161,https://fusionlabs.com,Marketplace,SaaS,Active
+startup_79,SecureDynamics,Right-sized multi-tasking customer loyalty transform impactful mindshare,PropTech,Miami,2023-12-28,Series C,83,https://securedynamics.com,B2B,Transaction,Active
+startup_80,MetaSystems,Front-line logistical core enable 24/7 solutions,FoodTech,Seattle,2017-10-12,Growth,144,https://metasystems.com,B2B2C,Freemium,Active
+startup_81,ApexCore,Down-sized contextually-based matrix incubate rich schemas,SaaS,Atlanta,2023-01-30,Series A,64,https://apexcore.com,Marketplace,Advertising,Active
+startup_82,Green,Advanced attitude-oriented encoding engage integrated initiatives,Gaming,Chicago,2014-11-30,Pre-seed,36,https://green.com,Marketplace,SaaS,Active
+startup_83,"Park, Roberts and Campbell",Public-key holistic concept extend compelling e-services,Blockchain,Portland,2019-06-15,Growth,3,"https://park,robertsandcampbell.com",B2C,Transaction,Active
+startup_84,CloudSystems,Open-architected demand-driven parallelism synthesize cross-media communities,MarTech,Nashville,2013-04-13,Seed,238,https://cloudsystems.com,B2C,SaaS,Active
+startup_85,"Jones, Rich and Pham",Multi-layered systematic process improvement scale 24/365 networks,Gaming,Nashville,2019-09-27,Pre-seed,440,"https://jones,richandpham.com",B2B2C,Commission,Active
+startup_86,Berry,Business-focused user-facing process improvement target magnetic content,SaaS,Miami,2024-02-20,Pre-seed,340,https://berry.com,B2C,Transaction,Active
+startup_87,CyberNetwork,Robust impactful knowledge user morph dot-com platforms,AgriTech,Nashville,2011-12-08,Series C,483,https://cybernetwork.com,Platform,Freemium,Active
+startup_88,Clark-Gross,Synergistic motivating capability redefine revolutionary e-tailers,LegalTech,San Diego,2024-12-30,Series A,474,https://clark-gross.com,Platform,Advertising,Active
+startup_89,SecureSolutions,Focused bottom-line pricing structure extend holistic paradigms,MarTech,San Francisco,2013-08-06,Series A,118,https://securesolutions.com,B2B,SaaS,Active
+startup_90,SmartEngine,Ergonomic next generation contingency engage 24/365 convergence,MarTech,Washington DC,2022-08-24,Seed,118,https://smartengine.com,B2B,Transaction,Active
+startup_91,SecureTechnologies,Multi-channeled clear-thinking matrices implement turn-key solutions,E-commerce,Chicago,2025-05-21,Series A,338,https://securetechnologies.com,Marketplace,Freemium,Active
+startup_92,Miller-Bass,Fully-configurable homogeneous strategy monetize one-to-one niches,SaaS,Los Angeles,2018-02-18,Series C,168,https://miller-bass.com,B2B2C,Freemium,Active
+startup_93,Thompson PLC,User-centric eco-centric hardware exploit integrated web services,HealthTech,Chicago,2013-09-18,Series C,205,https://thompsonplc.com,B2C,Freemium,Active
+startup_94,"Miller, King and Johnson",Realigned radical knowledge user disintermediate efficient content,SaaS,Austin,2018-06-03,Series A,457,"https://miller,kingandjohnson.com",B2C,Freemium,Active
+startup_95,CyberSolutions,Down-sized local methodology syndicate cross-media convergence,HealthTech,San Diego,2024-03-16,Series A,175,https://cybersolutions.com,Platform,SaaS,Active
+startup_96,Peterson,Exclusive 24hour matrices engineer rich metrics,SaaS,Boston,2014-04-26,Series A,145,https://peterson.com,B2C,Freemium,Active
+startup_97,Ross,Adaptive modular encoding brand dot-com relationships,E-commerce,Washington DC,2019-05-13,Series B,178,https://ross.com,Marketplace,Advertising,Closed
+startup_98,PrimeSolutions,Right-sized object-oriented algorithm incentivize virtual architectures,Blockchain,Chicago,2024-08-06,Series B,71,https://primesolutions.com,B2C,Commission,Active
+startup_99,NeuralPlatform,Re-engineered user-facing orchestration syndicate intuitive markets,Gaming,New York,2017-06-24,Growth,79,https://neuralplatform.com,B2B,Transaction,Active
+startup_100,Gill,Cross-group content-based infrastructure unleash synergistic web services,HRTech,Portland,2021-09-10,Series B,75,https://gill.com,Platform,Commission,Active
+startup_101,"Stevens, Gallagher and Campbell",Compatible incremental hierarchy unleash end-to-end portals,LegalTech,Philadelphia,2018-08-25,Series B,181,"https://stevens,gallagherandcampbell.com",Platform,SaaS,Active
+startup_102,"Hudson, Harris and White",Synergistic attitude-oriented hardware scale bricks-and-clicks e-business,EdTech,Seattle,2011-05-22,Growth,69,"https://hudson,harrisandwhite.com",B2B,Transaction,Active
+startup_103,VertexEngine,Ergonomic intermediate superstructure seize sticky technologies,Gaming,Portland,2021-12-20,Series A,146,https://vertexengine.com,Marketplace,Freemium,Acquired
+startup_104,CyberTechnologies,Ergonomic clear-thinking protocol transform next-generation web services,CleanTech,Atlanta,2014-03-10,Series B,15,https://cybertechnologies.com,Platform,Freemium,Active
+startup_105,"Velazquez, Lewis and Huff",Mandatory local hardware optimize revolutionary channels,Blockchain,Seattle,2021-06-14,Series C,437,"https://velazquez,lewisandhuff.com",Marketplace,Advertising,Active
+startup_106,GlobalSolutions,Right-sized systemic application facilitate revolutionary schemas,FinTech,Boston,2023-04-30,Pre-seed,154,https://globalsolutions.com,Marketplace,Commission,Active
+startup_107,DigitalCore,Virtual clear-thinking knowledge user transform visionary web services,CleanTech,Washington DC,2019-07-23,Pre-seed,494,https://digitalcore.com,B2B2C,Advertising,Active
+startup_108,GlobalDynamics,Synergistic human-resource time-frame target frictionless e-tailers,FinTech,San Diego,2022-01-10,Pre-seed,251,https://globaldynamics.com,Marketplace,Freemium,Active
+startup_109,PrimeCore,User-centric tertiary matrix seize B2C communities,FoodTech,New York,2019-04-04,Pre-seed,25,https://primecore.com,B2C,Transaction,Active
+startup_110,QuantumSolutions,Open-architected asynchronous encoding leverage innovative vortals,HealthTech,Austin,2018-08-08,Growth,460,https://quantumsolutions.com,Marketplace,Advertising,Active
+startup_111,"Yoder, Ramsey and Armstrong",Reduced secondary hardware generate collaborative interfaces,E-commerce,Nashville,2014-06-28,Pre-seed,457,"https://yoder,ramseyandarmstrong.com",B2B,Advertising,Active
+startup_112,"Cruz, Reed and Mack",Object-based dedicated analyzer scale ubiquitous vortals,HealthTech,Chicago,2024-07-11,Series C,282,"https://cruz,reedandmack.com",Marketplace,Advertising,Active
+startup_113,FusionHub,Devolved systemic core streamline seamless markets,MarTech,Phoenix,2015-04-18,Growth,250,https://fusionhub.com,B2C,Freemium,Active
+startup_114,Walker-Drake,Robust tertiary conglomeration repurpose impactful bandwidth,MarTech,Denver,2019-10-17,Seed,463,https://walker-drake.com,Platform,Advertising,IPO
+startup_115,QuantumLabs,Managed secondary matrix monetize leading-edge eyeballs,MarTech,Washington DC,2014-07-27,Series B,325,https://quantumlabs.com,Marketplace,Advertising,Active
+startup_116,SmartSystems,Organized neutral neural-net transition end-to-end synergies,HealthTech,Portland,2025-03-17,Series C,75,https://smartsystems.com,B2B2C,Commission,Active
+startup_117,SecureNetwork,Face-to-face reciprocal initiative maximize interactive convergence,PropTech,Portland,2024-02-29,Series A,332,https://securenetwork.com,Marketplace,Transaction,Active
+startup_118,Williams-Townsend,Centralized homogeneous portal architect robust mindshare,HealthTech,Portland,2013-11-20,Series B,135,https://williams-townsend.com,B2C,Advertising,Active
+startup_119,SecureHub,Re-engineered user-facing customer loyalty generate mission-critical ROI,InsurTech,Boston,2012-06-29,Pre-seed,254,https://securehub.com,B2C,SaaS,Active
+startup_120,Green PLC,Triple-buffered executive software empower compelling platforms,InsurTech,Chicago,2018-12-13,Series C,10,https://greenplc.com,B2C,Commission,Active
+startup_121,Crawford,Integrated directional paradigm revolutionize one-to-one niches,InsurTech,Atlanta,2012-06-10,Seed,145,https://crawford.com,Marketplace,SaaS,Active
+startup_122,SecureCore,Persevering object-oriented support transform interactive markets,LegalTech,New York,2025-03-09,Series A,467,https://securecore.com,B2B,Commission,Active
+startup_123,QuantumSystems,Right-sized discrete knowledge user deploy proactive paradigms,FoodTech,Atlanta,2019-02-03,Series A,354,https://quantumsystems.com,Platform,Advertising,Active
+startup_124,GlobalEngine,Public-key 5thgeneration encoding revolutionize next-generation e-tailers,SaaS,Nashville,2015-06-19,Growth,25,https://globalengine.com,B2B,Freemium,Active
+startup_125,DigitalAnalytics,Balanced exuding definition target granular interfaces,IoT,San Francisco,2012-04-15,Series B,40,https://digitalanalytics.com,B2B,Commission,Active
+startup_126,"Callahan, Johnston and Sanchez",Horizontal tertiary product drive ubiquitous web services,Cybersecurity,Atlanta,2012-03-18,Series A,389,"https://callahan,johnstonandsanchez.com",Marketplace,Freemium,Active
+startup_127,ApexNetwork,Ergonomic regional contingency architect frictionless users,EdTech,Atlanta,2015-07-16,Seed,170,https://apexnetwork.com,B2B,SaaS,Active
+startup_128,Stokes Group,Customer-focused holistic open system deliver dot-com experiences,SaaS,Phoenix,2025-04-06,Series A,310,https://stokesgroup.com,B2B,Freemium,Active
+startup_129,MetaTechnologies,Horizontal discrete info-mediaries empower out-of-the-box eyeballs,E-commerce,San Francisco,2012-09-18,Pre-seed,28,https://metatechnologies.com,Platform,Freemium,Active
+startup_130,NeuralDynamics,Stand-alone exuding throughput harness seamless networks,EdTech,Denver,2023-09-30,Series B,28,https://neuraldynamics.com,Platform,Freemium,Active
+startup_131,CyberDynamics,Grass-roots secondary project incubate integrated infrastructures,Gaming,Chicago,2013-12-26,Series B,391,https://cyberdynamics.com,B2B,Transaction,Active
+startup_132,RapidSystems,Organic bottom-line knowledge user grow revolutionary info-mediaries,FinTech,Miami,2016-01-14,Growth,410,https://rapidsystems.com,B2B2C,Advertising,Active
+startup_133,Sims PLC,Intuitive fresh-thinking access engage cross-platform methodologies,EdTech,San Diego,2014-03-22,Series C,48,https://simsplc.com,B2B,SaaS,Active
+startup_134,CloudFlow,Cross-group systematic artificial intelligence scale strategic models,EdTech,San Francisco,2023-08-13,Series B,180,https://cloudflow.com,B2B2C,Commission,Active
+startup_135,CloudHub,Multi-layered interactive archive morph user-centric schemas,AgriTech,Boston,2019-04-08,Series C,233,https://cloudhub.com,B2B2C,SaaS,Active
+startup_136,DataDynamics,Business-focused regional help-desk envisioneer collaborative content,Cybersecurity,Boston,2017-05-25,Series C,66,https://datadynamics.com,B2B,SaaS,Active
+startup_137,GlobalNetwork,Visionary attitude-oriented frame matrix real-time solutions,MarTech,Austin,2022-10-07,Series C,73,https://globalnetwork.com,B2B,Transaction,Active
+startup_138,ApexLogic,Fundamental transitional intranet evolve world-class niches,E-commerce,Los Angeles,2023-09-04,Series A,157,https://apexlogic.com,B2B2C,Transaction,IPO
+startup_139,VertexLogic,Enterprise-wide logistical application synthesize user-centric mindshare,InsurTech,Philadelphia,2019-02-28,Seed,197,https://vertexlogic.com,B2C,SaaS,Active
+startup_140,"Horne, Li and Meyers",Sharable disintermediate moderator whiteboard transparent supply-chains,MarTech,Denver,2016-01-24,Growth,159,"https://horne,liandmeyers.com",B2C,Commission,Active
+startup_141,CloudLabs,Re-contextualized grid-enabled policy envisioneer intuitive methodologies,HRTech,Washington DC,2019-08-25,Series A,385,https://cloudlabs.com,B2B,Transaction,Active
+startup_142,CyberLabs,Face-to-face systemic concept extend intuitive e-services,LegalTech,Washington DC,2016-03-29,Series A,101,https://cyberlabs.com,B2B2C,Advertising,Active
+startup_143,Washington-Walsh,Down-sized zero-defect benchmark facilitate customized info-mediaries,Blockchain,Portland,2017-05-19,Pre-seed,499,https://washington-walsh.com,B2B,Transaction,Active
+startup_144,CyberHub,Team-oriented global neural-net facilitate extensible synergies,EdTech,Los Angeles,2019-10-09,Series C,382,https://cyberhub.com,B2C,Transaction,Active
+startup_145,Powell-Johnson,Switchable demand-driven collaboration seize holistic relationships,SaaS,San Francisco,2014-12-02,Pre-seed,240,https://powell-johnson.com,B2B2C,Advertising,Active
+startup_146,FusionSystems,Multi-layered explicit system engine utilize interactive solutions,FinTech,Nashville,2013-10-27,Series C,415,https://fusionsystems.com,B2B,SaaS,Closed
+startup_147,DigitalTechnologies,Optional multimedia Internet solution synergize granular e-markets,FoodTech,Nashville,2021-01-24,Pre-seed,20,https://digitaltechnologies.com,B2B,Transaction,Active
+startup_148,"Vega, Contreras and Nelson",Proactive upward-trending complexity expedite visionary e-services,LegalTech,San Francisco,2013-01-15,Series C,15,"https://vega,contrerasandnelson.com",Platform,Advertising,Active
+startup_149,"Long, Adams and Jackson",Cross-platform needs-based Internet solution unleash real-time channels,E-commerce,Boston,2021-11-15,Series C,369,"https://long,adamsandjackson.com",B2B2C,Advertising,Active
+startup_150,PrimeLogic,Reactive heuristic core orchestrate distributed interfaces,HRTech,Boston,2012-04-07,Series A,305,https://primelogic.com,B2B,Transaction,Active
+startup_151,Hunt Group,Networked attitude-oriented system engine repurpose open-source paradigms,AgriTech,Washington DC,2023-06-04,Growth,27,https://huntgroup.com,B2B,Commission,Active
+startup_152,"Turner, Norris and Lopez",Reverse-engineered demand-driven contingency morph revolutionary methodologies,CleanTech,San Diego,2018-07-29,Series A,480,"https://turner,norrisandlopez.com",B2C,Advertising,Acquired
+startup_153,GlobalCore,Managed solution-oriented access mesh transparent platforms,EdTech,Seattle,2019-02-08,Series C,224,https://globalcore.com,Marketplace,Freemium,Active
+startup_154,Chang-Garrett,Total systematic secured line implement bleeding-edge portals,LegalTech,Washington DC,2022-05-10,Seed,444,https://chang-garrett.com,B2C,Commission,Active
+startup_155,"Mueller, Lopez and Lawson",Pre-emptive next generation workforce optimize compelling deliverables,AgriTech,Seattle,2018-08-08,Series B,326,"https://mueller,lopezandlawson.com",B2B,Freemium,Closed
+startup_156,DataFlow,Fully-configurable homogeneous Graphical User Interface engage revolutionary e-markets,FinTech,Philadelphia,2016-09-22,Series C,412,https://dataflow.com,Marketplace,Transaction,Active
+startup_157,ApexFlow,Mandatory dynamic attitude facilitate world-class methodologies,Cybersecurity,Dallas,2013-07-15,Seed,263,https://apexflow.com,B2C,Transaction,Active
+startup_158,CloudPlatform,Re-engineered asymmetric forecast monetize transparent e-commerce,IoT,Los Angeles,2011-09-10,Series C,401,https://cloudplatform.com,B2B,Advertising,Active
+startup_159,Douglas-Rivera,Streamlined secondary forecast incubate collaborative channels,LegalTech,Denver,2024-08-25,Growth,221,https://douglas-rivera.com,B2B2C,Advertising,Active
+startup_160,InfiniteSolutions,Operative human-resource adapter maximize end-to-end e-services,MarTech,Phoenix,2024-06-01,Pre-seed,208,https://infinitesolutions.com,Platform,Commission,Active
+startup_161,FusionSolutions,Exclusive asymmetric system engine envisioneer extensible info-mediaries,CleanTech,Seattle,2012-03-31,Series A,487,https://fusionsolutions.com,B2B,Commission,IPO
+startup_162,Moreno,Progressive national budgetary management leverage vertical architectures,MarTech,Seattle,2022-07-01,Series B,12,https://moreno.com,B2B2C,Freemium,Active
+startup_163,RapidDynamics,Switchable zero tolerance contingency re-intermediate visionary schemas,FoodTech,Denver,2011-10-01,Series A,306,https://rapiddynamics.com,B2C,SaaS,Active
+startup_164,Cole-Roach,Ameliorated asymmetric pricing structure generate turn-key models,AgriTech,Seattle,2011-07-07,Seed,407,https://cole-roach.com,Platform,SaaS,Acquired
+startup_165,"Henderson, Price and Massey",Open-source hybrid middleware re-contextualize virtual mindshare,SaaS,Boston,2012-08-11,Pre-seed,38,"https://henderson,priceandmassey.com",B2B,Freemium,Active
+startup_166,CloudLogic,Cross-platform heuristic contingency iterate bleeding-edge markets,HRTech,Atlanta,2017-01-02,Pre-seed,24,https://cloudlogic.com,B2B2C,SaaS,Active
+startup_167,DigitalTechnologies,Robust 5thgeneration function unleash real-time convergence,LegalTech,New York,2014-09-16,Growth,235,https://digitaltechnologies.com,B2B,Commission,Active
+startup_168,SmartBase,Synchronized encompassing infrastructure mesh best-of-breed users,HRTech,Chicago,2016-07-17,Series B,39,https://smartbase.com,B2C,Commission,Active
+startup_169,FusionSystems,Optimized dynamic hardware transform virtual partnerships,LegalTech,Denver,2016-04-14,Pre-seed,478,https://fusionsystems.com,B2B2C,Advertising,Active
+startup_170,"Cervantes, Flowers and Walker",Synergistic bi-directional function whiteboard vertical relationships,FoodTech,Atlanta,2014-08-24,Seed,58,"https://cervantes,flowersandwalker.com",B2C,Advertising,Active
+startup_171,Farley and Sons,Secured incremental system engine enable value-added interfaces,HRTech,Phoenix,2019-12-27,Series C,317,https://farleyandsons.com,B2C,Freemium,Active
+startup_172,ApexBase,Face-to-face even-keeled process improvement empower scalable users,MarTech,Chicago,2024-01-06,Series B,48,https://apexbase.com,Marketplace,Freemium,Active
+startup_173,RapidLogic,Reverse-engineered executive implementation synergize customized markets,AI/ML,Portland,2012-11-16,Seed,247,https://rapidlogic.com,B2B,Commission,Closed
+startup_174,RapidSystems,Profit-focused secondary project seize virtual networks,HRTech,Washington DC,2019-04-06,Seed,285,https://rapidsystems.com,B2C,Transaction,Acquired
+startup_175,ApexAnalytics,Exclusive radical policy monetize cross-platform e-services,AgriTech,Atlanta,2019-06-14,Growth,12,https://apexanalytics.com,Marketplace,Advertising,Active
+startup_176,DataFlow,Streamlined dynamic Graphical User Interface revolutionize open-source users,AI/ML,Phoenix,2025-03-16,Series A,240,https://dataflow.com,Marketplace,Transaction,Active
+startup_177,SecureSystems,Enterprise-wide well-modulated system engine cultivate ubiquitous web services,Gaming,Boston,2022-01-09,Growth,350,https://securesystems.com,Platform,Advertising,Active
+startup_178,ApexPlatform,Grass-roots didactic core engineer viral web services,Gaming,Miami,2013-08-13,Pre-seed,301,https://apexplatform.com,B2B,Transaction,Active
+startup_179,CyberSolutions,Object-based asymmetric ability orchestrate killer networks,AI/ML,Atlanta,2017-02-15,Series B,53,https://cybersolutions.com,Marketplace,Transaction,Active
+startup_180,Lynch,Implemented discrete circuit strategize out-of-the-box web services,HealthTech,Denver,2011-03-02,Pre-seed,350,https://lynch.com,B2B2C,Commission,Active
+startup_181,Howe Group,Front-line mission-critical Internet solution reinvent synergistic content,Gaming,Austin,2011-01-17,Growth,2,https://howegroup.com,B2B2C,SaaS,Active
+startup_182,ApexFlow,Centralized intangible framework whiteboard B2B ROI,Cybersecurity,Dallas,2018-07-09,Series B,234,https://apexflow.com,B2B2C,SaaS,Active
+startup_183,White and Sons,User-centric explicit emulation iterate seamless eyeballs,CleanTech,Phoenix,2020-11-27,Series A,225,https://whiteandsons.com,B2B2C,SaaS,Active
+startup_184,Hubbard-Price,Automated methodical complexity transform efficient web-readiness,InsurTech,Dallas,2017-06-28,Series A,71,https://hubbard-price.com,B2B,Transaction,Active
+startup_185,"Smith, Braun and Gardner",Configurable secondary collaboration enable cross-platform interfaces,InsurTech,Seattle,2016-07-06,Growth,305,"https://smith,braunandgardner.com",Platform,Commission,Active
+startup_186,NeuralTechnologies,Business-focused background hardware evolve world-class users,MarTech,Miami,2020-05-08,Pre-seed,255,https://neuraltechnologies.com,B2B2C,Advertising,Active
+startup_187,DataBase,Decentralized cohesive workforce streamline best-of-breed markets,HRTech,Philadelphia,2016-01-18,Pre-seed,430,https://database.com,B2B,SaaS,Active
+startup_188,Anderson-Shelton,Vision-oriented heuristic help-desk morph bleeding-edge portals,CleanTech,Denver,2024-07-22,Growth,88,https://anderson-shelton.com,B2B,Commission,Active
+startup_189,"Rivera, Dillon and Bell",Open-source methodical approach extend turn-key paradigms,IoT,Denver,2020-08-17,Pre-seed,43,"https://rivera,dillonandbell.com",B2C,Commission,Active
+startup_190,DigitalFlow,Customizable human-resource data-warehouse harness real-time action-items,InsurTech,Washington DC,2021-06-05,Series B,304,https://digitalflow.com,B2B2C,Transaction,Active
+startup_191,Ballard-Benson,Adaptive full-range projection harness sticky e-services,AI/ML,Denver,2012-10-20,Growth,128,https://ballard-benson.com,Platform,Commission,Active
+startup_192,VertexSolutions,Profit-focused 5thgeneration application implement open-source applications,Blockchain,Washington DC,2018-10-24,Series A,402,https://vertexsolutions.com,B2B2C,SaaS,Active
+startup_193,DigitalHub,Mandatory system-worthy methodology implement killer networks,E-commerce,Atlanta,2018-04-16,Growth,463,https://digitalhub.com,Platform,Freemium,Active
+startup_194,CloudFlow,Team-oriented didactic application re-contextualize bleeding-edge platforms,CleanTech,Philadelphia,2025-02-18,Series C,391,https://cloudflow.com,B2B2C,SaaS,Active
+startup_195,Lindsey-Freeman,Ameliorated 5thgeneration standardization transition web-enabled ROI,HRTech,Phoenix,2015-01-14,Series A,336,https://lindsey-freeman.com,Marketplace,SaaS,Active
+startup_196,Wells-Thomas,Mandatory 6thgeneration circuit generate distributed networks,Cybersecurity,Seattle,2023-12-31,Pre-seed,441,https://wells-thomas.com,B2B2C,Transaction,Active
+startup_197,QuantumAnalytics,Fully-configurable system-worthy archive leverage leading-edge portals,EdTech,Los Angeles,2013-10-28,Series A,185,https://quantumanalytics.com,Platform,SaaS,Active
+startup_198,DigitalSolutions,Multi-tiered eco-centric groupware target proactive models,AI/ML,Phoenix,2019-06-02,Series C,197,https://digitalsolutions.com,Platform,Advertising,Active
+startup_199,Burton,Front-line homogeneous projection e-enable B2B initiatives,IoT,Austin,2016-04-09,Series B,431,https://burton.com,Marketplace,SaaS,Active
+startup_200,SecureSolutions,User-friendly bi-directional process improvement engineer value-added relationships,HRTech,Denver,2010-09-11,Growth,236,https://securesolutions.com,Platform,SaaS,Active
+startup_201,DigitalPlatform,Centralized exuding hub visualize e-business relationships,AI/ML,Phoenix,2016-09-24,Series C,172,https://digitalplatform.com,B2C,Advertising,Active
+startup_202,CyberAnalytics,Object-based global artificial intelligence engineer transparent web services,AgriTech,Philadelphia,2015-10-25,Series A,321,https://cyberanalytics.com,B2B,SaaS,Active
+startup_203,"Villegas, Lee and Skinner",Vision-oriented upward-trending model streamline bleeding-edge initiatives,FoodTech,Denver,2012-05-27,Series A,263,"https://villegas,leeandskinner.com",B2C,Freemium,Active
+startup_204,"Stewart, Greene and Jones",Centralized grid-enabled website expedite distributed experiences,CleanTech,Philadelphia,2023-04-03,Growth,320,"https://stewart,greeneandjones.com",Marketplace,Freemium,Active
+startup_205,DataBase,Pre-emptive local parallelism matrix end-to-end functionalities,EdTech,San Francisco,2019-07-11,Series C,449,https://database.com,B2B,Freemium,Active
+startup_206,FusionPlatform,Enhanced eco-centric middleware evolve web-enabled users,InsurTech,Dallas,2022-11-14,Series C,483,https://fusionplatform.com,B2B2C,Transaction,Active
+startup_207,DigitalAnalytics,Object-based methodical website generate e-business markets,HRTech,Los Angeles,2012-11-07,Series B,407,https://digitalanalytics.com,B2C,Freemium,Active
+startup_208,SmartPlatform,Multi-tiered dynamic toolset syndicate user-centric infrastructures,PropTech,Denver,2024-01-04,Pre-seed,348,https://smartplatform.com,Marketplace,Advertising,Active
+startup_209,"Wallace, Chang and Valenzuela",Progressive holistic complexity mesh value-added systems,Gaming,Dallas,2010-11-14,Pre-seed,319,"https://wallace,changandvalenzuela.com",Platform,Commission,Active
+startup_210,InfiniteTechnologies,Digitized responsive hierarchy implement synergistic supply-chains,Gaming,Chicago,2011-04-30,Seed,318,https://infinitetechnologies.com,Platform,Commission,Active
+startup_211,DataSystems,Re-engineered dynamic task-force leverage innovative info-mediaries,Blockchain,San Francisco,2022-01-06,Pre-seed,60,https://datasystems.com,Platform,Transaction,Active
+startup_212,"Parker, Moore and Greer",Advanced responsive throughput cultivate viral paradigms,MarTech,Nashville,2017-02-28,Growth,409,"https://parker,mooreandgreer.com",Platform,Commission,Active
+startup_213,InfiniteTechnologies,Function-based context-sensitive superstructure streamline virtual info-mediaries,LegalTech,Philadelphia,2012-03-11,Seed,112,https://infinitetechnologies.com,B2B2C,Advertising,Active
+startup_214,Williams PLC,Operative stable product morph robust partnerships,AgriTech,Boston,2022-09-17,Growth,384,https://williamsplc.com,B2B,Transaction,Active
+startup_215,DataFlow,Business-focused background task-force evolve dynamic systems,SaaS,Atlanta,2012-11-03,Series C,354,https://dataflow.com,Marketplace,Commission,Active
+startup_216,SecureSolutions,Exclusive transitional task-force target seamless methodologies,EdTech,Philadelphia,2024-03-03,Series C,72,https://securesolutions.com,Marketplace,Transaction,Active
+startup_217,NeuralLabs,Reactive real-time middleware aggregate front-end e-tailers,LegalTech,Chicago,2025-04-30,Growth,169,https://neurallabs.com,B2B2C,SaaS,Active
+startup_218,"Mckinney, Lutz and Fox",Organic hybrid complexity generate frictionless systems,FinTech,Austin,2014-05-05,Series C,96,"https://mckinney,lutzandfox.com",Marketplace,Commission,Active
+startup_219,RapidSolutions,Public-key neutral throughput incubate collaborative e-tailers,HealthTech,Portland,2023-01-12,Seed,104,https://rapidsolutions.com,B2B,SaaS,Closed
+startup_220,"Smith, Franklin and Davidson",Synergized needs-based open system scale granular e-commerce,Gaming,Nashville,2012-03-22,Pre-seed,161,"https://smith,franklinanddavidson.com",B2C,Freemium,Active
+startup_221,CyberSystems,Networked reciprocal array seize user-centric functionalities,FinTech,Nashville,2022-06-07,Series A,298,https://cybersystems.com,B2B,SaaS,IPO
+startup_222,Hughes-Jenkins,Synchronized explicit migration architect world-class communities,Gaming,Denver,2017-06-14,Series B,388,https://hughes-jenkins.com,B2C,Freemium,Active
+startup_223,RapidSolutions,Streamlined explicit adapter incentivize best-of-breed web-readiness,MarTech,Nashville,2015-08-18,Pre-seed,453,https://rapidsolutions.com,B2B,Advertising,Active
+startup_224,RapidPlatform,De-engineered methodical utilization brand real-time communities,InsurTech,Dallas,2021-01-12,Series A,206,https://rapidplatform.com,B2B,SaaS,Active
+startup_225,Olson Group,Re-contextualized scalable infrastructure grow world-class architectures,HealthTech,Chicago,2023-02-21,Growth,337,https://olsongroup.com,B2B2C,Transaction,IPO
+startup_226,SecureNetwork,Total fresh-thinking hub re-intermediate visionary networks,PropTech,New York,2012-03-30,Series C,247,https://securenetwork.com,B2B,Freemium,Active
+startup_227,SecureBase,Operative exuding architecture maximize seamless content,LegalTech,Washington DC,2015-05-17,Pre-seed,38,https://securebase.com,Marketplace,Transaction,Active
+startup_228,PrimeCore,Cross-group motivating middleware empower cross-media applications,Cybersecurity,San Diego,2024-01-27,Seed,327,https://primecore.com,B2B2C,Transaction,Active
+startup_229,Moreno-Mays,Right-sized client-server Internet solution aggregate compelling markets,FoodTech,Atlanta,2018-06-17,Series C,425,https://moreno-mays.com,B2B2C,Freemium,Active
+startup_230,"Boyd, Beck and Keller",Distributed motivating methodology unleash killer eyeballs,AI/ML,Nashville,2020-08-30,Growth,187,"https://boyd,beckandkeller.com",Marketplace,SaaS,Closed
+startup_231,NeuralPlatform,Fully-configurable radical artificial intelligence drive global infrastructures,CleanTech,Portland,2014-02-19,Series C,58,https://neuralplatform.com,B2B2C,Freemium,Active
+startup_232,Duffy-Barnes,Multi-channeled user-facing capability maximize cross-media supply-chains,HRTech,Seattle,2019-08-07,Seed,40,https://duffy-barnes.com,Platform,Transaction,Active
+startup_233,Meadows-Watson,Optimized even-keeled core visualize strategic initiatives,EdTech,Phoenix,2018-05-22,Series C,56,https://meadows-watson.com,Platform,Commission,Active
+startup_234,CloudSystems,Networked human-resource moderator matrix turn-key experiences,MarTech,Miami,2015-02-22,Series A,467,https://cloudsystems.com,B2C,Advertising,Active
+startup_235,"Hoover, Williams and Smith",Virtual solution-oriented productivity scale revolutionary e-services,HRTech,Phoenix,2024-02-02,Growth,211,"https://hoover,williamsandsmith.com",Platform,SaaS,Active
+startup_236,VertexHub,Distributed maximized info-mediaries extend vertical applications,HealthTech,Nashville,2011-01-16,Growth,4,https://vertexhub.com,B2C,Commission,Active
+startup_237,ApexTechnologies,Customer-focused scalable functionalities seize intuitive channels,Gaming,Dallas,2022-11-23,Pre-seed,129,https://apextechnologies.com,Platform,Commission,Active
+startup_238,NeuralDynamics,Total coherent function generate granular communities,Gaming,New York,2014-03-11,Seed,221,https://neuraldynamics.com,B2B,Advertising,Active
+startup_239,QuantumLogic,Virtual upward-trending data-warehouse re-intermediate front-end methodologies,Gaming,Washington DC,2017-01-22,Growth,499,https://quantumlogic.com,B2B,SaaS,Active
+startup_240,Montgomery,Extended tangible encryption incentivize best-of-breed networks,FoodTech,Miami,2013-04-08,Seed,294,https://montgomery.com,Platform,Transaction,Active
+startup_241,"Fowler, Becker and Montes",Phased context-sensitive toolset revolutionize B2B communities,LegalTech,Los Angeles,2018-03-19,Series A,478,"https://fowler,beckerandmontes.com",Platform,Freemium,Active
+startup_242,GlobalTechnologies,Configurable non-volatile knowledge user utilize seamless info-mediaries,HealthTech,San Diego,2011-06-12,Series C,447,https://globaltechnologies.com,Marketplace,Advertising,Active
+startup_243,Weeks PLC,Automated asymmetric pricing structure redefine turn-key ROI,HealthTech,Austin,2014-12-24,Pre-seed,74,https://weeksplc.com,B2B,Advertising,Active
+startup_244,CloudFlow,Reduced dedicated database leverage turn-key users,CleanTech,San Francisco,2013-06-07,Series A,359,https://cloudflow.com,B2B,Commission,Active
+startup_245,Mann-Hill,Realigned even-keeled artificial intelligence streamline best-of-breed niches,IoT,Los Angeles,2011-03-04,Seed,198,https://mann-hill.com,B2C,SaaS,Active
+startup_246,VertexEngine,Re-engineered stable installation integrate leading-edge content,LegalTech,Atlanta,2018-08-22,Series A,441,https://vertexengine.com,B2B,Transaction,Active
+startup_247,PrimeEngine,Configurable full-range customer loyalty re-contextualize revolutionary methodologies,EdTech,Seattle,2023-08-16,Pre-seed,50,https://primeengine.com,B2B2C,SaaS,Active
+startup_248,Olson-Marsh,Phased coherent toolset drive magnetic systems,LegalTech,Washington DC,2020-12-22,Growth,459,https://olson-marsh.com,B2C,Freemium,Active
+startup_249,"Brooks, Richmond and Garcia",Virtual high-level matrices incubate synergistic e-commerce,Cybersecurity,San Francisco,2023-01-25,Series B,342,"https://brooks,richmondandgarcia.com",B2B,SaaS,Active
+startup_250,Hall-Walton,Up-sized needs-based strategy whiteboard distributed bandwidth,InsurTech,Chicago,2017-06-14,Pre-seed,224,https://hall-walton.com,Platform,Transaction,Active
+startup_251,Hernandez and Sons,Polarized national structure morph robust convergence,LegalTech,San Diego,2019-07-30,Series C,85,https://hernandezandsons.com,B2C,Advertising,Active
+startup_252,FusionSystems,Front-line homogeneous Graphic Interface synthesize transparent e-markets,E-commerce,Chicago,2015-08-31,Growth,79,https://fusionsystems.com,B2B,Freemium,Closed
+startup_253,"Robinson, Phelps and Schneider",Optional optimizing portal engage user-centric e-business,FinTech,Dallas,2022-02-11,Series C,450,"https://robinson,phelpsandschneider.com",Marketplace,SaaS,Closed
+startup_254,MetaTechnologies,Synchronized well-modulated task-force integrate web-enabled supply-chains,E-commerce,Phoenix,2015-10-21,Pre-seed,309,https://metatechnologies.com,B2B2C,Advertising,Active
+startup_255,Hodges-Brady,Focused intermediate emulation transition 24/365 synergies,FinTech,Austin,2015-06-03,Seed,104,https://hodges-brady.com,B2C,Freemium,Active
+startup_256,Walter,Monitored high-level algorithm engage cross-media action-items,E-commerce,Denver,2018-12-20,Series A,280,https://walter.com,B2B,Advertising,Active
+startup_257,RapidSystems,Operative 24hour website orchestrate clicks-and-mortar methodologies,FinTech,Los Angeles,2024-02-08,Series C,279,https://rapidsystems.com,B2B2C,Advertising,Active
+startup_258,Carter-Jones,Grass-roots neutral utilization embrace end-to-end niches,Blockchain,Seattle,2017-03-01,Series C,103,https://carter-jones.com,B2B2C,Freemium,Active
+startup_259,Hughes,Optional tangible open architecture reinvent mission-critical initiatives,InsurTech,Nashville,2020-11-04,Series C,456,https://hughes.com,Marketplace,Freemium,Active
+startup_260,"Mills, Nguyen and Johnson",Innovative non-volatile attitude innovate front-end e-tailers,AI/ML,Phoenix,2023-07-06,Series A,232,"https://mills,nguyenandjohnson.com",Marketplace,Transaction,Active
+startup_261,VertexHub,Sharable tertiary database benchmark bleeding-edge schemas,AgriTech,New York,2024-05-23,Series B,500,https://vertexhub.com,Marketplace,Commission,IPO
+startup_262,CyberHub,Organized high-level Local Area Network syndicate 24/365 e-commerce,AI/ML,Phoenix,2021-08-25,Growth,158,https://cyberhub.com,B2B2C,Transaction,Active
+startup_263,PrimeNetwork,Realigned modular help-desk cultivate ubiquitous relationships,Gaming,Philadelphia,2011-07-03,Series C,498,https://primenetwork.com,B2B,Advertising,Active
+startup_264,GlobalDynamics,Persistent uniform matrices deploy strategic initiatives,MarTech,Nashville,2016-08-05,Series C,446,https://globaldynamics.com,Marketplace,Freemium,Acquired
+startup_265,"Fletcher, Santos and Anderson",Multi-layered radical info-mediaries cultivate global mindshare,Gaming,Seattle,2025-05-14,Series C,289,"https://fletcher,santosandanderson.com",B2C,Advertising,Active
+startup_266,SmartAnalytics,Ergonomic secondary hub deliver vertical deliverables,E-commerce,Philadelphia,2011-12-08,Pre-seed,293,https://smartanalytics.com,B2C,Transaction,Active
+startup_267,Lowe,Vision-oriented leadingedge open system strategize user-centric applications,IoT,Portland,2025-02-14,Series B,83,https://lowe.com,Platform,SaaS,Active
+startup_268,InfiniteAnalytics,Face-to-face coherent artificial intelligence integrate vertical bandwidth,AgriTech,Atlanta,2024-01-18,Growth,186,https://infiniteanalytics.com,B2B2C,Transaction,Acquired
+startup_269,DigitalNetwork,Exclusive motivating portal target 24/7 communities,IoT,Miami,2012-07-09,Growth,432,https://digitalnetwork.com,B2C,Commission,Active
+startup_270,RapidPlatform,Organized dynamic migration monetize dot-com functionalities,EdTech,Denver,2014-04-08,Series A,301,https://rapidplatform.com,B2B,Freemium,Active
+startup_271,Morales PLC,Extended client-driven encryption expedite killer paradigms,AgriTech,Dallas,2016-06-13,Series A,246,https://moralesplc.com,B2C,Freemium,Active
+startup_272,CyberDynamics,Versatile heuristic instruction set visualize virtual networks,E-commerce,Atlanta,2014-08-20,Series A,118,https://cyberdynamics.com,B2B2C,Transaction,Active
+startup_273,SecureEngine,Cloned even-keeled collaboration grow real-time ROI,E-commerce,San Francisco,2014-02-11,Growth,114,https://secureengine.com,B2B2C,SaaS,Active
+startup_274,Garcia and Sons,Multi-tiered neutral capacity enable mission-critical vortals,FoodTech,Portland,2013-03-01,Pre-seed,35,https://garciaandsons.com,B2B,Advertising,Active
+startup_275,Robinson-Mccarthy,Advanced high-level collaboration enhance viral platforms,FinTech,Phoenix,2014-06-04,Seed,131,https://robinson-mccarthy.com,Platform,Freemium,Active
+startup_276,PrimeSolutions,Synergistic coherent moratorium engineer bricks-and-clicks relationships,FinTech,Boston,2019-06-19,Series C,484,https://primesolutions.com,B2C,Transaction,Closed
+startup_277,Oliver,Horizontal global implementation transition distributed users,FinTech,Portland,2024-05-05,Seed,401,https://oliver.com,B2B,SaaS,Active
+startup_278,Bradford and Sons,Persevering logistical contingency revolutionize viral web-readiness,FoodTech,Miami,2018-09-11,Growth,70,https://bradfordandsons.com,B2C,Transaction,Active
+startup_279,FusionLabs,Pre-emptive uniform structure generate extensible synergies,FinTech,Boston,2015-12-17,Growth,121,https://fusionlabs.com,Marketplace,SaaS,Active
+startup_280,Gill-Lopez,Optimized 24hour alliance target user-centric eyeballs,FoodTech,Washington DC,2016-11-29,Seed,69,https://gill-lopez.com,B2C,SaaS,Active
+startup_281,Lane PLC,Centralized hybrid capacity aggregate killer portals,EdTech,Austin,2023-05-08,Pre-seed,187,https://laneplc.com,Platform,Freemium,Active
+startup_282,QuantumBase,Digitized coherent standardization deliver B2B web services,E-commerce,San Diego,2019-01-16,Pre-seed,24,https://quantumbase.com,Marketplace,Commission,Active
+startup_283,RapidAnalytics,Function-based zero tolerance projection matrix synergistic e-commerce,Blockchain,San Diego,2021-01-19,Growth,331,https://rapidanalytics.com,Platform,Commission,Active
+startup_284,Reyes Group,Vision-oriented maximized time-frame implement e-business paradigms,PropTech,Chicago,2011-05-17,Pre-seed,323,https://reyesgroup.com,B2C,Advertising,Active
+startup_285,"Mata, Vazquez and Welch",Re-contextualized eco-centric protocol enhance transparent action-items,AI/ML,Boston,2012-09-10,Series A,203,"https://mata,vazquezandwelch.com",Platform,Commission,Active
+startup_286,CloudTechnologies,Robust 24hour strategy empower magnetic architectures,IoT,San Francisco,2014-11-17,Growth,494,https://cloudtechnologies.com,Platform,SaaS,Active
+startup_287,NeuralDynamics,Self-enabling even-keeled projection iterate interactive web-readiness,PropTech,Washington DC,2020-12-28,Pre-seed,469,https://neuraldynamics.com,B2B2C,Advertising,Active
+startup_288,Walton-Simpson,Expanded local access monetize integrated convergence,LegalTech,Austin,2013-04-26,Series B,154,https://walton-simpson.com,B2B,Freemium,Closed
+startup_289,DigitalLabs,Upgradable exuding solution target seamless networks,SaaS,Washington DC,2021-11-05,Series C,191,https://digitallabs.com,Marketplace,Transaction,Active
+startup_290,Sandoval-Duran,Customizable mission-critical methodology productize one-to-one mindshare,InsurTech,Austin,2020-09-12,Series A,198,https://sandoval-duran.com,B2B,SaaS,Closed
+startup_291,PrimeTechnologies,Persistent leadingedge alliance e-enable virtual action-items,IoT,Philadelphia,2011-10-23,Series B,233,https://primetechnologies.com,Marketplace,Advertising,Active
+startup_292,"Richmond, Bryant and Armstrong",Configurable dynamic encryption extend holistic systems,Gaming,Philadelphia,2019-03-10,Series A,363,"https://richmond,bryantandarmstrong.com",B2C,Commission,Closed
+startup_293,InfiniteCore,Exclusive executive support benchmark clicks-and-mortar markets,HRTech,Los Angeles,2024-04-16,Series C,361,https://infinitecore.com,Marketplace,Transaction,Active
+startup_294,Cherry-Moon,Proactive stable solution enhance innovative networks,E-commerce,Philadelphia,2016-01-14,Seed,86,https://cherry-moon.com,B2C,Freemium,Active
+startup_295,"Holt, Weber and Williams",Quality-focused reciprocal throughput repurpose dynamic partnerships,HRTech,New York,2013-08-01,Growth,182,"https://holt,weberandwilliams.com",Platform,Advertising,Active
+startup_296,MetaSolutions,Inverse leadingedge system engine whiteboard end-to-end users,CleanTech,New York,2022-12-27,Growth,39,https://metasolutions.com,Platform,Transaction,Active
+startup_297,Castaneda-Walton,Multi-channeled 4thgeneration collaboration enable robust vortals,AI/ML,San Diego,2025-01-07,Pre-seed,224,https://castaneda-walton.com,Platform,SaaS,IPO
+startup_298,FusionPlatform,Decentralized eco-centric policy transition collaborative interfaces,PropTech,Austin,2011-09-05,Series B,276,https://fusionplatform.com,B2B2C,SaaS,Active
+startup_299,Ali Group,Distributed non-volatile monitoring deliver B2B ROI,InsurTech,Atlanta,2025-01-09,Series C,436,https://aligroup.com,Platform,Freemium,Active
+startup_300,GlobalCore,Enhanced tertiary monitoring morph interactive vortals,IoT,Phoenix,2018-09-04,Seed,234,https://globalcore.com,Platform,Advertising,Active
+startup_301,RapidEngine,Front-line background support repurpose intuitive paradigms,MarTech,Chicago,2019-03-04,Series B,12,https://rapidengine.com,B2B,Commission,Active
+startup_302,FusionBase,Business-focused empowering hardware engineer viral applications,AgriTech,Miami,2011-03-14,Growth,222,https://fusionbase.com,B2B2C,Commission,Active
+startup_303,InfiniteBase,Front-line motivating encoding harness B2C web services,HRTech,Los Angeles,2013-07-31,Seed,372,https://infinitebase.com,Marketplace,Transaction,Active
+startup_304,QuantumSolutions,Robust heuristic secured line matrix intuitive metrics,Cybersecurity,New York,2017-11-08,Series B,14,https://quantumsolutions.com,Marketplace,Freemium,Active
+startup_305,NeuralTechnologies,Automated 3rdgeneration attitude re-intermediate robust paradigms,InsurTech,San Diego,2017-09-24,Seed,143,https://neuraltechnologies.com,Marketplace,Freemium,Active
+startup_306,RapidSolutions,Sharable dedicated circuit orchestrate integrated supply-chains,EdTech,Seattle,2022-03-23,Growth,168,https://rapidsolutions.com,Marketplace,Transaction,Active
+startup_307,SecureLogic,Multi-channeled clear-thinking circuit empower e-business deliverables,E-commerce,Atlanta,2010-11-04,Growth,110,https://securelogic.com,B2B,SaaS,Active
+startup_308,Henry-Hardy,Innovative regional orchestration matrix magnetic e-tailers,Gaming,Chicago,2014-09-03,Growth,270,https://henry-hardy.com,Marketplace,Advertising,Active
+startup_309,"Martin, Griffin and Cervantes",Team-oriented content-based product engineer turn-key technologies,Gaming,Atlanta,2014-04-29,Pre-seed,427,"https://martin,griffinandcervantes.com",B2C,Transaction,Active
+startup_310,GlobalDynamics,Team-oriented foreground success maximize holistic users,HRTech,Boston,2023-12-19,Series C,183,https://globaldynamics.com,Platform,Freemium,Active
+startup_311,CyberBase,Digitized systemic strategy implement cutting-edge action-items,SaaS,Chicago,2012-06-23,Growth,163,https://cyberbase.com,B2C,SaaS,Active
+startup_312,NeuralFlow,Polarized coherent alliance synthesize vertical metrics,PropTech,Los Angeles,2020-03-21,Series C,491,https://neuralflow.com,B2B,Transaction,Active
+startup_313,King PLC,Front-line composite algorithm benchmark collaborative relationships,IoT,Miami,2016-07-24,Series B,183,https://kingplc.com,B2B,Commission,Active
+startup_314,GlobalDynamics,Synergized mobile application reinvent magnetic technologies,InsurTech,Portland,2018-05-01,Series C,369,https://globaldynamics.com,B2B2C,Freemium,Active
+startup_315,ApexTechnologies,User-centric tertiary encoding innovate best-of-breed infrastructures,MarTech,Los Angeles,2024-09-25,Series A,390,https://apextechnologies.com,Marketplace,Commission,Active
+startup_316,QuantumBase,Expanded directional initiative unleash dot-com action-items,AgriTech,New York,2012-09-19,Series C,7,https://quantumbase.com,Marketplace,Advertising,Active
+startup_317,Clark,Open-source modular budgetary management re-intermediate one-to-one networks,FoodTech,Philadelphia,2023-08-19,Series A,167,https://clark.com,B2B2C,Commission,Acquired
+startup_318,GlobalEngine,Fundamental multimedia emulation empower mission-critical markets,AI/ML,Nashville,2023-08-07,Series B,454,https://globalengine.com,B2B2C,Transaction,IPO
+startup_319,"Clark, Valdez and Hartman",Horizontal background function grow synergistic users,Cybersecurity,Seattle,2015-03-05,Pre-seed,128,"https://clark,valdezandhartman.com",B2B,Freemium,Active
+startup_320,Holmes,Customer-focused 5thgeneration archive visualize magnetic web-readiness,Blockchain,Austin,2022-01-14,Growth,424,https://holmes.com,B2C,Commission,Acquired
+startup_321,"Lara, Wallace and Gutierrez",Balanced real-time capability scale plug-and-play solutions,Blockchain,San Diego,2025-04-28,Series B,312,"https://lara,wallaceandgutierrez.com",Marketplace,Advertising,Active
+startup_322,Hart Group,Diverse coherent encoding brand leading-edge niches,AI/ML,Chicago,2012-09-21,Seed,457,https://hartgroup.com,B2B2C,Commission,Active
+startup_323,GlobalNetwork,Balanced analyzing conglomeration whiteboard efficient info-mediaries,Cybersecurity,Miami,2010-12-15,Series B,314,https://globalnetwork.com,Platform,Commission,Active
+startup_324,DataCore,Quality-focused scalable collaboration optimize distributed methodologies,InsurTech,New York,2018-10-16,Series B,224,https://datacore.com,B2B,Commission,Active
+startup_325,Rivas-Banks,Exclusive explicit installation matrix intuitive markets,AI/ML,Chicago,2012-05-01,Seed,43,https://rivas-banks.com,Platform,Transaction,Active
+startup_326,"Harper, Mckenzie and Obrien",Streamlined didactic budgetary management incentivize cutting-edge communities,AI/ML,Austin,2013-12-26,Seed,32,"https://harper,mckenzieandobrien.com",B2C,Advertising,Active
+startup_327,Young-Lam,Synchronized bifurcated archive disintermediate bricks-and-clicks channels,FinTech,Portland,2010-11-16,Series C,345,https://young-lam.com,Marketplace,SaaS,Active
+startup_328,CyberTechnologies,Devolved cohesive synergy innovate B2C metrics,LegalTech,Seattle,2022-05-11,Seed,396,https://cybertechnologies.com,Marketplace,Commission,Active
+startup_329,Meyer and Sons,Public-key cohesive leverage embrace transparent users,E-commerce,Boston,2013-10-03,Series B,44,https://meyerandsons.com,B2C,SaaS,Active
+startup_330,CloudTechnologies,Reactive client-driven model enhance seamless portals,AI/ML,Boston,2013-07-30,Series C,387,https://cloudtechnologies.com,B2B2C,Commission,Active
+startup_331,SmartLogic,Open-source impactful throughput enable interactive initiatives,InsurTech,Los Angeles,2023-02-04,Series A,65,https://smartlogic.com,Marketplace,SaaS,Active
+startup_332,SmartCore,Cross-group heuristic artificial intelligence expedite rich supply-chains,CleanTech,Chicago,2013-06-27,Growth,265,https://smartcore.com,Platform,Advertising,Active
+startup_333,MetaSystems,Self-enabling content-based artificial intelligence expedite 24/365 applications,LegalTech,Washington DC,2022-01-08,Series C,411,https://metasystems.com,B2C,Transaction,Active
+startup_334,SecureSolutions,Enhanced bottom-line complexity aggregate ubiquitous partnerships,Gaming,Dallas,2019-05-22,Pre-seed,400,https://securesolutions.com,B2B,Commission,Active
+startup_335,Miller and Sons,Public-key demand-driven implementation e-enable 24/7 bandwidth,Blockchain,Dallas,2020-04-14,Series A,207,https://millerandsons.com,B2B,Advertising,Closed
+startup_336,InfiniteHub,Customizable systematic data-warehouse expedite proactive ROI,IoT,Denver,2021-10-14,Growth,117,https://infinitehub.com,Platform,Advertising,Active
+startup_337,InfiniteBase,Reverse-engineered web-enabled website iterate 24/365 relationships,InsurTech,Washington DC,2025-04-23,Growth,264,https://infinitebase.com,Marketplace,Commission,Acquired
+startup_338,RapidCore,Sharable clear-thinking Internet solution extend synergistic vortals,EdTech,Dallas,2015-03-04,Seed,295,https://rapidcore.com,Marketplace,Transaction,Closed
+startup_339,RapidSolutions,Monitored object-oriented paradigm drive seamless vortals,AgriTech,Seattle,2023-04-18,Series A,299,https://rapidsolutions.com,B2B2C,Transaction,Active
+startup_340,Aguilar-Martin,Diverse interactive task-force revolutionize magnetic relationships,HealthTech,Nashville,2017-05-16,Growth,149,https://aguilar-martin.com,B2C,SaaS,Active
+startup_341,Valdez,Exclusive even-keeled neural-net productize visionary applications,FoodTech,Seattle,2013-10-02,Series B,237,https://valdez.com,B2B,Advertising,Active
+startup_342,SmartSystems,Polarized neutral forecast extend world-class content,LegalTech,Washington DC,2016-08-27,Series B,489,https://smartsystems.com,B2B2C,Commission,Active
+startup_343,NeuralNetwork,Configurable multi-state ability syndicate efficient functionalities,AgriTech,New York,2017-11-22,Growth,301,https://neuralnetwork.com,Platform,SaaS,IPO
+startup_344,GlobalNetwork,Digitized system-worthy system engine optimize holistic systems,E-commerce,Portland,2015-04-02,Growth,311,https://globalnetwork.com,B2B,Freemium,Active
+startup_345,MetaDynamics,Front-line bandwidth-monitored model re-contextualize cross-platform deliverables,FoodTech,Seattle,2014-06-08,Growth,14,https://metadynamics.com,Platform,SaaS,Active
+startup_346,Greene PLC,Seamless stable access productize mission-critical action-items,AI/ML,Boston,2022-02-27,Pre-seed,80,https://greeneplc.com,Marketplace,Freemium,Active
+startup_347,InfiniteLogic,Customer-focused optimizing migration repurpose bricks-and-clicks supply-chains,InsurTech,Denver,2011-08-31,Pre-seed,18,https://infinitelogic.com,B2C,Transaction,Active
+startup_348,"Maynard, Peterson and Kent",Proactive interactive interface e-enable back-end e-markets,Gaming,Philadelphia,2016-05-13,Seed,13,"https://maynard,petersonandkent.com",Marketplace,Commission,IPO
+startup_349,DigitalHub,Visionary even-keeled open architecture cultivate 24/365 supply-chains,InsurTech,San Diego,2015-03-11,Series B,66,https://digitalhub.com,B2B2C,Commission,IPO
+startup_350,RapidSystems,Managed mobile contingency synergize sticky technologies,MarTech,Portland,2017-06-26,Series C,348,https://rapidsystems.com,B2C,Advertising,Acquired
+startup_351,"Mills, Johnson and Mendoza",Customer-focused attitude-oriented moratorium e-enable robust technologies,Cybersecurity,Phoenix,2022-02-20,Series B,395,"https://mills,johnsonandmendoza.com",Marketplace,Transaction,Active
+startup_352,"Hernandez, White and Johnson",Right-sized secondary extranet expedite B2C partnerships,InsurTech,Denver,2024-04-15,Series A,251,"https://hernandez,whiteandjohnson.com",Marketplace,SaaS,Active
+startup_353,DigitalTechnologies,Networked holistic help-desk aggregate extensible eyeballs,AI/ML,Boston,2011-02-18,Growth,179,https://digitaltechnologies.com,Platform,SaaS,Acquired
+startup_354,ApexAnalytics,Operative clear-thinking moratorium monetize virtual platforms,FoodTech,Denver,2024-05-06,Series B,122,https://apexanalytics.com,Platform,Advertising,Active
+startup_355,ApexTechnologies,Implemented secondary solution strategize collaborative models,SaaS,Atlanta,2019-01-26,Series A,277,https://apextechnologies.com,Platform,SaaS,Active
+startup_356,DataEngine,Extended mission-critical service-desk repurpose world-class interfaces,MarTech,Nashville,2020-03-28,Growth,162,https://dataengine.com,Platform,Advertising,Active
+startup_357,DigitalEngine,Profound even-keeled firmware integrate scalable experiences,LegalTech,Los Angeles,2011-03-12,Growth,472,https://digitalengine.com,Marketplace,SaaS,Active
+startup_358,SecureFlow,Integrated background Local Area Network evolve open-source e-tailers,AI/ML,Phoenix,2020-06-25,Series C,404,https://secureflow.com,B2B,Freemium,IPO
+startup_359,NeuralTechnologies,Managed optimizing complexity engineer revolutionary architectures,InsurTech,San Francisco,2011-03-11,Pre-seed,144,https://neuraltechnologies.com,Marketplace,SaaS,Active
+startup_360,"Payne, Fox and Warren",Enhanced holistic model facilitate end-to-end ROI,FinTech,Seattle,2024-06-01,Growth,215,"https://payne,foxandwarren.com",Marketplace,Freemium,Active
+startup_361,QuantumAnalytics,Triple-buffered needs-based paradigm facilitate back-end supply-chains,LegalTech,Dallas,2019-04-11,Series A,167,https://quantumanalytics.com,Platform,SaaS,Active
+startup_362,ApexCore,Integrated background standardization disintermediate compelling synergies,FinTech,Portland,2018-10-04,Series B,113,https://apexcore.com,B2B2C,Transaction,Active
+startup_363,VertexLabs,Digitized solution-oriented solution aggregate world-class deliverables,AgriTech,Portland,2021-07-10,Growth,144,https://vertexlabs.com,B2B2C,Commission,Active
+startup_364,CloudPlatform,Extended multimedia conglomeration strategize synergistic portals,AgriTech,Dallas,2017-08-10,Pre-seed,49,https://cloudplatform.com,Marketplace,Advertising,Active
+startup_365,InfiniteSystems,Cross-group attitude-oriented analyzer incubate collaborative niches,LegalTech,Portland,2012-02-22,Seed,203,https://infinitesystems.com,B2C,SaaS,Active
+startup_366,MetaCore,Re-contextualized global initiative reinvent next-generation bandwidth,Cybersecurity,Austin,2016-07-02,Series A,75,https://metacore.com,B2C,Commission,Active
+startup_367,ApexBase,Total interactive Internet solution matrix impactful systems,HRTech,Chicago,2021-05-28,Seed,477,https://apexbase.com,Platform,Freemium,Active
+startup_368,SmartLabs,Fundamental upward-trending Local Area Network enable extensible mindshare,FinTech,Nashville,2023-04-22,Series B,400,https://smartlabs.com,B2C,SaaS,Active
+startup_369,GlobalAnalytics,Assimilated zero tolerance archive harness interactive initiatives,HealthTech,Los Angeles,2018-11-25,Series A,396,https://globalanalytics.com,Marketplace,Freemium,Active
+startup_370,InfiniteEngine,Profound responsive functionalities scale real-time deliverables,SaaS,Phoenix,2017-03-21,Seed,474,https://infiniteengine.com,Marketplace,Commission,Closed
+startup_371,"Hernandez, Miranda and Taylor",Assimilated next generation hub streamline frictionless interfaces,PropTech,San Francisco,2023-04-18,Series C,36,"https://hernandez,mirandaandtaylor.com",Marketplace,Freemium,IPO
+startup_372,InfiniteNetwork,Decentralized analyzing data-warehouse mesh user-centric architectures,HRTech,Denver,2015-02-08,Series A,384,https://infinitenetwork.com,B2B,Commission,Active
+startup_373,Mills and Sons,Public-key scalable functionalities target out-of-the-box channels,IoT,San Diego,2019-10-07,Growth,68,https://millsandsons.com,B2C,Freemium,IPO
+startup_374,RapidSolutions,Versatile responsive neural-net engage killer e-business,PropTech,Miami,2010-07-12,Growth,166,https://rapidsolutions.com,B2B,Commission,Active
+startup_375,Moore and Sons,Virtual solution-oriented database morph value-added methodologies,InsurTech,Boston,2012-04-08,Series A,307,https://mooreandsons.com,B2C,Freemium,Active
+startup_376,SecureTechnologies,Persistent cohesive data-warehouse repurpose innovative channels,Cybersecurity,Phoenix,2022-07-05,Series C,184,https://securetechnologies.com,B2C,SaaS,Active
+startup_377,Martinez,Cross-platform tangible function re-intermediate proactive systems,LegalTech,Nashville,2012-09-05,Series B,169,https://martinez.com,B2C,SaaS,Active
+startup_378,"Dennis, Stewart and Rodriguez",Persevering homogeneous intranet innovate viral paradigms,MarTech,Miami,2016-12-15,Series B,345,"https://dennis,stewartandrodriguez.com",B2B,SaaS,Active
+startup_379,CyberTechnologies,Decentralized client-server support strategize wireless vortals,InsurTech,Dallas,2020-01-31,Pre-seed,390,https://cybertechnologies.com,Platform,Freemium,Acquired
+startup_380,DigitalPlatform,Implemented fault-tolerant neural-net re-contextualize synergistic eyeballs,HealthTech,Philadelphia,2014-09-07,Series C,307,https://digitalplatform.com,Platform,Freemium,Active
+startup_381,Pierce-Burgess,Multi-lateral static approach re-contextualize collaborative e-services,LegalTech,Seattle,2013-09-26,Series A,48,https://pierce-burgess.com,Platform,Transaction,Active
+startup_382,PrimeFlow,Sharable dynamic workforce engage turn-key ROI,LegalTech,Boston,2011-05-30,Pre-seed,492,https://primeflow.com,B2B2C,Freemium,Active
+startup_383,FusionCore,Advanced zero tolerance analyzer brand scalable action-items,IoT,Seattle,2023-02-18,Series A,481,https://fusioncore.com,Marketplace,SaaS,Active
+startup_384,Mata,Quality-focused next generation emulation evolve best-of-breed portals,Gaming,New York,2023-06-29,Growth,420,https://mata.com,B2B2C,Freemium,Active
+startup_385,"Keller, Young and Bridges",Expanded logistical adapter mesh end-to-end e-commerce,LegalTech,New York,2014-05-30,Pre-seed,420,"https://keller,youngandbridges.com",Marketplace,Commission,Acquired
+startup_386,Estrada PLC,Implemented eco-centric database seize open-source bandwidth,E-commerce,Austin,2023-07-23,Series A,133,https://estradaplc.com,B2C,Freemium,Closed
+startup_387,PrimeAnalytics,Balanced empowering migration synthesize user-centric initiatives,Cybersecurity,Miami,2019-04-11,Pre-seed,138,https://primeanalytics.com,Platform,Advertising,Active
+startup_388,QuantumBase,Switchable real-time capacity evolve granular networks,MarTech,Boston,2012-09-20,Seed,219,https://quantumbase.com,B2B,Advertising,Active
+startup_389,Jackson Group,Grass-roots optimal portal matrix web-enabled interfaces,Gaming,New York,2022-01-02,Growth,327,https://jacksongroup.com,B2B2C,Freemium,Active
+startup_390,CloudCore,Versatile systematic artificial intelligence deploy open-source initiatives,Blockchain,Washington DC,2021-04-23,Series A,78,https://cloudcore.com,Marketplace,Commission,Active
+startup_391,Evans and Sons,Operative leadingedge Local Area Network engineer value-added deliverables,MarTech,Austin,2021-07-28,Seed,408,https://evansandsons.com,Platform,Advertising,Active
+startup_392,CloudDynamics,Ameliorated 24hour installation strategize best-of-breed niches,Cybersecurity,Seattle,2013-03-28,Series A,394,https://clouddynamics.com,Marketplace,Freemium,IPO
+startup_393,DataCore,Fully-configurable neutral success transform ubiquitous supply-chains,FoodTech,Portland,2019-09-22,Series B,57,https://datacore.com,Marketplace,SaaS,IPO
+startup_394,Manning-Thompson,Multi-channeled tangible hierarchy harness plug-and-play paradigms,PropTech,Dallas,2021-03-06,Series C,223,https://manning-thompson.com,B2C,Commission,Active
+startup_395,Parker-Roberts,Front-line encompassing success scale integrated deliverables,E-commerce,Boston,2014-08-11,Series C,2,https://parker-roberts.com,Marketplace,Advertising,Active
+startup_396,"Adams, Santana and Collins",Persistent actuating methodology strategize virtual architectures,HealthTech,Atlanta,2016-11-11,Pre-seed,448,"https://adams,santanaandcollins.com",B2B2C,SaaS,Active
+startup_397,QuantumLabs,Future-proofed systematic utilization orchestrate wireless info-mediaries,FoodTech,San Francisco,2012-07-30,Growth,393,https://quantumlabs.com,B2B2C,SaaS,Active
+startup_398,Yu-Flores,Front-line composite functionalities transform out-of-the-box e-services,FoodTech,Denver,2014-06-18,Seed,192,https://yu-flores.com,B2B2C,Commission,Active
+startup_399,VertexDynamics,Cloned zero administration orchestration seize synergistic e-commerce,IoT,Nashville,2013-10-18,Seed,346,https://vertexdynamics.com,B2B2C,SaaS,Acquired
+startup_400,Ayers,Customer-focused hybrid Graphical User Interface synthesize holistic systems,MarTech,Philadelphia,2024-05-23,Growth,313,https://ayers.com,Marketplace,SaaS,Active
+startup_401,Price and Sons,Quality-focused clear-thinking matrix re-intermediate visionary convergence,AI/ML,Phoenix,2018-12-18,Growth,446,https://priceandsons.com,Platform,Transaction,Active
+startup_402,Evans PLC,Synergistic multi-state toolset mesh bricks-and-clicks metrics,AI/ML,Boston,2010-08-29,Series A,197,https://evansplc.com,B2B2C,Freemium,Active
+startup_403,"Bryant, Knight and Riley",Adaptive logistical middleware envisioneer turn-key e-commerce,AI/ML,Miami,2024-01-09,Pre-seed,41,"https://bryant,knightandriley.com",Platform,Transaction,Active
+startup_404,DataCore,Customer-focused actuating budgetary management e-enable seamless info-mediaries,InsurTech,San Diego,2023-02-19,Growth,268,https://datacore.com,Marketplace,SaaS,Acquired
+startup_405,VertexSystems,Reactive local analyzer generate cutting-edge e-services,Cybersecurity,Austin,2016-12-25,Seed,474,https://vertexsystems.com,Marketplace,Transaction,Acquired
+startup_406,VertexDynamics,Intuitive client-server access maximize viral portals,FinTech,Portland,2011-08-16,Series A,313,https://vertexdynamics.com,B2B2C,SaaS,Active
+startup_407,Mckinney PLC,Customer-focused object-oriented protocol architect rich action-items,Gaming,Boston,2024-09-07,Growth,53,https://mckinneyplc.com,Marketplace,Commission,Active
+startup_408,"Mejia, Wilcox and Owens",Quality-focused methodical flexibility aggregate vertical experiences,EdTech,Nashville,2014-11-18,Series B,377,"https://mejia,wilcoxandowens.com",B2B2C,Transaction,Active
+startup_409,CyberAnalytics,Automated responsive database engage synergistic eyeballs,HRTech,Nashville,2013-02-22,Series C,26,https://cyberanalytics.com,B2C,Advertising,IPO
+startup_410,RapidEngine,Robust client-driven Graphical User Interface leverage vertical e-markets,InsurTech,Phoenix,2018-09-06,Series A,352,https://rapidengine.com,Marketplace,Transaction,Active
+startup_411,SecureSystems,Stand-alone scalable productivity utilize compelling web-readiness,CleanTech,New York,2020-10-29,Growth,6,https://securesystems.com,B2B2C,Advertising,Active
+startup_412,MetaLabs,Focused 6thgeneration customer loyalty enhance turn-key schemas,CleanTech,Portland,2019-09-13,Series C,452,https://metalabs.com,B2C,Advertising,Active
+startup_413,SecureAnalytics,Monitored even-keeled array deploy rich synergies,Cybersecurity,Denver,2011-08-22,Series B,153,https://secureanalytics.com,B2C,Advertising,Active
+startup_414,Brown,Self-enabling uniform adapter aggregate magnetic models,CleanTech,Atlanta,2014-06-11,Series A,189,https://brown.com,B2B2C,Advertising,Active
+startup_415,InfiniteAnalytics,Stand-alone non-volatile projection reinvent robust niches,IoT,Los Angeles,2025-05-04,Growth,94,https://infiniteanalytics.com,Marketplace,Advertising,Active
+startup_416,Phillips-Jones,Proactive asymmetric throughput innovate customized e-commerce,Gaming,Los Angeles,2017-10-13,Growth,196,https://phillips-jones.com,B2C,Commission,Closed
+startup_417,SmartTechnologies,Customizable 24hour success generate impactful deliverables,CleanTech,Washington DC,2011-03-16,Series B,325,https://smarttechnologies.com,B2B,Freemium,Active
+startup_418,SecureAnalytics,Open-architected 4thgeneration capability orchestrate web-enabled users,EdTech,Denver,2024-09-04,Seed,360,https://secureanalytics.com,Marketplace,SaaS,Active
+startup_419,Wright-Griffin,Synergized leadingedge project benchmark world-class partnerships,AgriTech,Chicago,2010-11-29,Pre-seed,305,https://wright-griffin.com,B2C,Advertising,Active
+startup_420,DigitalSystems,Total regional product orchestrate intuitive e-markets,HRTech,Dallas,2018-12-29,Pre-seed,70,https://digitalsystems.com,Marketplace,SaaS,Acquired
+startup_421,Shea Group,Exclusive explicit process improvement evolve killer systems,CleanTech,Denver,2017-10-01,Series C,35,https://sheagroup.com,B2C,Advertising,Active
+startup_422,Johnson PLC,Ameliorated mobile encoding scale rich applications,Gaming,Chicago,2012-04-02,Series A,229,https://johnsonplc.com,Platform,Freemium,Active
+startup_423,RapidTechnologies,Ameliorated national architecture synergize integrated channels,AgriTech,Philadelphia,2019-12-19,Series B,193,https://rapidtechnologies.com,B2C,Transaction,Active
+startup_424,Thomas PLC,Streamlined solution-oriented matrices reinvent plug-and-play solutions,FoodTech,Atlanta,2022-04-06,Growth,194,https://thomasplc.com,B2B2C,SaaS,Acquired
+startup_425,Todd-Strong,Face-to-face next generation benchmark matrix global architectures,AI/ML,Boston,2020-12-27,Growth,242,https://todd-strong.com,B2B2C,Freemium,Active
+startup_426,CyberEngine,Grass-roots 24/7 standardization exploit proactive e-services,HRTech,Los Angeles,2022-05-12,Series B,451,https://cyberengine.com,B2B2C,Commission,Active
+startup_427,SmartFlow,Extended leadingedge algorithm innovate compelling schemas,InsurTech,Chicago,2022-01-27,Growth,152,https://smartflow.com,B2B2C,SaaS,IPO
+startup_428,InfiniteHub,Operative didactic forecast enable frictionless supply-chains,SaaS,Dallas,2017-08-06,Series C,455,https://infinitehub.com,Platform,Transaction,Active
+startup_429,Thompson,Managed systematic migration engage 24/365 niches,Gaming,Nashville,2020-03-24,Growth,258,https://thompson.com,B2B,Transaction,Active
+startup_430,InfiniteSolutions,Mandatory asynchronous capability synthesize best-of-breed networks,HealthTech,Denver,2014-08-15,Seed,224,https://infinitesolutions.com,Platform,Commission,Active
+startup_431,Rodgers-Blankenship,Cross-platform bi-directional ability re-contextualize 24/365 web services,HRTech,Boston,2012-12-02,Seed,232,https://rodgers-blankenship.com,B2B2C,Commission,Active
+startup_432,SmartLabs,Optional radical array redefine frictionless action-items,InsurTech,Washington DC,2023-10-19,Pre-seed,440,https://smartlabs.com,B2B2C,SaaS,Active
+startup_433,Best-Martin,Multi-channeled encompassing knowledgebase leverage efficient initiatives,MarTech,Miami,2014-02-10,Pre-seed,64,https://best-martin.com,Marketplace,Freemium,IPO
+startup_434,Payne,Organized bandwidth-monitored middleware revolutionize efficient e-commerce,HRTech,Miami,2018-10-14,Pre-seed,404,https://payne.com,B2B2C,Advertising,Closed
+startup_435,Schmitt,Vision-oriented uniform artificial intelligence seize cross-media architectures,InsurTech,Denver,2019-09-06,Pre-seed,266,https://schmitt.com,B2B2C,SaaS,Active
+startup_436,ApexCore,Synergistic human-resource matrices empower impactful networks,CleanTech,Denver,2022-01-24,Series B,133,https://apexcore.com,B2B2C,SaaS,IPO
+startup_437,PrimeBase,Configurable composite challenge leverage killer systems,PropTech,Philadelphia,2023-07-04,Pre-seed,143,https://primebase.com,B2C,SaaS,Active
+startup_438,Hudson-Ramos,Re-engineered exuding approach enhance intuitive networks,AI/ML,San Francisco,2022-05-06,Series A,402,https://hudson-ramos.com,B2B,Commission,Active
+startup_439,CyberEngine,Profit-focused impactful matrices whiteboard plug-and-play e-business,CleanTech,Boston,2021-04-21,Growth,187,https://cyberengine.com,B2C,Transaction,Active
+startup_440,Wolf-Braun,Self-enabling bi-directional task-force utilize vertical infrastructures,PropTech,Portland,2017-01-01,Growth,220,https://wolf-braun.com,Platform,Advertising,Active
+startup_441,"Johnson, Cooper and Miller",Reactive national collaboration iterate 24/7 solutions,MarTech,Austin,2018-02-17,Seed,283,"https://johnson,cooperandmiller.com",B2C,Commission,Active
+startup_442,"Reyes, Hill and Oneill",Programmable secondary capacity engage out-of-the-box channels,AgriTech,Miami,2019-06-16,Growth,5,"https://reyes,hillandoneill.com",B2B2C,SaaS,Active
+startup_443,Roberts-Small,Business-focused heuristic knowledge user redefine e-business models,IoT,Seattle,2013-02-13,Series A,272,https://roberts-small.com,B2B,Advertising,Active
+startup_444,GlobalSystems,Self-enabling executive approach expedite interactive experiences,FoodTech,Boston,2022-11-15,Seed,467,https://globalsystems.com,B2C,Commission,Active
+startup_445,InfiniteCore,Diverse bottom-line capability unleash visionary mindshare,SaaS,Chicago,2016-08-27,Series C,424,https://infinitecore.com,B2C,SaaS,Active
+startup_446,DataAnalytics,Profound bifurcated matrices re-intermediate plug-and-play partnerships,HealthTech,Phoenix,2015-01-07,Series B,74,https://dataanalytics.com,Platform,Freemium,Active
+startup_447,MetaPlatform,De-engineered 6thgeneration Local Area Network scale 24/365 e-commerce,Gaming,Portland,2020-11-17,Series B,103,https://metaplatform.com,B2B,Transaction,Active
+startup_448,"Simon, Griffin and Bryant",Synergized contextually-based product engage sticky experiences,PropTech,Boston,2022-02-11,Growth,282,"https://simon,griffinandbryant.com",B2B,Transaction,Active
+startup_449,DataDynamics,Intuitive real-time support integrate extensible networks,E-commerce,Austin,2015-04-15,Series A,181,https://datadynamics.com,B2B2C,Advertising,Active
+startup_450,CloudTechnologies,Open-source composite superstructure facilitate front-end partnerships,CleanTech,Nashville,2024-09-24,Seed,384,https://cloudtechnologies.com,Marketplace,Commission,Active
+startup_451,"Frank, Floyd and Simmons",Multi-layered high-level moratorium whiteboard front-end portals,LegalTech,San Francisco,2022-07-24,Growth,206,"https://frank,floydandsimmons.com",Marketplace,Freemium,Active
+startup_452,MetaHub,Enhanced 6thgeneration functionalities envisioneer mission-critical supply-chains,PropTech,Dallas,2015-06-02,Series B,411,https://metahub.com,B2B2C,Commission,Active
+startup_453,InfiniteDynamics,Innovative contextually-based structure drive proactive content,FoodTech,Boston,2024-07-29,Series B,183,https://infinitedynamics.com,Platform,Advertising,Active
+startup_454,Jones-Foster,User-friendly explicit ability streamline synergistic portals,HealthTech,Los Angeles,2019-11-11,Pre-seed,343,https://jones-foster.com,B2B2C,SaaS,Active
+startup_455,Miller-Carter,Synergistic 6thgeneration budgetary management repurpose B2C info-mediaries,LegalTech,San Diego,2017-05-01,Pre-seed,483,https://miller-carter.com,Marketplace,Commission,Active
+startup_456,PrimeHub,Stand-alone directional process improvement benchmark magnetic e-services,FoodTech,Phoenix,2022-11-03,Growth,334,https://primehub.com,Marketplace,Transaction,Active
+startup_457,DigitalLabs,Organic foreground artificial intelligence productize rich eyeballs,Cybersecurity,Los Angeles,2016-03-29,Series B,49,https://digitallabs.com,Marketplace,SaaS,Active
+startup_458,FusionHub,Monitored zero administration portal evolve cutting-edge solutions,Cybersecurity,Los Angeles,2017-06-30,Series B,199,https://fusionhub.com,B2C,Transaction,Active
+startup_459,Thomas-Murray,Visionary attitude-oriented groupware productize leading-edge e-tailers,InsurTech,Denver,2014-06-02,Series B,57,https://thomas-murray.com,Marketplace,SaaS,Active
+startup_460,VertexNetwork,Horizontal local concept utilize integrated initiatives,FoodTech,Phoenix,2015-01-23,Series B,157,https://vertexnetwork.com,Marketplace,Commission,IPO
+startup_461,"Nelson, Smith and Martin",Multi-lateral composite utilization re-contextualize virtual web services,PropTech,Washington DC,2025-03-30,Seed,461,"https://nelson,smithandmartin.com",Marketplace,SaaS,Active
+startup_462,QuantumFlow,Focused dynamic structure implement bleeding-edge users,HealthTech,Nashville,2024-11-03,Growth,283,https://quantumflow.com,B2B,Commission,Active
+startup_463,Guzman-Parks,Fully-configurable solution-oriented workforce extend vertical e-tailers,SaaS,San Francisco,2012-05-14,Seed,78,https://guzman-parks.com,Marketplace,Advertising,Active
+startup_464,Robinson,Object-based contextually-based hierarchy maximize killer action-items,EdTech,Los Angeles,2018-05-30,Series C,81,https://robinson.com,B2B2C,Commission,Active
+startup_465,Schmidt-Schneider,Triple-buffered directional hub extend B2B systems,FinTech,Nashville,2017-06-23,Series C,389,https://schmidt-schneider.com,B2B,Transaction,Active
+startup_466,FusionAnalytics,Secured next generation archive streamline value-added e-services,LegalTech,Austin,2017-11-10,Seed,161,https://fusionanalytics.com,Platform,Advertising,Closed
+startup_467,SecureLogic,Stand-alone full-range alliance reinvent wireless e-services,HealthTech,San Diego,2015-05-01,Growth,335,https://securelogic.com,Marketplace,Commission,Acquired
+startup_468,Mcintyre-Oconnor,Sharable executive groupware mesh bleeding-edge interfaces,FinTech,Portland,2024-12-19,Seed,257,https://mcintyre-oconnor.com,Platform,Transaction,Active
+startup_469,RapidHub,De-engineered regional monitoring redefine efficient e-services,MarTech,Los Angeles,2012-05-06,Pre-seed,470,https://rapidhub.com,B2B,Transaction,Active
+startup_470,"Wang, King and Wright",User-centric upward-trending challenge re-contextualize distributed e-commerce,EdTech,Philadelphia,2019-10-16,Growth,59,"https://wang,kingandwright.com",B2B,Transaction,Active
+startup_471,Walters-Bell,Cross-platform static implementation morph seamless architectures,HealthTech,Chicago,2014-09-14,Growth,376,https://walters-bell.com,Marketplace,Advertising,Active
+startup_472,"Berger, Houston and Vazquez",Integrated impactful hub expedite out-of-the-box e-business,InsurTech,Miami,2016-03-03,Series A,422,"https://berger,houstonandvazquez.com",Platform,SaaS,Active
+startup_473,SmartDynamics,Streamlined contextually-based strategy whiteboard frictionless web services,E-commerce,Miami,2014-01-12,Growth,200,https://smartdynamics.com,Platform,Commission,Active
+startup_474,"Moore, Jones and Buchanan",Upgradable radical capacity facilitate scalable channels,Cybersecurity,Washington DC,2015-02-22,Growth,83,"https://moore,jonesandbuchanan.com",Marketplace,SaaS,Active
+startup_475,DataPlatform,User-centric bandwidth-monitored firmware architect cross-media supply-chains,HRTech,Los Angeles,2020-03-20,Pre-seed,457,https://dataplatform.com,B2B2C,Freemium,Closed
+startup_476,CyberPlatform,User-friendly content-based model synthesize plug-and-play paradigms,Gaming,Washington DC,2025-02-04,Series B,454,https://cyberplatform.com,B2C,Commission,Closed
+startup_477,SecurePlatform,Programmable non-volatile knowledgebase target extensible initiatives,Cybersecurity,Philadelphia,2023-07-02,Series A,238,https://secureplatform.com,B2C,Freemium,Active
+startup_478,MetaNetwork,Inverse 3rdgeneration benchmark syndicate intuitive e-commerce,IoT,Phoenix,2020-01-08,Seed,351,https://metanetwork.com,Marketplace,Advertising,Active
+startup_479,"Williams, Ryan and Brown",Stand-alone full-range functionalities morph e-business web-readiness,HealthTech,Boston,2015-09-23,Growth,60,"https://williams,ryanandbrown.com",Marketplace,Commission,Closed
+startup_480,GlobalTechnologies,Devolved intermediate product scale cross-media relationships,E-commerce,San Diego,2025-03-31,Series A,84,https://globaltechnologies.com,Platform,Transaction,Active
+startup_481,Williams PLC,Front-line well-modulated project transition virtual mindshare,LegalTech,Austin,2011-09-18,Pre-seed,165,https://williamsplc.com,Platform,Advertising,Active
+startup_482,"Carr, Anderson and Robertson",Persistent next generation matrices productize granular functionalities,Blockchain,Philadelphia,2012-12-03,Pre-seed,362,"https://carr,andersonandrobertson.com",B2B,Advertising,Active
+startup_483,"Scott, Fuller and Duncan",Open-architected local capability orchestrate cutting-edge e-tailers,Gaming,San Francisco,2011-01-28,Series A,151,"https://scott,fullerandduncan.com",B2B2C,Advertising,Closed
+startup_484,QuantumDynamics,Automated analyzing benchmark syndicate magnetic e-business,Blockchain,Washington DC,2021-04-15,Series B,158,https://quantumdynamics.com,B2C,Advertising,Active
+startup_485,Norris-Perez,Exclusive human-resource matrix transition impactful applications,InsurTech,Seattle,2017-08-30,Series B,365,https://norris-perez.com,Marketplace,Freemium,Active
+startup_486,SmartHub,Multi-lateral interactive pricing structure strategize virtual solutions,EdTech,Atlanta,2018-02-15,Series C,485,https://smarthub.com,B2C,Advertising,Active
+startup_487,"Cooper, White and Wright",Customizable directional conglomeration expedite collaborative technologies,SaaS,Phoenix,2024-05-28,Growth,310,"https://cooper,whiteandwright.com",Platform,Commission,IPO
+startup_488,VertexNetwork,Extended fault-tolerant customer loyalty deploy revolutionary info-mediaries,FinTech,Chicago,2017-07-07,Seed,346,https://vertexnetwork.com,Marketplace,Advertising,Active
+startup_489,ApexSystems,Robust tangible benchmark transform efficient models,IoT,Denver,2016-01-27,Pre-seed,97,https://apexsystems.com,Platform,Advertising,IPO
+startup_490,Henderson and Sons,Total system-worthy software e-enable cutting-edge content,Gaming,San Diego,2015-01-04,Growth,182,https://hendersonandsons.com,Platform,Transaction,Acquired
+startup_491,Melton-Parrish,Front-line bottom-line algorithm orchestrate B2C methodologies,FoodTech,Portland,2013-04-13,Series A,441,https://melton-parrish.com,Marketplace,Transaction,Active
+startup_492,"Chase, Wilson and Mendez",Horizontal bifurcated help-desk redefine robust vortals,AI/ML,Los Angeles,2024-10-13,Seed,431,"https://chase,wilsonandmendez.com",Platform,Transaction,Active
+startup_493,DigitalSolutions,Reactive intangible structure utilize mission-critical web services,E-commerce,Portland,2013-06-11,Series A,101,https://digitalsolutions.com,Marketplace,Transaction,Active
+startup_494,NeuralEngine,Persistent neutral functionalities optimize virtual vortals,EdTech,Miami,2011-11-19,Seed,300,https://neuralengine.com,B2B,SaaS,Closed
+startup_495,Harris-Edwards,Cross-platform contextually-based open architecture extend e-business communities,IoT,Austin,2015-04-28,Growth,209,https://harris-edwards.com,B2C,Transaction,Active
+startup_496,CyberFlow,Advanced encompassing time-frame optimize user-centric communities,PropTech,Denver,2022-08-03,Series B,48,https://cyberflow.com,Marketplace,Transaction,Closed
+startup_497,Lewis,Open-architected full-range emulation implement open-source ROI,AI/ML,Phoenix,2019-03-25,Seed,202,https://lewis.com,Marketplace,Freemium,Active
+startup_498,NeuralLogic,Re-contextualized web-enabled process improvement iterate cross-platform e-tailers,Gaming,Nashville,2013-07-04,Series C,374,https://neurallogic.com,B2B2C,Transaction,Active
+startup_499,Case-Kennedy,Synergistic national system engine e-enable customized bandwidth,HRTech,Nashville,2010-12-31,Series A,341,https://case-kennedy.com,Platform,Freemium,Active
+startup_500,FusionLogic,Synchronized upward-trending budgetary management grow integrated channels,HealthTech,Nashville,2025-02-11,Pre-seed,119,https://fusionlogic.com,Marketplace,Transaction,IPO
+startup_501,SecureHub,Multi-channeled coherent matrix strategize customized deliverables,SaaS,Dallas,2015-04-18,Series B,276,https://securehub.com,B2B,Advertising,Active
+startup_502,NeuralPlatform,Horizontal didactic alliance embrace cross-media metrics,MarTech,Austin,2011-03-19,Series B,132,https://neuralplatform.com,Marketplace,SaaS,Acquired
+startup_503,CyberEngine,De-engineered system-worthy array morph distributed bandwidth,HealthTech,Seattle,2024-12-20,Series A,94,https://cyberengine.com,Platform,Commission,Active
+startup_504,Mckinney PLC,Expanded bi-directional monitoring evolve viral interfaces,Blockchain,Boston,2020-07-22,Series C,495,https://mckinneyplc.com,Marketplace,SaaS,Active
+startup_505,"Roberts, Crawford and Koch",Down-sized multi-tasking artificial intelligence transition open-source e-commerce,IoT,Seattle,2018-04-16,Series B,422,"https://roberts,crawfordandkoch.com",B2B2C,Freemium,Active
+startup_506,CloudFlow,Seamless optimizing pricing structure drive one-to-one synergies,InsurTech,Denver,2019-01-29,Pre-seed,59,https://cloudflow.com,B2C,Transaction,Active
+startup_507,VertexAnalytics,Synergistic bi-directional paradigm generate next-generation networks,CleanTech,Miami,2011-02-07,Series B,476,https://vertexanalytics.com,B2B,Advertising,Active
+startup_508,ApexSystems,Sharable coherent challenge productize robust solutions,E-commerce,Los Angeles,2019-12-19,Series A,107,https://apexsystems.com,B2B2C,SaaS,Active
+startup_509,QuantumFlow,Upgradable full-range initiative repurpose rich interfaces,E-commerce,Austin,2020-10-24,Growth,143,https://quantumflow.com,Platform,SaaS,Active
+startup_510,ApexFlow,Reduced scalable Internet solution evolve killer synergies,HealthTech,Phoenix,2025-02-04,Growth,380,https://apexflow.com,Platform,Commission,Closed
+startup_511,Thompson PLC,Inverse executive hub exploit collaborative partnerships,Blockchain,San Diego,2020-04-20,Pre-seed,217,https://thompsonplc.com,Marketplace,SaaS,Active
+startup_512,RapidLogic,Synchronized upward-trending contingency synthesize dot-com channels,Gaming,New York,2015-06-11,Growth,82,https://rapidlogic.com,B2B2C,Transaction,Active
+startup_513,QuantumHub,Multi-channeled national workforce enable vertical niches,E-commerce,Dallas,2018-09-30,Growth,281,https://quantumhub.com,B2B,Commission,Active
+startup_514,RapidCore,Universal analyzing database redefine mission-critical niches,Gaming,Boston,2017-04-24,Growth,432,https://rapidcore.com,B2B,Commission,IPO
+startup_515,DataFlow,Pre-emptive foreground policy synthesize web-enabled markets,LegalTech,Washington DC,2015-06-18,Series B,398,https://dataflow.com,B2B,Freemium,Active
+startup_516,QuantumDynamics,Triple-buffered bandwidth-monitored task-force aggregate strategic infrastructures,IoT,Miami,2016-03-13,Series B,50,https://quantumdynamics.com,B2B,Freemium,Active
+startup_517,VertexLogic,Balanced secondary software embrace visionary mindshare,Blockchain,San Diego,2025-04-25,Seed,356,https://vertexlogic.com,Platform,Advertising,Active
+startup_518,"Marshall, Bryant and Cruz",Open-architected explicit encryption iterate B2B channels,InsurTech,Philadelphia,2022-09-28,Series C,430,"https://marshall,bryantandcruz.com",B2B2C,Commission,IPO
+startup_519,Thomas-Greene,Networked real-time access optimize wireless communities,PropTech,Phoenix,2024-03-05,Series B,489,https://thomas-greene.com,B2B2C,SaaS,Active
+startup_520,NeuralNetwork,Vision-oriented 5thgeneration process improvement scale wireless networks,EdTech,Boston,2014-11-11,Pre-seed,329,https://neuralnetwork.com,B2C,Advertising,Active
+startup_521,"Moore, Moore and Patrick",Public-key full-range task-force expedite extensible supply-chains,E-commerce,Phoenix,2022-01-29,Series B,431,"https://moore,mooreandpatrick.com",Platform,Commission,Active
+startup_522,"Hobbs, Simpson and Hart",User-centric bandwidth-monitored matrices exploit 24/365 technologies,FinTech,Austin,2018-06-12,Series C,195,"https://hobbs,simpsonandhart.com",B2B,Advertising,Active
+startup_523,FusionLogic,Diverse multi-tasking archive architect dot-com systems,FinTech,Portland,2017-12-17,Pre-seed,250,https://fusionlogic.com,B2B,Freemium,Active
+startup_524,Baker and Sons,Face-to-face tangible artificial intelligence enhance rich architectures,FoodTech,San Francisco,2022-03-29,Series B,337,https://bakerandsons.com,B2B2C,SaaS,Active
+startup_525,ApexSolutions,Phased dynamic emulation synthesize out-of-the-box architectures,LegalTech,Phoenix,2020-08-09,Growth,39,https://apexsolutions.com,Marketplace,Freemium,Acquired
+startup_526,Morrison,Future-proofed demand-driven methodology empower distributed schemas,HRTech,Boston,2021-08-20,Pre-seed,469,https://morrison.com,Marketplace,Transaction,IPO
+startup_527,Macdonald-White,Front-line directional Graphic Interface repurpose dynamic mindshare,CleanTech,Chicago,2015-07-03,Series C,432,https://macdonald-white.com,B2B,Transaction,Active
+startup_528,"Ward, Smith and Rodriguez",Fully-configurable empowering capability scale scalable paradigms,FinTech,Atlanta,2019-06-24,Pre-seed,21,"https://ward,smithandrodriguez.com",B2B2C,Freemium,Active
+startup_529,Baird,Synergistic leadingedge utilization deploy cutting-edge e-commerce,AgriTech,Miami,2014-11-26,Series B,388,https://baird.com,B2B2C,Freemium,Active
+startup_530,SecureDynamics,Organic bottom-line core maximize next-generation channels,E-commerce,Los Angeles,2019-12-08,Series C,333,https://securedynamics.com,B2B,Freemium,Active
+startup_531,DigitalSolutions,Total intermediate emulation orchestrate extensible methodologies,Gaming,San Francisco,2018-01-01,Series B,202,https://digitalsolutions.com,B2C,SaaS,Active
+startup_532,DigitalCore,De-engineered regional data-warehouse transition 24/365 users,MarTech,San Diego,2011-09-13,Series B,139,https://digitalcore.com,Platform,Advertising,Closed
+startup_533,Stanton-Ramirez,Upgradable clear-thinking strategy deploy cross-platform metrics,AgriTech,Austin,2018-09-10,Series B,334,https://stanton-ramirez.com,B2C,Advertising,Active
+startup_534,FusionDynamics,Ergonomic background process improvement engage revolutionary platforms,EdTech,Boston,2024-10-20,Seed,332,https://fusiondynamics.com,Marketplace,Advertising,Active
+startup_535,RapidPlatform,Organic neutral orchestration strategize frictionless networks,HealthTech,Seattle,2020-06-26,Growth,72,https://rapidplatform.com,Platform,Advertising,Active
+startup_536,VertexSystems,Stand-alone leadingedge orchestration generate real-time platforms,Cybersecurity,Chicago,2015-05-18,Series B,480,https://vertexsystems.com,Marketplace,Commission,Active
+startup_537,VertexEngine,Horizontal cohesive methodology unleash best-of-breed eyeballs,AI/ML,Phoenix,2023-07-08,Series B,311,https://vertexengine.com,B2B,SaaS,Active
+startup_538,Sherman-Eaton,Synchronized empowering archive re-contextualize 24/365 web services,FinTech,Washington DC,2017-02-12,Series B,93,https://sherman-eaton.com,B2B2C,Advertising,Active
+startup_539,Burns PLC,Stand-alone mission-critical attitude extend holistic solutions,HRTech,Chicago,2019-09-21,Series A,66,https://burnsplc.com,B2B,SaaS,Active
+startup_540,"Hunt, Rodriguez and Morgan",Ergonomic global focus group transition clicks-and-mortar web services,HealthTech,Seattle,2018-07-15,Series A,271,"https://hunt,rodriguezandmorgan.com",B2B,Transaction,Active
+startup_541,MetaLogic,Centralized needs-based paradigm expedite innovative paradigms,FoodTech,Washington DC,2020-07-31,Series B,499,https://metalogic.com,B2B2C,Commission,Active
+startup_542,VertexPlatform,Business-focused attitude-oriented throughput aggregate value-added networks,IoT,Atlanta,2010-10-16,Series B,491,https://vertexplatform.com,B2B2C,Commission,Active
+startup_543,Sanchez,Down-sized client-driven toolset integrate strategic e-commerce,HealthTech,San Diego,2022-08-11,Pre-seed,477,https://sanchez.com,Marketplace,SaaS,Active
+startup_544,CyberNetwork,Optimized interactive budgetary management productize web-enabled systems,FoodTech,Austin,2023-07-24,Seed,35,https://cybernetwork.com,Marketplace,Commission,Active
+startup_545,SmartPlatform,Re-engineered upward-trending emulation engage cutting-edge eyeballs,FinTech,Los Angeles,2013-11-17,Series A,146,https://smartplatform.com,Platform,SaaS,Active
+startup_546,SmartDynamics,Managed tertiary budgetary management productize B2C eyeballs,MarTech,Dallas,2011-06-22,Series A,219,https://smartdynamics.com,Platform,Commission,Active
+startup_547,CloudSolutions,Innovative stable knowledge user drive scalable models,HRTech,San Francisco,2015-07-17,Series A,121,https://cloudsolutions.com,B2C,Transaction,Active
+startup_548,Vargas-Mitchell,Universal web-enabled synergy incubate end-to-end content,PropTech,Philadelphia,2017-01-02,Series C,433,https://vargas-mitchell.com,Platform,Freemium,Active
+startup_549,NeuralLabs,Switchable multi-tasking database innovate mission-critical action-items,HealthTech,Portland,2016-08-08,Pre-seed,158,https://neurallabs.com,B2B,Freemium,Active
+startup_550,MetaBase,Implemented client-driven data-warehouse redefine collaborative systems,E-commerce,San Diego,2013-05-19,Pre-seed,248,https://metabase.com,B2B,Transaction,Active
+startup_551,PrimeAnalytics,Intuitive scalable attitude embrace extensible eyeballs,FinTech,Denver,2016-01-22,Pre-seed,280,https://primeanalytics.com,B2B,Commission,Active
+startup_552,GlobalEngine,Mandatory reciprocal pricing structure productize synergistic vortals,SaaS,Washington DC,2022-11-12,Growth,180,https://globalengine.com,B2C,Freemium,Active
+startup_553,CloudBase,Profound intangible success harness robust web-readiness,PropTech,Washington DC,2015-10-27,Series B,324,https://cloudbase.com,Platform,SaaS,Active
+startup_554,RapidTechnologies,Compatible zero tolerance architecture re-intermediate out-of-the-box ROI,EdTech,Miami,2019-03-11,Series C,198,https://rapidtechnologies.com,B2C,Commission,Active
+startup_555,VertexSystems,Profound human-resource success re-contextualize viral models,EdTech,Dallas,2021-03-01,Growth,209,https://vertexsystems.com,B2C,Advertising,Acquired
+startup_556,"Wood, Chan and Yates",Secured systemic capability engineer one-to-one supply-chains,PropTech,Philadelphia,2022-08-15,Series B,196,"https://wood,chanandyates.com",B2B2C,Commission,Active
+startup_557,"Little, Johnston and Hamilton",Distributed stable monitoring re-contextualize interactive applications,MarTech,Chicago,2018-02-25,Series C,426,"https://little,johnstonandhamilton.com",Platform,Advertising,Active
+startup_558,PrimeLabs,Team-oriented impactful adapter re-contextualize wireless schemas,Blockchain,Washington DC,2019-08-29,Series B,98,https://primelabs.com,Platform,Freemium,Active
+startup_559,DigitalTechnologies,Profound secondary function enhance frictionless deliverables,PropTech,Miami,2015-12-21,Growth,199,https://digitaltechnologies.com,B2B,SaaS,Active
+startup_560,"Ramirez, Murray and Miles",Customizable grid-enabled moderator revolutionize vertical schemas,CleanTech,Chicago,2023-01-09,Series C,428,"https://ramirez,murrayandmiles.com",Marketplace,Advertising,Active
+startup_561,DataSolutions,Implemented even-keeled matrix productize integrated applications,Cybersecurity,Austin,2012-10-29,Growth,145,https://datasolutions.com,B2B,Commission,Active
+startup_562,Gray-Davis,Multi-tiered cohesive analyzer deploy leading-edge networks,Gaming,Washington DC,2017-04-07,Pre-seed,146,https://gray-davis.com,Platform,SaaS,Active
+startup_563,VertexDynamics,Object-based well-modulated artificial intelligence engage next-generation e-business,SaaS,Atlanta,2024-01-20,Growth,39,https://vertexdynamics.com,B2B,SaaS,Active
+startup_564,"Wright, Rangel and Lewis",Configurable intermediate moderator empower efficient models,SaaS,Phoenix,2016-11-22,Seed,267,"https://wright,rangelandlewis.com",B2B,SaaS,Active
+startup_565,InfiniteFlow,Networked leadingedge conglomeration re-intermediate transparent info-mediaries,Gaming,Philadelphia,2021-06-09,Series B,246,https://infiniteflow.com,Marketplace,Freemium,Active
+startup_566,PrimeLabs,Quality-focused empowering superstructure engage cross-platform networks,FinTech,Seattle,2017-03-28,Series B,202,https://primelabs.com,B2B,Transaction,Active
+startup_567,InfiniteTechnologies,Phased responsive intranet envisioneer dot-com convergence,MarTech,Portland,2014-06-01,Series A,70,https://infinitetechnologies.com,Platform,Commission,Active
+startup_568,Obrien-Ortiz,Cloned 24hour complexity streamline clicks-and-mortar solutions,MarTech,Phoenix,2020-06-29,Series A,97,https://obrien-ortiz.com,B2B,Transaction,Active
+startup_569,Harper-Fischer,Open-architected dynamic moratorium repurpose strategic vortals,Gaming,Austin,2019-02-01,Pre-seed,293,https://harper-fischer.com,B2C,Transaction,Active
+startup_570,CloudEngine,Streamlined 4thgeneration data-warehouse morph integrated relationships,EdTech,Dallas,2022-05-06,Series A,43,https://cloudengine.com,Marketplace,Advertising,Active
+startup_571,"Erickson, Miller and Jones",Devolved bottom-line methodology matrix end-to-end bandwidth,PropTech,Seattle,2017-07-01,Growth,151,"https://erickson,millerandjones.com",Marketplace,Advertising,Active
+startup_572,GlobalBase,Pre-emptive reciprocal infrastructure benchmark bleeding-edge supply-chains,SaaS,Seattle,2013-12-15,Series B,414,https://globalbase.com,Marketplace,Transaction,Acquired
+startup_573,"Hester, Mooney and Schwartz",Object-based methodical collaboration exploit open-source e-services,MarTech,Washington DC,2021-09-09,Series C,193,"https://hester,mooneyandschwartz.com",B2B,Transaction,Active
+startup_574,SmartLogic,Inverse secondary Internet solution e-enable holistic supply-chains,AI/ML,Washington DC,2020-08-27,Series A,289,https://smartlogic.com,Marketplace,Transaction,Active
+startup_575,Stewart Group,User-centric real-time project integrate granular deliverables,SaaS,Austin,2018-10-08,Series C,218,https://stewartgroup.com,B2C,Advertising,Active
+startup_576,CyberNetwork,De-engineered disintermediate attitude e-enable killer portals,HealthTech,Dallas,2024-07-30,Seed,180,https://cybernetwork.com,B2C,Advertising,Acquired
+startup_577,SecureTechnologies,Intuitive static access engineer real-time applications,AI/ML,Portland,2025-01-07,Series B,332,https://securetechnologies.com,Platform,Commission,Active
+startup_578,VertexHub,Fundamental zero tolerance moratorium engineer transparent action-items,Cybersecurity,New York,2018-08-24,Series C,30,https://vertexhub.com,B2C,Commission,Active
+startup_579,Ortiz-Cook,Focused coherent attitude harness back-end info-mediaries,SaaS,Washington DC,2014-06-27,Pre-seed,478,https://ortiz-cook.com,Marketplace,Transaction,Active
+startup_580,Thomas-Moore,Compatible needs-based challenge drive cutting-edge e-services,IoT,Phoenix,2010-07-13,Series A,442,https://thomas-moore.com,B2C,Transaction,Acquired
+startup_581,GlobalTechnologies,Multi-lateral local focus group aggregate value-added e-commerce,InsurTech,Nashville,2024-10-09,Series C,411,https://globaltechnologies.com,Marketplace,Commission,Active
+startup_582,Mcpherson-Anderson,Networked cohesive capability engage synergistic technologies,CleanTech,Philadelphia,2020-12-07,Seed,473,https://mcpherson-anderson.com,B2B2C,Freemium,Active
+startup_583,InfiniteSystems,Switchable 4thgeneration time-frame mesh plug-and-play e-services,CleanTech,Austin,2018-06-16,Growth,443,https://infinitesystems.com,B2B,Commission,Active
+startup_584,SecureLabs,Reverse-engineered explicit definition benchmark e-business experiences,HealthTech,Los Angeles,2021-06-20,Growth,71,https://securelabs.com,B2C,Advertising,Active
+startup_585,"Gill, Medina and Schneider",Devolved 4thgeneration website deliver integrated models,FoodTech,Dallas,2018-03-13,Growth,144,"https://gill,medinaandschneider.com",B2C,Freemium,Active
+startup_586,CloudEngine,Triple-buffered asynchronous artificial intelligence syndicate turn-key interfaces,Gaming,Phoenix,2013-12-01,Series B,118,https://cloudengine.com,Platform,Transaction,Active
+startup_587,VertexCore,Polarized static secured line harness innovative info-mediaries,LegalTech,Philadelphia,2018-07-25,Seed,356,https://vertexcore.com,Marketplace,Freemium,Active
+startup_588,Lopez,Synergistic responsive policy synthesize robust solutions,HealthTech,Phoenix,2022-01-31,Series A,300,https://lopez.com,B2B,Advertising,IPO
+startup_589,CloudHub,Digitized global customer loyalty leverage scalable channels,MarTech,Phoenix,2019-11-05,Series A,275,https://cloudhub.com,B2B2C,Freemium,Active
+startup_590,White-Bell,Distributed tangible neural-net engage strategic e-tailers,EdTech,San Francisco,2016-07-17,Growth,135,https://white-bell.com,B2C,Advertising,Active
+startup_591,GlobalCore,Quality-focused explicit Internet solution drive web-enabled schemas,AgriTech,San Francisco,2011-08-23,Growth,303,https://globalcore.com,B2B2C,Commission,Active
+startup_592,NeuralTechnologies,Grass-roots actuating hardware innovate world-class communities,AgriTech,Nashville,2022-09-09,Growth,419,https://neuraltechnologies.com,B2C,SaaS,Active
+startup_593,GlobalNetwork,User-centric exuding conglomeration leverage strategic applications,Gaming,Denver,2024-12-29,Seed,290,https://globalnetwork.com,B2B,SaaS,Active
+startup_594,CyberCore,Centralized 6thgeneration matrices extend seamless applications,LegalTech,Denver,2016-04-25,Series A,285,https://cybercore.com,B2C,Transaction,Active
+startup_595,SecureFlow,User-centric impactful solution generate intuitive architectures,Blockchain,Seattle,2010-12-08,Seed,147,https://secureflow.com,Platform,Advertising,Active
+startup_596,CloudDynamics,Managed responsive strategy repurpose world-class portals,Gaming,San Francisco,2011-03-29,Pre-seed,34,https://clouddynamics.com,B2B2C,Transaction,Active
+startup_597,VertexDynamics,Fully-configurable systematic leverage architect best-of-breed info-mediaries,Cybersecurity,Atlanta,2015-03-30,Growth,24,https://vertexdynamics.com,Platform,SaaS,Active
+startup_598,MetaTechnologies,Reverse-engineered directional analyzer expedite viral solutions,HealthTech,Miami,2024-03-15,Seed,102,https://metatechnologies.com,Platform,Transaction,Active
+startup_599,"Robinson, Rodriguez and Morgan",Mandatory content-based capacity iterate vertical schemas,AgriTech,Boston,2013-11-06,Series C,303,"https://robinson,rodriguezandmorgan.com",Marketplace,Transaction,Active
+startup_600,Ryan and Sons,Focused reciprocal frame repurpose vertical e-business,FinTech,Nashville,2020-05-07,Series A,489,https://ryanandsons.com,B2C,Transaction,Active
+startup_601,Hall-Bass,Secured tertiary success deliver robust technologies,IoT,Los Angeles,2019-03-12,Series C,334,https://hall-bass.com,Platform,Transaction,IPO
+startup_602,DigitalLogic,Reduced local success transition virtual e-commerce,EdTech,Austin,2010-11-21,Growth,242,https://digitallogic.com,B2B2C,SaaS,Active
+startup_603,"Baker, Riley and Shelton",Profit-focused systematic matrix productize impactful convergence,E-commerce,Washington DC,2011-12-19,Growth,61,"https://baker,rileyandshelton.com",B2C,SaaS,Active
+startup_604,Robinson-Farley,Extended incremental conglomeration optimize bleeding-edge networks,Gaming,Philadelphia,2015-03-20,Series C,225,https://robinson-farley.com,B2B2C,Advertising,Active
+startup_605,Cook-Perez,Integrated neutral framework embrace synergistic eyeballs,PropTech,Portland,2023-03-09,Series C,248,https://cook-perez.com,B2B,SaaS,Active
+startup_606,Fernandez,Digitized homogeneous solution engage value-added portals,E-commerce,Portland,2014-05-31,Series B,278,https://fernandez.com,Marketplace,Freemium,Active
+startup_607,Kramer,Stand-alone didactic website disintermediate viral experiences,Cybersecurity,Portland,2017-02-02,Series B,101,https://kramer.com,B2B2C,Advertising,Active
+startup_608,ApexCore,Organized bandwidth-monitored capacity deploy one-to-one applications,AgriTech,Washington DC,2024-11-05,Series C,367,https://apexcore.com,B2B,SaaS,Active
+startup_609,ApexAnalytics,Managed motivating forecast envisioneer synergistic action-items,FoodTech,San Diego,2017-08-15,Pre-seed,282,https://apexanalytics.com,Platform,SaaS,Active
+startup_610,GlobalCore,Extended multimedia core morph cross-media web-readiness,MarTech,Boston,2015-11-10,Seed,414,https://globalcore.com,B2B2C,Commission,Closed
+startup_611,PrimePlatform,Face-to-face exuding forecast revolutionize magnetic platforms,HRTech,Miami,2020-05-22,Growth,106,https://primeplatform.com,B2C,Commission,Active
+startup_612,Williamson,Multi-lateral non-volatile contingency visualize distributed applications,AgriTech,Denver,2016-10-08,Seed,449,https://williamson.com,Marketplace,Advertising,Active
+startup_613,QuantumSolutions,Assimilated neutral contingency repurpose B2C e-business,LegalTech,Phoenix,2024-07-08,Seed,144,https://quantumsolutions.com,B2B2C,SaaS,Active
+startup_614,InfiniteSystems,Focused object-oriented software cultivate scalable e-markets,E-commerce,Philadelphia,2019-04-19,Series A,201,https://infinitesystems.com,B2B2C,Advertising,Active
+startup_615,MetaHub,Fully-configurable bifurcated function facilitate mission-critical paradigms,E-commerce,New York,2012-12-06,Series B,449,https://metahub.com,B2B,Advertising,Active
+startup_616,"Cook, Reed and Garrison",Secured directional methodology leverage one-to-one partnerships,MarTech,Nashville,2015-03-09,Series B,90,"https://cook,reedandgarrison.com",B2B,SaaS,Active
+startup_617,Mcmahon,Team-oriented fresh-thinking hardware repurpose robust metrics,InsurTech,Dallas,2019-07-08,Series B,498,https://mcmahon.com,B2C,Freemium,Active
+startup_618,NeuralAnalytics,Enterprise-wide motivating firmware harness 24/7 metrics,MarTech,Dallas,2020-01-06,Series A,494,https://neuralanalytics.com,B2C,Freemium,Active
+startup_619,"Arellano, Arnold and Shepard",Persistent multimedia intranet evolve enterprise technologies,FoodTech,Nashville,2014-08-31,Pre-seed,402,"https://arellano,arnoldandshepard.com",B2B,Freemium,Active
+startup_620,DataHub,Pre-emptive user-facing workforce disintermediate open-source interfaces,FinTech,Washington DC,2024-01-19,Seed,401,https://datahub.com,Marketplace,Advertising,Active
+startup_621,"Edwards, Gill and Mccormick",Synergized analyzing flexibility exploit interactive users,PropTech,Los Angeles,2022-05-07,Pre-seed,488,"https://edwards,gillandmccormick.com",B2B2C,SaaS,Active
+startup_622,DigitalBase,Extended static frame repurpose ubiquitous platforms,IoT,San Francisco,2023-01-04,Seed,142,https://digitalbase.com,B2B,Commission,IPO
+startup_623,QuantumLogic,Upgradable zero administration capability morph B2B communities,IoT,Seattle,2015-02-12,Pre-seed,419,https://quantumlogic.com,Marketplace,SaaS,Active
+startup_624,Hill-Smith,Monitored needs-based portal deploy next-generation solutions,MarTech,Dallas,2025-01-22,Series C,18,https://hill-smith.com,B2B2C,Transaction,Active
+startup_625,DigitalLogic,Enterprise-wide systemic structure leverage frictionless bandwidth,InsurTech,Phoenix,2019-04-02,Seed,216,https://digitallogic.com,Platform,Commission,Active
+startup_626,CyberCore,Networked high-level core strategize customized users,CleanTech,Austin,2020-02-20,Seed,339,https://cybercore.com,Marketplace,Freemium,Active
+startup_627,Lee,Self-enabling intermediate contingency grow ubiquitous metrics,HRTech,Dallas,2018-06-21,Series B,266,https://lee.com,B2B2C,Transaction,Active
+startup_628,Hanson,Open-architected cohesive moratorium aggregate visionary systems,Cybersecurity,San Diego,2022-11-17,Series B,245,https://hanson.com,Marketplace,Commission,Active
+startup_629,DigitalAnalytics,Profit-focused asymmetric project target holistic users,Gaming,Dallas,2024-10-20,Growth,90,https://digitalanalytics.com,B2B,Freemium,Active
+startup_630,Olson-Mcclain,Cross-platform user-facing collaboration drive one-to-one models,E-commerce,Los Angeles,2011-02-23,Growth,460,https://olson-mcclain.com,B2C,Transaction,Active
+startup_631,Mills-Wright,Automated context-sensitive policy enhance frictionless markets,FoodTech,Chicago,2010-12-02,Pre-seed,135,https://mills-wright.com,Marketplace,Freemium,Active
+startup_632,"Howard, Johnson and Thomas",Upgradable demand-driven software benchmark B2C models,CleanTech,Washington DC,2016-12-29,Series B,287,"https://howard,johnsonandthomas.com",B2B2C,Freemium,Active
+startup_633,MetaCore,Universal optimizing challenge integrate strategic paradigms,FinTech,Portland,2013-06-06,Pre-seed,383,https://metacore.com,B2B2C,SaaS,Active
+startup_634,Long PLC,Self-enabling well-modulated archive grow front-end supply-chains,FoodTech,Los Angeles,2016-04-20,Growth,143,https://longplc.com,Marketplace,Commission,Active
+startup_635,QuantumPlatform,Adaptive asymmetric task-force repurpose next-generation channels,CleanTech,San Diego,2011-02-17,Series A,215,https://quantumplatform.com,Platform,Transaction,Active
+startup_636,Mills,Diverse discrete portal whiteboard distributed convergence,FinTech,Atlanta,2011-04-26,Series B,183,https://mills.com,Platform,Advertising,Active
+startup_637,NeuralHub,Programmable content-based core facilitate global niches,E-commerce,Atlanta,2023-07-12,Series C,14,https://neuralhub.com,B2B,Advertising,Active
+startup_638,MetaBase,Team-oriented 6thgeneration archive re-intermediate open-source eyeballs,Blockchain,San Diego,2016-11-07,Series A,432,https://metabase.com,B2B2C,SaaS,Active
+startup_639,Ray-Berger,Realigned scalable contingency whiteboard extensible e-commerce,AI/ML,Boston,2012-01-15,Series B,459,https://ray-berger.com,B2B,SaaS,Active
+startup_640,"Fisher, Miller and Lawson",Proactive transitional focus group deploy B2C metrics,HRTech,San Francisco,2013-04-26,Series B,84,"https://fisher,millerandlawson.com",B2B2C,SaaS,IPO
+startup_641,DataLabs,Organized executive contingency envisioneer magnetic solutions,HealthTech,Philadelphia,2011-04-29,Seed,472,https://datalabs.com,B2C,Commission,Active
+startup_642,Johnson,Centralized 6thgeneration application redefine turn-key action-items,PropTech,Miami,2013-06-08,Series C,192,https://johnson.com,B2C,Freemium,Active
+startup_643,Bell Group,Multi-layered system-worthy access target turn-key e-commerce,IoT,Nashville,2018-01-07,Series C,204,https://bellgroup.com,B2B2C,SaaS,Active
+startup_644,SecureBase,Object-based tertiary adapter brand innovative models,MarTech,Philadelphia,2025-02-16,Series C,203,https://securebase.com,B2C,Advertising,Active
+startup_645,"Gibson, Johnson and Martin",Virtual leadingedge paradigm visualize integrated e-services,AgriTech,Austin,2020-02-10,Series B,66,"https://gibson,johnsonandmartin.com",B2B,Commission,Active
+startup_646,QuantumNetwork,Sharable exuding forecast aggregate leading-edge niches,CleanTech,New York,2013-08-13,Series A,72,https://quantumnetwork.com,B2B2C,SaaS,Active
+startup_647,MetaHub,Decentralized bottom-line hierarchy drive B2B deliverables,LegalTech,Atlanta,2012-02-12,Series C,155,https://metahub.com,B2C,Freemium,Active
+startup_648,GlobalCore,Cross-group empowering project engineer intuitive bandwidth,CleanTech,Phoenix,2020-10-26,Series B,194,https://globalcore.com,Platform,Commission,Active
+startup_649,Harrington-Bennett,Pre-emptive interactive circuit implement bricks-and-clicks paradigms,FinTech,Washington DC,2016-05-24,Seed,53,https://harrington-bennett.com,B2B,Transaction,Active
+startup_650,Sanders,Reactive multi-tasking frame visualize end-to-end applications,Blockchain,Dallas,2023-08-16,Seed,343,https://sanders.com,B2C,Commission,Active
+startup_651,VertexTechnologies,Balanced coherent attitude disintermediate strategic synergies,LegalTech,Nashville,2022-08-03,Series A,164,https://vertextechnologies.com,B2B2C,Transaction,Active
+startup_652,Daniels-Butler,Horizontal transitional orchestration aggregate enterprise e-tailers,FoodTech,Austin,2010-12-26,Seed,16,https://daniels-butler.com,Platform,Advertising,Active
+startup_653,NeuralFlow,Business-focused disintermediate solution generate transparent systems,FinTech,Atlanta,2011-11-14,Series C,150,https://neuralflow.com,Marketplace,Freemium,Acquired
+startup_654,Andrews PLC,Automated exuding database leverage collaborative niches,FoodTech,Philadelphia,2012-12-04,Series B,319,https://andrewsplc.com,B2C,SaaS,Active
+startup_655,"Chang, Padilla and Kirby",Balanced user-facing complexity strategize one-to-one e-business,IoT,San Diego,2012-02-23,Pre-seed,96,"https://chang,padillaandkirby.com",Platform,Advertising,Active
+startup_656,VertexBase,Team-oriented attitude-oriented productivity utilize bleeding-edge infrastructures,AgriTech,Phoenix,2020-07-08,Series A,469,https://vertexbase.com,B2B2C,Transaction,Active
+startup_657,Long,Self-enabling zero administration help-desk deploy cutting-edge infrastructures,LegalTech,Phoenix,2020-09-15,Seed,77,https://long.com,B2B,Commission,Active
+startup_658,MetaLogic,Multi-tiered 6thgeneration help-desk disintermediate end-to-end interfaces,AI/ML,Washington DC,2017-04-17,Series B,225,https://metalogic.com,B2B2C,Advertising,Active
+startup_659,"Johnson, Lucas and Castro",Extended dedicated Local Area Network incentivize ubiquitous infrastructures,Gaming,Denver,2017-04-27,Pre-seed,442,"https://johnson,lucasandcastro.com",Platform,SaaS,Active
+startup_660,MetaDynamics,Up-sized foreground focus group integrate end-to-end portals,LegalTech,Denver,2018-03-29,Growth,167,https://metadynamics.com,Marketplace,SaaS,Active
+startup_661,Simon-Walker,Compatible contextually-based policy visualize granular mindshare,AI/ML,San Diego,2022-04-01,Growth,460,https://simon-walker.com,B2C,Transaction,Active
+startup_662,ApexCore,Down-sized maximized access reinvent scalable functionalities,AI/ML,Dallas,2020-09-01,Series B,23,https://apexcore.com,Platform,Commission,Active
+startup_663,MetaBase,Balanced impactful system engine re-intermediate web-enabled platforms,Gaming,Seattle,2012-08-16,Growth,35,https://metabase.com,Platform,Commission,IPO
+startup_664,DigitalTechnologies,Horizontal object-oriented process improvement deploy next-generation e-commerce,IoT,Dallas,2018-07-11,Series B,392,https://digitaltechnologies.com,B2C,Commission,Active
+startup_665,SecureBase,Horizontal radical functionalities envisioneer revolutionary action-items,LegalTech,Philadelphia,2015-10-04,Pre-seed,255,https://securebase.com,B2B,Commission,Active
+startup_666,NeuralLogic,Polarized national challenge enhance dot-com portals,Blockchain,Atlanta,2023-07-19,Growth,420,https://neurallogic.com,B2B2C,Advertising,Active
+startup_667,Kelley and Sons,Function-based optimizing process improvement disintermediate frictionless partnerships,E-commerce,Philadelphia,2019-10-09,Series A,89,https://kelleyandsons.com,B2C,SaaS,Active
+startup_668,"Gomez, Williams and Reyes",User-centric motivating success mesh collaborative vortals,EdTech,Nashville,2014-03-04,Seed,98,"https://gomez,williamsandreyes.com",B2B,Advertising,Active
+startup_669,Duncan-Myers,Cross-platform dedicated synergy mesh rich ROI,PropTech,Chicago,2015-10-21,Series B,210,https://duncan-myers.com,B2B,Advertising,Active
+startup_670,"Smith, Santos and Hampton",Secured coherent toolset transition scalable schemas,LegalTech,Phoenix,2012-03-13,Series B,329,"https://smith,santosandhampton.com",B2B,Freemium,Active
+startup_671,VertexDynamics,Decentralized directional adapter envisioneer customized synergies,PropTech,Austin,2010-12-11,Series B,294,https://vertexdynamics.com,B2B,Transaction,Closed
+startup_672,SmartEngine,Front-line eco-centric conglomeration evolve visionary content,Cybersecurity,Dallas,2018-11-03,Series B,351,https://smartengine.com,B2B,SaaS,Active
+startup_673,VertexLogic,Organic incremental Internet solution re-contextualize e-business web services,HealthTech,Washington DC,2016-02-24,Series B,334,https://vertexlogic.com,Marketplace,Advertising,Closed
+startup_674,SecureSolutions,Integrated zero tolerance conglomeration evolve 24/365 schemas,CleanTech,Nashville,2019-09-21,Growth,480,https://securesolutions.com,Platform,Commission,Active
+startup_675,SecureCore,Grass-roots dynamic success empower magnetic markets,IoT,Phoenix,2012-10-23,Series A,144,https://securecore.com,B2C,Freemium,Active
+startup_676,FusionAnalytics,Ameliorated multi-state project optimize revolutionary info-mediaries,EdTech,Phoenix,2021-01-06,Series B,157,https://fusionanalytics.com,Marketplace,SaaS,Active
+startup_677,DigitalFlow,Mandatory directional definition revolutionize sticky vortals,MarTech,Phoenix,2017-04-25,Seed,72,https://digitalflow.com,B2B2C,Freemium,Active
+startup_678,Mccoy-Wood,Function-based eco-centric array synthesize next-generation networks,FinTech,San Diego,2022-08-05,Seed,300,https://mccoy-wood.com,Platform,Advertising,Closed
+startup_679,DataLabs,Automated neutral array visualize impactful content,HealthTech,Miami,2020-04-25,Growth,269,https://datalabs.com,B2B2C,Transaction,Active
+startup_680,Jenkins-Gibson,Quality-focused bandwidth-monitored forecast facilitate frictionless e-commerce,LegalTech,Washington DC,2011-05-24,Series A,378,https://jenkins-gibson.com,B2B2C,Advertising,Active
+startup_681,FusionLogic,Persistent 24hour firmware aggregate 24/7 synergies,FinTech,Philadelphia,2015-09-11,Seed,343,https://fusionlogic.com,Platform,SaaS,Active
+startup_682,Fernandez and Sons,Extended even-keeled project leverage innovative e-commerce,FinTech,Denver,2024-12-30,Seed,55,https://fernandezandsons.com,Platform,Freemium,Active
+startup_683,Gordon-Ward,Pre-emptive uniform attitude productize synergistic solutions,InsurTech,Phoenix,2025-01-09,Series C,88,https://gordon-ward.com,Platform,Freemium,Active
+startup_684,Saunders-Stout,Intuitive human-resource adapter whiteboard visionary deliverables,HealthTech,Philadelphia,2010-09-13,Growth,99,https://saunders-stout.com,B2B2C,Transaction,Active
+startup_685,MetaLogic,User-centric zero tolerance architecture aggregate compelling metrics,IoT,Phoenix,2023-02-04,Series C,123,https://metalogic.com,B2C,Freemium,Acquired
+startup_686,ApexEngine,Quality-focused disintermediate pricing structure streamline front-end interfaces,Gaming,Austin,2013-08-10,Series C,308,https://apexengine.com,B2B2C,Advertising,Active
+startup_687,ApexPlatform,Fully-configurable bifurcated monitoring re-intermediate plug-and-play markets,Gaming,Los Angeles,2025-05-01,Series C,172,https://apexplatform.com,Platform,Freemium,Acquired
+startup_688,Martin-Smith,Virtual next generation database enhance cross-media info-mediaries,FoodTech,Chicago,2018-08-17,Seed,194,https://martin-smith.com,B2C,Commission,Active
+startup_689,Wilson-Carpenter,Cross-platform composite adapter matrix transparent infrastructures,MarTech,New York,2018-08-24,Pre-seed,83,https://wilson-carpenter.com,B2B,Advertising,Active
+startup_690,InfiniteNetwork,Cross-group eco-centric benchmark architect interactive synergies,Cybersecurity,San Diego,2013-07-26,Series C,225,https://infinitenetwork.com,Marketplace,Commission,Active
+startup_691,Valencia-Dougherty,Right-sized intangible matrix monetize strategic networks,EdTech,Philadelphia,2023-03-01,Series A,225,https://valencia-dougherty.com,B2B2C,SaaS,Active
+startup_692,"Bean, Fox and Nelson",Triple-buffered encompassing archive grow web-enabled convergence,PropTech,Seattle,2015-10-01,Series C,214,"https://bean,foxandnelson.com",Marketplace,Transaction,Active
+startup_693,Mendoza-Jacobs,Fully-configurable discrete conglomeration empower scalable networks,EdTech,San Francisco,2023-06-06,Series B,224,https://mendoza-jacobs.com,B2B2C,Freemium,Active
+startup_694,DataEngine,Virtual eco-centric capability facilitate compelling metrics,PropTech,Miami,2017-06-29,Series C,407,https://dataengine.com,B2C,SaaS,Active
+startup_695,Reilly,Implemented web-enabled application reinvent granular platforms,Gaming,Phoenix,2013-03-31,Growth,215,https://reilly.com,B2C,Advertising,Active
+startup_696,VertexAnalytics,Balanced eco-centric protocol strategize cross-media ROI,E-commerce,Denver,2012-05-02,Series A,50,https://vertexanalytics.com,B2B,Advertising,Active
+startup_697,GlobalEngine,Triple-buffered transitional application monetize virtual metrics,IoT,Philadelphia,2014-01-17,Seed,500,https://globalengine.com,Marketplace,Commission,Active
+startup_698,Dillon,Profit-focused empowering success seize innovative e-tailers,MarTech,San Diego,2016-11-22,Series C,263,https://dillon.com,B2B,Advertising,Acquired
+startup_699,PrimeLogic,Compatible asymmetric process improvement envisioneer global eyeballs,IoT,Denver,2012-12-12,Series A,146,https://primelogic.com,Marketplace,Advertising,Active
+startup_700,Fox-Hicks,Devolved optimizing function generate transparent methodologies,E-commerce,Austin,2018-02-12,Pre-seed,83,https://fox-hicks.com,Marketplace,Freemium,Active
+startup_701,CloudAnalytics,De-engineered logistical projection deliver global channels,AI/ML,Atlanta,2012-02-21,Growth,466,https://cloudanalytics.com,B2B,Commission,Active
+startup_702,CyberHub,Multi-layered interactive implementation integrate bricks-and-clicks mindshare,Gaming,Phoenix,2019-12-06,Series B,347,https://cyberhub.com,Marketplace,Advertising,Active
+startup_703,SmartLabs,Upgradable didactic methodology strategize intuitive action-items,PropTech,Los Angeles,2016-10-18,Growth,140,https://smartlabs.com,B2B,SaaS,Active
+startup_704,ApexPlatform,Customer-focused even-keeled hierarchy architect ubiquitous methodologies,MarTech,San Francisco,2024-01-10,Seed,242,https://apexplatform.com,B2B2C,Freemium,Active
+startup_705,"Vincent, Hodges and Young",Persistent high-level project engage efficient niches,InsurTech,Denver,2014-06-09,Series B,146,"https://vincent,hodgesandyoung.com",Platform,Commission,Active
+startup_706,DigitalSystems,Pre-emptive national hierarchy transition enterprise mindshare,SaaS,Denver,2010-12-18,Growth,261,https://digitalsystems.com,B2C,SaaS,Closed
+startup_707,ApexSystems,Grass-roots well-modulated installation expedite vertical supply-chains,Blockchain,Nashville,2012-03-08,Series C,187,https://apexsystems.com,Marketplace,Transaction,Active
+startup_708,Edwards-Henderson,Organized executive info-mediaries reinvent B2B action-items,InsurTech,Chicago,2015-12-05,Series A,172,https://edwards-henderson.com,B2B2C,Commission,Active
+startup_709,"Williams, Campbell and Wilkins",Inverse demand-driven hardware grow extensible partnerships,SaaS,Philadelphia,2015-06-27,Pre-seed,172,"https://williams,campbellandwilkins.com",B2B,Commission,Active
+startup_710,FusionSolutions,Decentralized hybrid parallelism e-enable virtual experiences,E-commerce,Dallas,2019-04-19,Seed,263,https://fusionsolutions.com,Marketplace,Advertising,Active
+startup_711,"Webb, Evans and Rodriguez",Robust attitude-oriented function brand global communities,AgriTech,Denver,2012-07-13,Series C,235,"https://webb,evansandrodriguez.com",B2B2C,Commission,Closed
+startup_712,"Huffman, Moore and Hart",Upgradable uniform projection utilize synergistic e-commerce,MarTech,Nashville,2011-03-14,Series C,181,"https://huffman,mooreandhart.com",Platform,Commission,Active
+startup_713,DataFlow,Monitored reciprocal hub iterate cross-platform systems,E-commerce,San Francisco,2022-03-28,Series B,179,https://dataflow.com,B2B2C,Freemium,Active
+startup_714,"Warren, Hood and Ramirez",Persevering radical model evolve seamless markets,PropTech,San Diego,2017-03-31,Pre-seed,108,"https://warren,hoodandramirez.com",B2B,Commission,Active
+startup_715,NeuralCore,Synchronized bifurcated interface deploy cross-platform users,Cybersecurity,Philadelphia,2018-05-16,Growth,347,https://neuralcore.com,B2C,Freemium,Closed
+startup_716,"Noble, Mcdonald and Morales",Fully-configurable demand-driven attitude enhance rich methodologies,AI/ML,Boston,2015-11-23,Series B,358,"https://noble,mcdonaldandmorales.com",B2B2C,Commission,Active
+startup_717,FusionTechnologies,Customer-focused eco-centric toolset exploit one-to-one functionalities,E-commerce,San Francisco,2010-08-03,Growth,455,https://fusiontechnologies.com,Platform,Transaction,Active
+startup_718,"Cunningham, Brown and King",Synergistic tangible archive envisioneer world-class interfaces,AI/ML,Denver,2018-03-20,Series A,294,"https://cunningham,brownandking.com",B2B2C,Advertising,Active
+startup_719,FusionAnalytics,Profit-focused full-range Graphical User Interface generate extensible schemas,FinTech,San Diego,2018-10-12,Growth,146,https://fusionanalytics.com,Platform,Advertising,Active
+startup_720,DataSolutions,Business-focused fault-tolerant middleware whiteboard extensible web-readiness,SaaS,Seattle,2024-11-29,Pre-seed,229,https://datasolutions.com,B2B2C,Advertising,Active
+startup_721,MetaNetwork,Multi-channeled 24/7 implementation harness B2C action-items,HealthTech,Boston,2022-10-22,Pre-seed,292,https://metanetwork.com,B2B2C,Advertising,Closed
+startup_722,SecureCore,Sharable 6thgeneration Local Area Network benchmark web-enabled e-services,PropTech,Phoenix,2014-07-14,Series B,268,https://securecore.com,Platform,Transaction,Active
+startup_723,Howe-Johns,Persistent solution-oriented help-desk mesh cross-media synergies,MarTech,Chicago,2016-02-29,Growth,496,https://howe-johns.com,B2B2C,Transaction,Active
+startup_724,NeuralLabs,Multi-layered executive toolset matrix frictionless convergence,MarTech,Phoenix,2020-03-21,Series C,13,https://neurallabs.com,Platform,Freemium,Active
+startup_725,Smith Group,Adaptive leadingedge groupware architect bricks-and-clicks content,HRTech,New York,2012-05-06,Seed,157,https://smithgroup.com,Platform,Advertising,Active
+startup_726,CyberFlow,Intuitive global complexity architect one-to-one communities,Cybersecurity,Washington DC,2014-06-07,Series C,468,https://cyberflow.com,B2B,Advertising,Active
+startup_727,"Davis, Johnson and Mcpherson",Automated hybrid task-force visualize synergistic mindshare,EdTech,Washington DC,2016-04-01,Pre-seed,128,"https://davis,johnsonandmcpherson.com",B2C,Freemium,Active
+startup_728,Grimes-Mitchell,Managed bifurcated forecast envisioneer viral platforms,MarTech,Austin,2018-02-22,Series C,236,https://grimes-mitchell.com,B2B,Commission,Active
+startup_729,CloudAnalytics,Programmable modular structure redefine back-end communities,EdTech,Dallas,2011-06-21,Series C,115,https://cloudanalytics.com,B2B,Transaction,Active
+startup_730,Thomas,Face-to-face even-keeled focus group deploy integrated metrics,FoodTech,Boston,2016-03-08,Series B,309,https://thomas.com,Marketplace,Freemium,Active
+startup_731,GlobalLogic,Enterprise-wide user-facing solution incentivize bleeding-edge supply-chains,Cybersecurity,San Francisco,2025-03-31,Series B,100,https://globallogic.com,B2B,Advertising,Active
+startup_732,DigitalEngine,Public-key full-range frame scale front-end systems,PropTech,Denver,2013-03-12,Series A,222,https://digitalengine.com,B2B,Transaction,Active
+startup_733,SecureBase,Assimilated system-worthy complexity harness cross-platform networks,HRTech,Nashville,2015-04-23,Growth,431,https://securebase.com,Marketplace,Commission,Active
+startup_734,SecurePlatform,Persevering well-modulated Internet solution deploy bricks-and-clicks e-commerce,CleanTech,Dallas,2010-07-20,Growth,293,https://secureplatform.com,B2B,Commission,Active
+startup_735,DigitalPlatform,Innovative incremental customer loyalty expedite killer mindshare,LegalTech,Portland,2014-09-25,Growth,139,https://digitalplatform.com,B2B2C,Commission,Active
+startup_736,ApexAnalytics,Customizable multi-state migration brand intuitive methodologies,Blockchain,Denver,2012-03-28,Series B,475,https://apexanalytics.com,B2C,SaaS,Active
+startup_737,FusionDynamics,Phased attitude-oriented analyzer scale revolutionary vortals,MarTech,Dallas,2024-12-17,Series A,118,https://fusiondynamics.com,B2B2C,Commission,Active
+startup_738,"Jenkins, Nguyen and Sandoval",Open-source asymmetric adapter cultivate collaborative systems,AI/ML,Philadelphia,2024-01-18,Pre-seed,477,"https://jenkins,nguyenandsandoval.com",B2B2C,SaaS,Active
+startup_739,CyberFlow,Extended 3rdgeneration service-desk productize distributed interfaces,AgriTech,Denver,2023-02-08,Growth,158,https://cyberflow.com,B2C,SaaS,Active
+startup_740,DataLabs,Vision-oriented transitional database harness killer systems,FinTech,New York,2024-05-10,Series C,200,https://datalabs.com,B2B,Commission,IPO
+startup_741,RapidCore,Expanded asymmetric system engine synthesize sticky schemas,IoT,Atlanta,2010-08-16,Pre-seed,216,https://rapidcore.com,Marketplace,Freemium,Active
+startup_742,CyberPlatform,Horizontal object-oriented time-frame exploit one-to-one networks,AgriTech,Atlanta,2022-06-25,Series B,397,https://cyberplatform.com,Platform,Advertising,Active
+startup_743,GlobalFlow,Progressive global migration revolutionize ubiquitous relationships,SaaS,Washington DC,2016-03-10,Series C,438,https://globalflow.com,B2B,Transaction,Active
+startup_744,Price-Flores,Public-key even-keeled budgetary management enhance seamless partnerships,LegalTech,Boston,2017-12-17,Series A,371,https://price-flores.com,B2B2C,SaaS,Active
+startup_745,Glover-Smith,Horizontal object-oriented encoding scale rich initiatives,HealthTech,Seattle,2022-05-05,Seed,12,https://glover-smith.com,Platform,Transaction,Active
+startup_746,Ramirez-Flynn,Realigned 24hour hierarchy morph efficient users,SaaS,Austin,2012-07-08,Pre-seed,149,https://ramirez-flynn.com,Platform,Transaction,Active
+startup_747,"Peterson, Shepard and Holland",Adaptive asynchronous benchmark deliver leading-edge relationships,AgriTech,Nashville,2024-12-28,Pre-seed,385,"https://peterson,shepardandholland.com",Platform,SaaS,Active
+startup_748,Pham and Sons,Expanded value-added info-mediaries engage best-of-breed methodologies,MarTech,Washington DC,2018-08-27,Pre-seed,202,https://phamandsons.com,Marketplace,Transaction,Active
+startup_749,MetaSystems,Reactive tertiary paradigm syndicate impactful models,AI/ML,Los Angeles,2019-12-22,Series A,479,https://metasystems.com,B2B,Advertising,Active
+startup_750,Wang,Multi-channeled impactful Internet solution embrace B2B schemas,SaaS,New York,2011-07-01,Series A,307,https://wang.com,Platform,Commission,Active
+startup_751,PrimeLabs,Re-engineered next generation artificial intelligence syndicate bricks-and-clicks mindshare,HRTech,Portland,2014-07-11,Series B,73,https://primelabs.com,B2B2C,Transaction,Active
+startup_752,RapidSystems,Devolved modular attitude revolutionize front-end vortals,Gaming,San Francisco,2013-03-12,Seed,251,https://rapidsystems.com,Marketplace,Advertising,Active
+startup_753,Brown-Cook,User-centric next generation attitude seize turn-key convergence,AgriTech,Los Angeles,2018-06-22,Pre-seed,313,https://brown-cook.com,Platform,Advertising,Active
+startup_754,"Stevens, Young and Best",Front-line optimizing architecture unleash killer e-markets,HRTech,Boston,2014-06-08,Series C,444,"https://stevens,youngandbest.com",B2B,Transaction,Active
+startup_755,VertexLabs,Proactive incremental success whiteboard sticky portals,Gaming,Austin,2022-04-17,Series C,106,https://vertexlabs.com,B2B,Commission,Active
+startup_756,SecureCore,Horizontal interactive attitude implement out-of-the-box communities,SaaS,New York,2023-08-24,Growth,364,https://securecore.com,B2C,Transaction,Active
+startup_757,"Mays, Patton and Martinez",Integrated intangible firmware disintermediate frictionless metrics,IoT,Dallas,2018-03-13,Pre-seed,7,"https://mays,pattonandmartinez.com",B2C,SaaS,Active
+startup_758,"Burch, Moreno and Thomas",Phased national synergy strategize seamless niches,AI/ML,Denver,2019-03-19,Series C,123,"https://burch,morenoandthomas.com",B2B2C,Advertising,Active
+startup_759,DigitalHub,Grass-roots incremental throughput innovate global relationships,AI/ML,New York,2022-07-05,Series A,36,https://digitalhub.com,B2B2C,Commission,Active
+startup_760,CloudSolutions,Business-focused clear-thinking intranet synthesize one-to-one synergies,CleanTech,Los Angeles,2024-12-05,Seed,153,https://cloudsolutions.com,B2B2C,SaaS,Active
+startup_761,"Taylor, Allen and Harvey",Seamless mobile conglomeration evolve leading-edge eyeballs,Gaming,Chicago,2019-05-13,Series B,102,"https://taylor,allenandharvey.com",B2B,Commission,Active
+startup_762,Holloway-Vaughan,Synergistic fresh-thinking concept evolve 24/7 partnerships,FinTech,Atlanta,2014-05-16,Seed,354,https://holloway-vaughan.com,Platform,Freemium,Active
+startup_763,SecureBase,Assimilated systematic synergy embrace mission-critical e-markets,HRTech,Philadelphia,2014-09-19,Series B,186,https://securebase.com,B2B2C,Commission,Active
+startup_764,InfiniteAnalytics,Networked optimizing access streamline bleeding-edge web-readiness,Gaming,Chicago,2023-07-28,Pre-seed,62,https://infiniteanalytics.com,Platform,Freemium,IPO
+startup_765,Sullivan,Secured even-keeled utilization engage cross-platform synergies,HealthTech,Los Angeles,2017-03-24,Seed,102,https://sullivan.com,Platform,SaaS,Active
+startup_766,VertexSolutions,Synchronized interactive orchestration utilize front-end synergies,FinTech,Seattle,2013-03-09,Pre-seed,143,https://vertexsolutions.com,B2B,Freemium,Active
+startup_767,ApexAnalytics,Persevering intermediate frame streamline enterprise portals,HRTech,Miami,2018-05-11,Pre-seed,472,https://apexanalytics.com,B2B2C,Transaction,Active
+startup_768,"Prince, Guzman and Ramirez",Inverse empowering functionalities re-contextualize synergistic niches,HRTech,Denver,2018-11-21,Series B,341,"https://prince,guzmanandramirez.com",Platform,SaaS,Active
+startup_769,RapidLabs,Synergistic non-volatile pricing structure transform granular paradigms,AgriTech,Phoenix,2014-02-15,Pre-seed,464,https://rapidlabs.com,Platform,SaaS,Active
+startup_770,SmartSystems,Front-line upward-trending solution utilize next-generation e-business,PropTech,New York,2023-06-05,Pre-seed,219,https://smartsystems.com,Marketplace,SaaS,Active
+startup_771,RapidEngine,Grass-roots optimizing concept cultivate enterprise content,HRTech,Atlanta,2020-09-07,Series A,184,https://rapidengine.com,B2B2C,Advertising,Active
+startup_772,QuantumPlatform,Persistent non-volatile help-desk productize customized architectures,FoodTech,Philadelphia,2022-06-06,Seed,112,https://quantumplatform.com,B2B,Commission,Active
+startup_773,SecureSystems,Proactive coherent artificial intelligence strategize distributed functionalities,EdTech,San Diego,2013-07-27,Series B,235,https://securesystems.com,B2B2C,Commission,Active
+startup_774,SmartDynamics,Exclusive context-sensitive collaboration unleash transparent technologies,FoodTech,Portland,2010-09-15,Pre-seed,194,https://smartdynamics.com,Marketplace,Advertising,Active
+startup_775,CloudBase,Secured incremental portal incubate viral convergence,CleanTech,Portland,2020-07-27,Growth,466,https://cloudbase.com,B2C,Freemium,Active
+startup_776,Klein PLC,Synergistic systematic hub reinvent web-enabled synergies,FinTech,Chicago,2012-10-18,Series A,320,https://kleinplc.com,Marketplace,Advertising,Active
+startup_777,"Rodriguez, Carter and Molina",Visionary human-resource installation leverage distributed e-commerce,Blockchain,Dallas,2023-12-22,Growth,426,"https://rodriguez,carterandmolina.com",B2B,Commission,Active
+startup_778,ApexSystems,Customizable needs-based architecture utilize enterprise infrastructures,AgriTech,Chicago,2022-08-08,Pre-seed,23,https://apexsystems.com,B2B,Advertising,Active
+startup_779,Jacobson and Sons,Extended bi-directional strategy innovate turn-key infrastructures,MarTech,Chicago,2021-01-15,Series A,497,https://jacobsonandsons.com,B2B,Transaction,Active
+startup_780,Jackson-Jenkins,Diverse 6thgeneration alliance optimize customized applications,E-commerce,San Francisco,2024-06-06,Series B,110,https://jackson-jenkins.com,Platform,Transaction,Active
+startup_781,"Gibson, Lee and Young",Sharable encompassing archive syndicate user-centric niches,HealthTech,Seattle,2024-06-09,Seed,450,"https://gibson,leeandyoung.com",Marketplace,Transaction,Active
+startup_782,"Henderson, Delgado and Jones",Phased tertiary success benchmark extensible models,InsurTech,Miami,2020-09-27,Seed,79,"https://henderson,delgadoandjones.com",Platform,Transaction,Active
+startup_783,Fletcher and Sons,Exclusive local data-warehouse disintermediate robust paradigms,Blockchain,Portland,2013-04-13,Series C,116,https://fletcherandsons.com,Platform,Transaction,Active
+startup_784,DigitalPlatform,Sharable full-range core scale synergistic communities,IoT,Chicago,2016-08-09,Series A,456,https://digitalplatform.com,Platform,Advertising,Acquired
+startup_785,Hayes-Harrison,Synergized global standardization transform granular methodologies,Blockchain,Portland,2018-09-27,Growth,172,https://hayes-harrison.com,B2B2C,Transaction,Closed
+startup_786,SmartBase,Versatile logistical time-frame incentivize web-enabled deliverables,MarTech,Austin,2015-06-18,Growth,290,https://smartbase.com,B2B2C,Commission,Active
+startup_787,RapidNetwork,Advanced interactive project exploit scalable communities,Gaming,Phoenix,2023-04-23,Series A,396,https://rapidnetwork.com,B2C,Advertising,IPO
+startup_788,SmartDynamics,Upgradable bottom-line secured line orchestrate dynamic portals,PropTech,Nashville,2019-01-20,Series C,278,https://smartdynamics.com,B2B2C,Advertising,Active
+startup_789,"Jacobs, Gregory and Rubio",Decentralized neutral functionalities grow extensible supply-chains,AI/ML,Seattle,2017-02-22,Series A,138,"https://jacobs,gregoryandrubio.com",B2B2C,Transaction,Active
+startup_790,FusionBase,Face-to-face bi-directional Internet solution generate innovative e-services,Blockchain,Chicago,2013-04-10,Series C,237,https://fusionbase.com,Marketplace,Freemium,Active
+startup_791,NeuralAnalytics,Triple-buffered composite structure e-enable proactive initiatives,FinTech,Denver,2019-09-04,Series A,345,https://neuralanalytics.com,B2B,Advertising,Active
+startup_792,DigitalBase,Progressive directional extranet streamline proactive deliverables,PropTech,Boston,2022-05-30,Series A,6,https://digitalbase.com,B2C,SaaS,Active
+startup_793,Garcia and Sons,Integrated bi-directional firmware envisioneer back-end communities,FoodTech,Portland,2016-02-29,Pre-seed,31,https://garciaandsons.com,B2B,Transaction,Active
+startup_794,"Crawford, Smith and Ray",Fully-configurable web-enabled architecture synergize leading-edge platforms,FinTech,Dallas,2017-08-25,Growth,52,"https://crawford,smithandray.com",Marketplace,Transaction,Active
+startup_795,DataFlow,Distributed grid-enabled portal harness web-enabled platforms,Cybersecurity,Philadelphia,2017-09-28,Pre-seed,480,https://dataflow.com,B2B,Commission,Active
+startup_796,DataHub,Team-oriented mission-critical product extend compelling convergence,AgriTech,Dallas,2020-04-17,Series A,137,https://datahub.com,B2B2C,Commission,Active
+startup_797,QuantumNetwork,Function-based responsive secured line empower world-class portals,FinTech,Denver,2013-01-10,Seed,494,https://quantumnetwork.com,B2B,Advertising,Active
+startup_798,DigitalTechnologies,Business-focused 24/7 benchmark strategize synergistic synergies,AI/ML,New York,2010-07-23,Series A,392,https://digitaltechnologies.com,B2C,Freemium,Active
+startup_799,SmartSolutions,Face-to-face contextually-based toolset monetize customized web services,FoodTech,Miami,2010-10-14,Series C,31,https://smartsolutions.com,B2B2C,Advertising,Active
