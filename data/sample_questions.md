@@ -1,7 +1,7 @@
 # Core Assessment Questions (8 total)
 ## Basic Functionality (2 questions)
 
-- "How many startups are in the FinTech industry?"
+- "How many startups are in the [specific industry] industry?"
 - "What technologies does [specific startup name] use?"
 
 ## Similarity Algorithms (4 questions - the main focus)
@@ -17,4 +17,4 @@
 
 ## Business Application (1 question)
 
-- "If I'm a founder starting an EdTech company, which VCs should I target based on similar successful investments?"
+- "If I'm a founder starting an [specific industry] company, which VCs should I target based on similar successful investments?"
